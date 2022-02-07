@@ -1,7 +1,7 @@
 import test, {ExecutionContext } from 'ava';
 import { create } from 'xmlbuilder2';
 
-test('xml generating', (t:ExecutionContext) => {
+test.skip('xml generating', (t:ExecutionContext) => {
 
   const root = create({ version: '1.0' })
     .ele('root', { att: 'val' })
