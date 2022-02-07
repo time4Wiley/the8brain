@@ -21,6 +21,12 @@ test('doc type', (t:ExecutionContext) => {
     .ele("Attributes")
     .up()
     .ele("Thoughts")
+    .ele("Thought")
+    .ele('guid').txt('026D04F7-7CE3-360A-20B5-8487606E2367').up()
+    .ele('name').txt('Cat').up()
+    .ele('label').txt('smiley').up()
+
+    .up()
     .up()
     .ele("Links").up().ele('Entries').up().ele('Attachments').up()
 
