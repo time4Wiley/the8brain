@@ -4,6 +4,7 @@ specifiers:
   '@ava/typescript': ^1.1.1
   '@bitauth/libauth': ^1.17.1
   '@istanbuljs/nyc-config-typescript': ^1.0.1
+  '@types/node': ^17.0.15
   '@typescript-eslint/eslint-plugin': ^4.0.1
   '@typescript-eslint/parser': ^4.0.1
   ava: ^3.12.1
@@ -27,6 +28,7 @@ specifiers:
 
 dependencies:
   '@bitauth/libauth': 1.19.1
+  '@types/node': 17.0.15
 
 devDependencies:
   '@ava/typescript': 1.1.1
@@ -36,7 +38,7 @@ devDependencies:
   ava: 3.15.0
   codecov: 3.8.3
   cspell: 4.2.8
-  cz-conventional-changelog: 3.3.0
+  cz-conventional-changelog: 3.3.0_@types+node@17.0.15
   eslint: 7.32.0
   eslint-config-prettier: 6.15.0_eslint@7.32.0
   eslint-plugin-eslint-comments: 3.2.0_eslint@7.32.0
@@ -289,7 +291,7 @@ packages:
     dev: true
     optional: true
 
-  /@commitlint/load/16.1.0:
+  /@commitlint/load/16.1.0_@types+node@17.0.15:
     resolution: {integrity: sha512-MtlEhKjP8jAF85jjX4mw8DUUwCxKsCgAc865hhpnwxjrfBcmGP7Up2AFE/M3ZMGDmSl1X1TMybQk/zohj8Cqdg==}
     engines: {node: '>=v12'}
     requiresBuild: true
@@ -300,7 +302,7 @@ packages:
       '@commitlint/types': 16.0.0
       chalk: 4.1.2
       cosmiconfig: 7.0.1
-      cosmiconfig-typescript-loader: 1.0.4_typescript@4.5.5
+      cosmiconfig-typescript-loader: 1.0.4_2659dc6620f2255efe6a8f122d014e4b
       lodash: 4.17.21
       resolve-from: 5.0.0
       typescript: 4.5.5
@@ -641,6 +643,10 @@ packages:
   /@types/minimist/1.2.2:
     resolution: {integrity: sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==}
     dev: true
+
+  /@types/node/17.0.15:
+    resolution: {integrity: sha512-zWt4SDDv1S9WRBNxLFxFRHxdD9tvH8f5/kg5/IaLFdnSNXsDY4eL3Q3XXN+VxUnWIhyVFDwcsmAprvwXoM/ClA==}
+    dev: false
 
   /@types/normalize-package-data/2.4.1:
     resolution: {integrity: sha512-Gj7cI7z+98M282Tqmp2K5EIsoouUEzbBJhQQzDE3jSIRk6r9gsz0oUokqIUR4u1R3dMHo0pDHM7sNOHyhulypw==}
@@ -1392,13 +1398,13 @@ packages:
       repeat-string: 1.6.1
     dev: true
 
-  /commitizen/4.2.4:
+  /commitizen/4.2.4_@types+node@17.0.15:
     resolution: {integrity: sha512-LlZChbDzg3Ir3O2S7jSo/cgWp5/QwylQVr59K4xayVq8S4/RdKzSyJkghAiZZHfhh5t4pxunUoyeg0ml1q/7aw==}
     engines: {node: '>= 10'}
     hasBin: true
     dependencies:
       cachedir: 2.2.0
-      cz-conventional-changelog: 3.2.0
+      cz-conventional-changelog: 3.2.0_@types+node@17.0.15
       dedent: 0.7.0
       detect-indent: 6.0.0
       find-node-modules: 2.1.2
@@ -1656,15 +1662,16 @@ packages:
     resolution: {integrity: sha512-ZQBvi1DcpJ4GDqanjucZ2Hj3wEO5pZDS89BWbkcrvdxksJorwUDDZamX9ldFkp9aw2lmBDLgkObEA4DWNJ9FYQ==}
     dev: true
 
-  /cosmiconfig-typescript-loader/1.0.4_typescript@4.5.5:
+  /cosmiconfig-typescript-loader/1.0.4_2659dc6620f2255efe6a8f122d014e4b:
     resolution: {integrity: sha512-ulv2dvwurP/MZAIthXm69bO7EzzIUThZ6RJ1qXhdlXM6to3F+IKBL/17EnhYSG52A5N1KcAUu66vSG/3/77KrA==}
     engines: {node: '>=12', npm: '>=6'}
     peerDependencies:
       '@types/node': '*'
       typescript: '>=3'
     dependencies:
+      '@types/node': 17.0.15
       cosmiconfig: 7.0.1
-      ts-node: 10.4.0_typescript@4.5.5
+      ts-node: 10.4.0_2659dc6620f2255efe6a8f122d014e4b
       typescript: 4.5.5
     transitivePeerDependencies:
       - '@swc/core'
@@ -1814,36 +1821,36 @@ packages:
       array-find-index: 1.0.2
     dev: true
 
-  /cz-conventional-changelog/3.2.0:
+  /cz-conventional-changelog/3.2.0_@types+node@17.0.15:
     resolution: {integrity: sha512-yAYxeGpVi27hqIilG1nh4A9Bnx4J3Ov+eXy4koL3drrR+IO9GaWPsKjik20ht608Asqi8TQPf0mczhEeyAtMzg==}
     engines: {node: '>= 10'}
     dependencies:
       chalk: 2.4.2
-      commitizen: 4.2.4
+      commitizen: 4.2.4_@types+node@17.0.15
       conventional-commit-types: 3.0.0
       lodash.map: 4.6.0
       longest: 2.0.1
       word-wrap: 1.2.3
     optionalDependencies:
-      '@commitlint/load': 16.1.0
+      '@commitlint/load': 16.1.0_@types+node@17.0.15
     transitivePeerDependencies:
       - '@swc/core'
       - '@swc/wasm'
       - '@types/node'
     dev: true
 
-  /cz-conventional-changelog/3.3.0:
+  /cz-conventional-changelog/3.3.0_@types+node@17.0.15:
     resolution: {integrity: sha512-U466fIzU5U22eES5lTNiNbZ+d8dfcHcssH4o7QsdWaCcRs/feIPCxKYSWkYBNs5mny7MvEfwpTLWjvbm94hecw==}
     engines: {node: '>= 10'}
     dependencies:
       chalk: 2.4.2
-      commitizen: 4.2.4
+      commitizen: 4.2.4_@types+node@17.0.15
       conventional-commit-types: 3.0.0
       lodash.map: 4.6.0
       longest: 2.0.1
       word-wrap: 1.2.3
     optionalDependencies:
-      '@commitlint/load': 16.1.0
+      '@commitlint/load': 16.1.0_@types+node@17.0.15
     transitivePeerDependencies:
       - '@swc/core'
       - '@swc/wasm'
@@ -5103,7 +5110,7 @@ packages:
       escape-string-regexp: 1.0.5
     dev: true
 
-  /ts-node/10.4.0_typescript@4.5.5:
+  /ts-node/10.4.0_2659dc6620f2255efe6a8f122d014e4b:
     resolution: {integrity: sha512-g0FlPvvCXSIO1JDF6S232P5jPYqBkRL9qly81ZgAOSU7rwI0stphCgd2kLiCrU9DjQCrJMWEqcNSjQL02s6d8A==}
     hasBin: true
     peerDependencies:
@@ -5122,6 +5129,7 @@ packages:
       '@tsconfig/node12': 1.0.9
       '@tsconfig/node14': 1.0.1
       '@tsconfig/node16': 1.0.2
+      '@types/node': 17.0.15
       acorn: 8.7.0
       acorn-walk: 8.2.0
       arg: 4.1.3
