@@ -1,8 +1,3 @@
-/***********
-generated template classes for /Users/wei/thinking/thebrain/TheBrain8.xsd 2/7/2022, 5:23:23 AM
-***********/
-
-
 export class TheBrain8 {
     public guid: Guid;
     public name: Name;
@@ -49,22 +44,22 @@ export class TheBrain8 {
     public isEditable: IsEditable;
     public orderRank: OrderRank;
     public dataType: DataType;
-    public brainData: BrainData;
-    public source: Source;
+    public brainData: BrainData | undefined;
+    public source: Source | undefined;
     public attributes: Attribute[];
-    public attribute: Attribute;
+    public attribute: Attribute | undefined;
     public thoughts: Thought[];
-    public thought: Thought;
+    public thought: Thought | undefined;
     public links: Link[];
-    public link: Link;
+    public link: Link | undefined;
     public attributeDatas: AttributeData[];
-    public attributeData: AttributeData;
+    public attributeData: AttributeData | undefined;
     public entries: Entry[];
-    public entry: Entry;
+    public entry: Entry | undefined;
     public entryObjects: EntryObject[];
-    public entryObject: EntryObject;
+    public entryObject: EntryObject | undefined;
     public attachments: Attachment[];
-    public attachment: Attachment;
+    public attachment: Attachment | undefined;
     public attachmentEntries: AttachmentEntryID[];
 
     public constructor(props?: TheBrain8) {
@@ -150,7 +145,7 @@ export class BrainData {
 
         if (props) {
 
-        	this.Source = (props.Source) ? new Source(props.Source): undefined;
+        	this.Source = new Source(props.Source);
         	this.Attributes = props.Attributes?.map(o => new Attribute(o));
         	this.Thoughts = props.Thoughts?.map(o => new Thought(o));
         	this.Links = props.Links?.map(o => new Link(o));
