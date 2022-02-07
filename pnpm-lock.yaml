@@ -23,6 +23,7 @@ specifiers:
   nyc: ^15.1.0
   open-cli: ^6.0.1
   prettier: ^2.1.1
+  reflect-metadata: ^0.1.13
   standard-version: ^9.0.0
   ts-node: ^9.0.0
   typedoc: ^0.19.0
@@ -35,6 +36,7 @@ dependencies:
   '@types/node': 17.0.15
   class-transformer: 0.5.1
   moment: 2.29.1
+  reflect-metadata: 0.1.13
   uuid: 8.3.2
   xml-js: 1.6.11
 
@@ -4424,6 +4426,10 @@ packages:
       indent-string: 4.0.0
       strip-indent: 3.0.0
     dev: true
+
+  /reflect-metadata/0.1.13:
+    resolution: {integrity: sha512-Ts1Y/anZELhSsjMcU605fU9RE4Oi3p5ORujwbIKXfWa+0Zxs510Qrmrce5/Jowq3cHSZSJqBjypxmHarc+vEWg==}
+    dev: false
 
   /regexpp/3.2.0:
     resolution: {integrity: sha512-pq2bWo9mVD43nbts2wGv17XLiNLya+GklZ8kaDLV2Z08gDCsGpnKn9BFMepvWuHCbyVvY7J5o5+BVvoQbmlJLg==}
