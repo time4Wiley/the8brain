@@ -68,8 +68,6 @@ export class TheBrain8 {
     public attachmentEntries: AttachmentEntryID[];
 
     public constructor(props?: TheBrain8) {
-        this["@class"] = ".TheBrain8";
-
 
         if (props) {
 
@@ -149,8 +147,6 @@ export class BrainData {
     public Attachments: Attachment[];
 
     public constructor(props?: BrainData) {
-        this["@class"] = ".BrainData";
-
 
         if (props) {
 
@@ -177,8 +173,6 @@ export class Source {
     public modificationDateTime: ModificationDateTime;
 
     public constructor(props?: Source) {
-        this["@class"] = ".Source";
-
 
         if (props) {
 
@@ -207,8 +201,6 @@ export class Attribute {
     public dataType: DataType;
 
     public constructor(props?: Attribute) {
-        this["@class"] = ".Attribute";
-
 
         if (props) {
 
@@ -241,8 +233,6 @@ export class Thought {
     public accessControlType: AccessControlType;
 
     public constructor(props?: Thought) {
-        this["@class"] = ".Thought";
-
 
         if (props) {
 
@@ -282,8 +272,6 @@ export class Link {
     public linkTypeID: LinkTypeID;
 
     public constructor(props?: Link) {
-        this["@class"] = ".Link";
-
 
         if (props) {
 
@@ -317,8 +305,6 @@ export class AttributeData {
     public deletedDateTime: DeletedDateTime;
 
     public constructor(props?: AttributeData) {
-        this["@class"] = ".AttributeData";
-
 
         if (props) {
 
@@ -342,8 +328,6 @@ export class Entry {
     public deletedDateTime: DeletedDateTime;
 
     public constructor(props?: Entry) {
-        this["@class"] = ".Entry";
-
 
         if (props) {
 
@@ -362,8 +346,6 @@ export class EntryObject {
     public objectID: ObjectID;
 
     public constructor(props?: EntryObject) {
-        this["@class"] = ".EntryObject";
-
 
         if (props) {
 
@@ -387,8 +369,6 @@ export class Attachment {
     public deletedDateTime: DeletedDateTime;
 
     public constructor(props?: Attachment) {
-        this["@class"] = ".Attachment";
-
 
         if (props) {
 
