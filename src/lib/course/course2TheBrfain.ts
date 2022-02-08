@@ -1,8 +1,9 @@
-import { spawn } from 'child_process';
 import fs from 'fs';
 
 import { plainToClass } from 'class-transformer';
+
 import 'reflect-metadata';
+import { pbCopy } from '../utils';
 
 import { Course } from './Course';
 
@@ -12,12 +13,6 @@ const dataArray = JSON.parse(
     'utf-8'
   )
 );
-
-function pbCopy(data: string) {
-  const proc = spawn('pbcopy');
-  proc.stdin.write(data);
-  proc.stdin.end();
-}
 
 pbCopy('test string');
 
