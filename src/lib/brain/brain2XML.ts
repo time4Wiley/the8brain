@@ -24,10 +24,10 @@ export function brain2XML(brain: TheBrain8) {
   for (const [key, [plural, singular]] of Object.entries(pluralMapping)) {
     console.log(key);
     const eForMany = eBrainData.ele(plural);
-    for (const values of brain[key]) {
+    for (const obj of brain[key]) {
       const eForOne = eForMany.ele(singular);
-      Object.keys(values).forEach((attr: string) => {
-        const value = values[attr];
+      Object.keys(obj).forEach((attr: string) => {
+        const value = obj[attr];
         if (typeof value === 'string') {
           eForOne.ele(attr).txt(value);
         } else if (Array.isArray(value)) {
