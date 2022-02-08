@@ -23,9 +23,6 @@ test('thoughts', (t: ExecutionContext) => {
 
   for (const [key, [pural, singular]] of Object.entries(puralMapping)) {
     console.log(key);
-    console.log(pural, singular);
-
-    // Thoughts
     const eForMany = eBrainData.ele(pural);
     for (const values of brain[key]) {
       const eForOne = eForMany.ele(singular);

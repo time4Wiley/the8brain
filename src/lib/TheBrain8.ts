@@ -46,19 +46,19 @@ export class TheBrain8 {
   public dataType: DataType;
   public brainData: BrainData | undefined;
   public source: Source | undefined;
-  public attributes: Attribute[];
+  public attributes: Attribute[] = [];
   public attribute: Attribute | undefined;
-  public thoughts: Thought[];
+  public thoughts: Thought[] = [];
   public thought: Thought | undefined;
-  public links: Link[];
+  public links: Link[] = [];
   public link: Link | undefined;
-  public attributeDatas: AttributeData[];
+  public attributeDatas: AttributeData[] = [];
   public attributeData: AttributeData | undefined;
-  public entries: Entry[];
+  public entries: Entry[] = [];
   public entry: Entry | undefined;
-  public entryObjects: EntryObject[];
+  public entryObjects: EntryObject[] = [];
   public entryObject: EntryObject | undefined;
-  public attachments: Attachment[];
+  public attachments: Attachment[] = [];
   public attachment: Attachment | undefined;
   public attachmentEntries: AttachmentEntryID[];
 
