@@ -2,7 +2,6 @@ import test, { ExecutionContext } from 'ava';
 import { create } from 'xmlbuilder2';
 
 import { log_xml_for_root } from '../../tesUtils';
-import { Thought } from '../TheBrain8';
 
 import { brainToXML } from './brainToXML';
 
@@ -13,7 +12,7 @@ test('thoughts', (t: ExecutionContext) => {
 
   const root = create().dtd({}).doc();
   const eBrainData = root.ele('BrainData');
-  const puralMapping = {
+  const pluralMapping = {
     thoughts: ['Thoughts', 'Thought'],
     attributes: ['Attributes', 'Attribute'],
     links: ['Links', 'Link'],
@@ -21,9 +20,9 @@ test('thoughts', (t: ExecutionContext) => {
     attachments: ['Attachments', 'Attachment'],
   };
 
-  for (const [key, [pural, singular]] of Object.entries(puralMapping)) {
+  for (const [key, [plural, singular]] of Object.entries(pluralMapping)) {
     console.log(key);
-    const eForMany = eBrainData.ele(pural);
+    const eForMany = eBrainData.ele(plural);
     for (const values of brain[key]) {
       const eForOne = eForMany.ele(singular);
       Object.keys(values).forEach((attr: string) => {
