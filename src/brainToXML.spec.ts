@@ -1,7 +1,8 @@
 import test, {ExecutionContext } from 'ava';
 import { create } from 'xmlbuilder2';
+import { brainToXML } from './brainToXML';
 
-test('brain2xml', (t:ExecutionContext) => {
+test.skip('brain2xml', (t:ExecutionContext) => {
 
   const root = create({version: '1.0', encoding:'UTF-8'}).ele({});
 
@@ -11,7 +12,11 @@ test('brain2xml', (t:ExecutionContext) => {
   t.true(true)
 })
 
-test('doc type', (t:ExecutionContext) => {
+function log_xml_for_root(root: XMLBuilder) {
+  console.log(root.end({ prettyPrint: true }));
+}
+
+test.skip('doc type curry', (t:ExecutionContext) => {
 
   const root = create().dtd({}).doc()
 
@@ -30,7 +35,24 @@ test('doc type', (t:ExecutionContext) => {
     .up()
     .ele("Links").up().ele('Entries').up().ele('Attachments').up()
 
-  console.log(root.end({ prettyPrint: true }))
+  log_xml_for_root(root);
   t.true(true)
 
+})
+
+test('TheBrain8', (t:ExecutionContext) => {
+  const brain8 = brainToXML();
+  const doc = create(brain8);
+  console.log(doc.end({ prettyPrint: true }))
+  t.true(true)
+
+})
+
+test('xml spreading', (t:ExecutionContext) => {
+    const root = create().dtd({}).doc()
+  root.ele("BrainData")
+    .ele("Source")
+    .up()
+    log_xml_for_root(root)
+    t.true(true)
 })

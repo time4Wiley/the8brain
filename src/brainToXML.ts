@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 
 import { TheBrain8, Thought } from './lib/TheBrain8';
 
-export function brainToXML() {
+export function brainToXML():TheBrain8 {
   const brain = new TheBrain8();
 
   const thought = new Thought();
@@ -15,6 +15,7 @@ export function brainToXML() {
   thought.realModificationDateTime = nowInString;
   brain.thoughts = [];
   brain.thoughts.push(thought);
+  brain.thoughts.push({...thought});
 
 // const courseXML = js2xml(course, {compact:false})
 //
@@ -22,4 +23,5 @@ export function brainToXML() {
 //
 // console.log(xml)
 // console.log(courseXML)
+  return brain;
 }
