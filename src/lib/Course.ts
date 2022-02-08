@@ -1,21 +1,16 @@
-import { Type } from "class-transformer";
+import { Type } from 'class-transformer';
 
 export class Lecture {
-  constructor(public url: string, public title: string) {
-
-  }
-
+  constructor(public url: string, public title: string) {}
 }
 
 export class Section {
-
   @Type(() => Lecture)
   public lectures: Lecture[];
 
   constructor(public title: string) {
     this.lectures = [];
   }
-
 
   addLecture(lecture: Lecture) {
     this.lectures.push(lecture);
@@ -35,18 +30,18 @@ export class Course {
   }
 
   toTextOutline(): string {
-    const suffix = ', ZTM'
+    const suffix = ', ZTM';
 
-    const textOutlines:string[] = []
+    const textOutlines: string[] = [];
 
     for (const section of this.sections) {
-      textOutlines.push(section.title + suffix)
+      textOutlines.push(section.title + suffix);
       for (const lecture of section.lectures) {
-        textOutlines.push("\t" + lecture.title + suffix)
-        textOutlines.push("\t\t" + '+ ' + lecture.url)
+        textOutlines.push('\t' + lecture.title + suffix);
+        textOutlines.push('\t\t' + '+ ' + lecture.url);
       }
     }
 
-    return textOutlines.join("\n")
+    return textOutlines.join('\n');
   }
 }
