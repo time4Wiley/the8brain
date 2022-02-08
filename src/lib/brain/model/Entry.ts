@@ -11,7 +11,7 @@ import { EntryObject } from './EntryObject';
 
 export class Entry implements IChildKeyForArrayProperty {
   public guid: Guid;
-  public EntryObjects: EntryObject[];
+  public EntryObjects: EntryObject[] = [];
   public body: Body;
   public creationDateTime: CreationDateTime;
   public modificationDateTime: ModificationDateTime;

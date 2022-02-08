@@ -14,7 +14,7 @@ import {
 
 export class Attachment implements IChildKeyForArrayProperty {
   public guid: Guid;
-  public AttachmentEntries: AttachmentEntryID[];
+  public AttachmentEntries: AttachmentEntryID[] = [];
   public objectID: ObjectID;
   public name: Name;
   public attachmentType: number;

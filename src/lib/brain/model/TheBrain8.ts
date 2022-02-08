@@ -54,12 +54,11 @@ import { BrainData } from './BrainData';
 import { Entry } from './Entry';
 import { EntryObject } from './EntryObject';
 import { Link } from './Link';
+import { LinkDir } from './LinkDir';
 import { Source } from './Source';
 import { Thought } from './Thought';
 
 export class TheBrain8 implements IRawParams {
-  // [k: string]: any;
-
   public guid: Guid;
   public name: Name;
   public personalBrainVersion: PersonalBrainVersion;
@@ -122,6 +121,8 @@ export class TheBrain8 implements IRawParams {
   public attachments: Attachment[] = [];
   public attachment: Attachment | undefined;
   public attachmentEntries: AttachmentEntryID[];
+
+  [k: string]: any;
 
   public constructor(props?: TheBrain8) {
     if (props) {
@@ -244,5 +245,25 @@ export class TheBrain8 implements IRawParams {
     this.addThought(thought);
 
     return thought;
+  }
+
+  linkParentToChild(parent: Thought, child: Thought) {
+    const idA = parent.guid;
+    const idB = child.guid;
+
+    const link = Link.build(idA, idB, LinkDir.ParentChild);
+
+    this.addLink(link);
+  }
+
+  jumpLink(tA: Thought, tB: Thought) {
+    this.addLink(Link.build(tA.guid, tB.guid, LinkDir.Jump));
+  }
+
+  addSourceWithHomeThought(homeThoughtGuid: Guid, brainName: string): void {
+    this.source = Source.buildSourceForHomeThoughtIDWithName(
+      homeThoughtGuid,
+      brainName
+    );
   }
 }

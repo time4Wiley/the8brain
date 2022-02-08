@@ -1,9 +1,10 @@
 import { create } from 'xmlbuilder2';
+import { XMLBuilder } from 'xmlbuilder2/lib/interfaces';
 
 import { mapObjectToXMLElement } from '../../xmlbuilder/xmlBuilderUtil';
 import { TheBrain8 } from '../model/TheBrain8';
 
-export function brain2XML(brain: TheBrain8) {
+export function brain2XML(brain: TheBrain8): XMLBuilder {
   const root = create().dtd({}).doc();
   const eBrainData = root.ele('BrainData');
   const pluralMapping = {

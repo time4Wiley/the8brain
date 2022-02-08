@@ -1,3 +1,5 @@
+import { v4 as uuidv4 } from 'uuid';
+
 import {
   BrainXmlSettings,
   FileRoot,
@@ -6,15 +8,14 @@ import {
   HomeThoughtGuid,
   ModificationDateTime,
   Name,
-  PersonalBrainVersion,
-  TelepathyVersion,
 } from '../../TheBrain8';
+import { getNowInTheBrainStringFormat } from '../../utils';
 
 export class Source {
   public guid: Guid;
   public name: Name;
-  public personalBrainVersion: PersonalBrainVersion;
-  public telepathyVersion: TelepathyVersion;
+  public personalBrainVersion: number;
+  public telepathyVersion: number;
   public fileRoot: FileRoot;
   public generatedDateTime: GeneratedDateTime;
   public homeThoughtGuid: HomeThoughtGuid;
@@ -33,5 +34,21 @@ export class Source {
       this.brainXmlSettings = props.brainXmlSettings;
       this.modificationDateTime = props.modificationDateTime;
     }
+  }
+
+  static buildSourceForHomeThoughtIDWithName(
+    homeThoughtGuid: Guid,
+    brainName: string
+  ) {
+    const source = new Source();
+    source.guid = uuidv4();
+    source.name = brainName;
+    source.homeThoughtGuid = homeThoughtGuid;
+    source.generatedDateTime = getNowInTheBrainStringFormat();
+    source.modificationDateTime = getNowInTheBrainStringFormat();
+    source.personalBrainVersion = 8022;
+    source.telepathyVersion = 10;
+
+    return source;
   }
 }
