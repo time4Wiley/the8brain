@@ -376,7 +376,7 @@ export class EntryObject {
 
   public constructor(props?: EntryObject) {
     if (props) {
-      this.objectType = props.objectType;
+      this.objectType = props.objectType.toString();
       this.objectID = props.objectID;
     }
   }
