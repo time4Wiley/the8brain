@@ -2,11 +2,11 @@
 <!DOCTYPE BrainData>
 <BrainData>
   <Source>
-    <guid>a00082e8-d600-485d-bbdb-6d084580e46e</guid>
+    <guid>da471169-256c-40d6-b84b-45fe83d4c3a2</guid>
     <name>course brain</name>
-    <homeThoughtGuid>e16d7b0f-0436-4184-a86d-3269f3a49e5d</homeThoughtGuid>
-    <generatedDateTime>2022-02-09 07:09:19.632  @+0800</generatedDateTime>
-    <modificationDateTime>2022-02-09 07:09:19.632  @+0800</modificationDateTime>
+    <homeThoughtGuid>3d628dc3-992a-4075-82c1-8645b54d352b</homeThoughtGuid>
+    <generatedDateTime>2022-02-09 07:27:53.096  @+0800</generatedDateTime>
+    <modificationDateTime>2022-02-09 07:27:53.096  @+0800</modificationDateTime>
     <personalBrainVersion>8022</personalBrainVersion>
     <telepathyVersion>10</telepathyVersion>
   </Source>
@@ -14,102 +14,67 @@
   <Thoughts>
     <Thought>
       <name>a ZTM course: L2L</name>
-      <guid>e16d7b0f-0436-4184-a86d-3269f3a49e5d</guid>
-      <creationDateTime>2022-02-09 07:09:19.627  @+0800</creationDateTime>
-      <realModificationDateTime>2022-02-09 07:09:19.631  @+0800</realModificationDateTime>
-      <displayModificationDateTime>2022-02-09 07:09:19.631  @+0800</displayModificationDateTime>
-      <label>dummy label</label>
-    </Thought>
-    <Thought>
-      <name>Introduction</name>
-      <guid>4f5ff718-435d-480c-aa68-45f7d1e92c12</guid>
-      <creationDateTime>2022-02-09 07:09:19.632  @+0800</creationDateTime>
-      <realModificationDateTime>2022-02-09 07:09:19.632  @+0800</realModificationDateTime>
-      <displayModificationDateTime>2022-02-09 07:09:19.632  @+0800</displayModificationDateTime>
-    </Thought>
-    <Thought>
-      <name>Learning to Learn [Efficient Learning]: Zero to Mastery Blueprint (3:56)</name>
-      <guid>0a4f55ff-a379-48fc-8eb8-e7327081366d</guid>
-      <creationDateTime>2022-02-09 07:09:19.632  @+0800</creationDateTime>
-      <realModificationDateTime>2022-02-09 07:09:19.633  @+0800</realModificationDateTime>
-      <displayModificationDateTime>2022-02-09 07:09:19.633  @+0800</displayModificationDateTime>
+      <guid>3d628dc3-992a-4075-82c1-8645b54d352b</guid>
+      <creationDateTime>2022-02-09 07:27:53.091  @+0800</creationDateTime>
+      <realModificationDateTime>2022-02-09 07:27:53.095  @+0800</realModificationDateTime>
+      <displayModificationDateTime>2022-02-09 07:27:53.095  @+0800</displayModificationDateTime>
       <label>dummy label</label>
     </Thought>
   </Thoughts>
-  <Links>
-    <Link>
-      <guid>b6caf2cf-07fb-4c80-bea0-8f887b53a625</guid>
-      <idA>e16d7b0f-0436-4184-a86d-3269f3a49e5d</idA>
-      <idB>4f5ff718-435d-480c-aa68-45f7d1e92c12</idB>
-      <isBackward>0</isBackward>
-      <isType>0</isType>
-      <color>0</color>
-      <thickness>0</thickness>
-      <strength>0</strength>
-      <meaning>0</meaning>
-      <creationDateTime>2022-02-09 07:09:19.632  @+0800</creationDateTime>
-      <modificationDateTime>2022-02-09 07:09:19.632  @+0800</modificationDateTime>
-      <dir>1</dir>
-    </Link>
-    <Link>
-      <guid>5da93304-38a5-4106-a9b2-a79abca4beb4</guid>
-      <idA>4f5ff718-435d-480c-aa68-45f7d1e92c12</idA>
-      <idB>0a4f55ff-a379-48fc-8eb8-e7327081366d</idB>
-      <isBackward>0</isBackward>
-      <isType>0</isType>
-      <color>0</color>
-      <thickness>0</thickness>
-      <strength>0</strength>
-      <meaning>0</meaning>
-      <creationDateTime>2022-02-09 07:09:19.633  @+0800</creationDateTime>
-      <modificationDateTime>2022-02-09 07:09:19.633  @+0800</modificationDateTime>
-      <dir>1</dir>
-    </Link>
-  </Links>
+  <Links/>
   <Entries>
     <Entry>
       <EntryObjects>
         <EntryObject>
           <objectType>0</objectType>
-          <objectID>e16d7b0f-0436-4184-a86d-3269f3a49e5d</objectID>
+          <objectID>3d628dc3-992a-4075-82c1-8645b54d352b</objectID>
         </EntryObject>
       </EntryObjects>
-      <guid>033930d3-66ed-4fde-8b34-e450704ee500</guid>
-      <creationDateTime>2022-02-09 07:09:19.632  @+0800</creationDateTime>
-      <modificationDateTime>2022-02-09 07:09:19.632  @+0800</modificationDateTime>
-    </Entry>
-    <Entry>
-      <EntryObjects>
-        <EntryObject>
-          <objectType>0</objectType>
-          <objectID>0a4f55ff-a379-48fc-8eb8-e7327081366d</objectID>
-        </EntryObject>
-      </EntryObjects>
-      <guid>a3e64ade-6847-4e0b-8229-fbd8e5cd9c22</guid>
-      <creationDateTime>2022-02-09 07:09:19.633  @+0800</creationDateTime>
-      <modificationDateTime>2022-02-09 07:09:19.633  @+0800</modificationDateTime>
+      <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0
+        Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt;&amp;lt;html
+        xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+        &amp;lt;head&amp;gt;
+        &amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive!
+        9.1.0.119&amp;quot; /&amp;gt;
+        &amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain
+        8.0.2.2&amp;quot; /&amp;gt;
+        &amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html;
+        charset=UTF-8&amp;quot; /&amp;gt;
+        &amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+        body {
+        font-family: Arial; font-size: small; background: #ffffff; color:
+        #000000;
+        }
+        p {
+        margin-top: 0pt; margin-bottom: 0pt;
+        }
+        &amp;lt;/style&amp;gt;
+        &amp;lt;/head&amp;gt;
+        &amp;lt;body&amp;gt;
+        &amp;lt;p&amp;gt;B note&amp;lt;/p&amp;gt;
+        &amp;lt;/body&amp;gt;
+        &amp;lt;/html&amp;gt;
+      </body>
+      <format>HTML</format>
+      <guid>c048df9d-f430-4594-93eb-e4bf2f908ee7</guid>
+      <creationDateTime>2022-02-09 07:27:53.095  @+0800</creationDateTime>
+      <modificationDateTime>2022-02-09 07:27:53.096  @+0800</modificationDateTime>
     </Entry>
   </Entries>
   <Attachments>
     <Attachment>
       <AttachmentEntries>
-        <AttachmentEntryID>033930d3-66ed-4fde-8b34-e450704ee500</AttachmentEntryID>
+        <AttachmentEntryID>c048df9d-f430-4594-93eb-e4bf2f908ee7</AttachmentEntryID>
       </AttachmentEntries>
       <attachmentType>3</attachmentType>
       <location>http://zerotomastery.io</location>
-      <creationDateTime>2022-02-09 07:09:19.631  @+0800</creationDateTime>
-      <modificationDateTime>2022-02-09 07:09:19.631  @+0800</modificationDateTime>
+      <creationDateTime>2022-02-09 07:27:53.095  @+0800</creationDateTime>
+      <modificationDateTime>2022-02-09 07:27:53.095  @+0800</modificationDateTime>
       <format>.com</format>
-    </Attachment>
-    <Attachment>
-      <AttachmentEntries>
-        <AttachmentEntryID>a3e64ade-6847-4e0b-8229-fbd8e5cd9c22</AttachmentEntryID>
-      </AttachmentEntries>
-      <attachmentType>3</attachmentType>
-      <location>https://academy.zerotomastery.io/courses/776308/lectures/14101990</location>
-      <creationDateTime>2022-02-09 07:09:19.633  @+0800</creationDateTime>
-      <modificationDateTime>2022-02-09 07:09:19.633  @+0800</modificationDateTime>
-      <format>.com</format>
+      <guid>7863d56e-21ad-429c-bb82-c258ebbe7c0c</guid>
+      <name>attachment name</name>
+      <objectID>3d628dc3-992a-4075-82c1-8645b54d352b</objectID>
+      <dataLength>0</dataLength>
     </Attachment>
   </Attachments>
 </BrainData>
