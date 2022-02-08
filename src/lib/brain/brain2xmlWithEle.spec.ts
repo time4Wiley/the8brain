@@ -18,6 +18,7 @@ test.skip('thoughts', (t: ExecutionContext) => {
     links: ['Links', 'Link'],
     entries: ['Entries', 'Entry'],
     attachments: ['Attachments', 'Attachment'],
+    entryObjects: ['EntryObjects', 'EntryObject'],
   };
 
   for (const [key, [plural, singular]] of Object.entries(pluralMapping)) {
