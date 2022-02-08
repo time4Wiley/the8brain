@@ -1,3 +1,5 @@
+import { IChildKeyForArrayProperty } from './IChildKeyForArrayProperty';
+
 interface IRawParams {
   [key: string]: any;
 }
@@ -340,7 +342,7 @@ export class AttributeData {
   }
 }
 
-export class Entry {
+export class Entry implements IChildKeyForArrayProperty {
   public guid: Guid;
   public EntryObjects: EntryObject[];
   public body: Body;
@@ -358,6 +360,14 @@ export class Entry {
       this.deletedDateTime = props.deletedDateTime;
     }
   }
+
+  private childKeyForArrayProperty: { [key: string]: string } = {
+    EntryObjects: 'EntryObject',
+  };
+
+  getKeyForPropertyChild(propertyName: string): string {
+    return this.childKeyForArrayProperty[propertyName];
+  }
 }
 
 export class EntryObject {
@@ -372,7 +382,7 @@ export class EntryObject {
   }
 }
 
-export class Attachment {
+export class Attachment implements IChildKeyForArrayProperty {
   public guid: Guid;
   public AttachmentEntries: AttachmentEntryID[];
   public objectID: ObjectID;
@@ -384,6 +394,14 @@ export class Attachment {
   public creationDateTime: CreationDateTime;
   public modificationDateTime: ModificationDateTime;
   public deletedDateTime: DeletedDateTime;
+
+  private childKeyForArrayProperty: { [key: string]: string } = {
+    AttachmentEntries: 'AttachmentEntryID',
+  };
+
+  public getKeyForPropertyChild(propertyName: string): string {
+    return this.childKeyForArrayProperty[propertyName];
+  }
 
   public constructor(props?: Attachment) {
     if (props) {

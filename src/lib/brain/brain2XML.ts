@@ -2,6 +2,7 @@ import { create } from 'xmlbuilder2';
 
 import { log_xml_for_root } from '../../tesUtils';
 import { TheBrain8 } from '../TheBrain8';
+import { mapObjectToXMLElement } from '../xmlbuilder/xmlBuilderUtil';
 
 import { parseBrain8XML } from './parseBrain8XMLFunc';
 
@@ -26,14 +27,8 @@ export function brain2XML(brain: TheBrain8) {
     const eForMany = eBrainData.ele(plural);
     for (const obj of brain[key]) {
       const eForOne = eForMany.ele(singular);
-      Object.keys(obj).forEach((attr: string) => {
-        const value = obj[attr];
-        if (typeof value === 'string') {
-          eForOne.ele(attr).txt(value);
-        } else if (Array.isArray(value)) {
-          console.log('pass');
-        }
-      });
+
+      mapObjectToXMLElement(obj, eForOne);
     }
   }
   return root;
