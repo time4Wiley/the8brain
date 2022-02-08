@@ -60,7 +60,7 @@ export class Thought {
     url: string
   ): [thought: Thought, entry: Entry, attachment: Attachment] {
     const thought = this.buildThoughtForTitle(name);
-
+    label = 'dummy label';
     thought.label = label;
 
     const attachment = new Attachment();
