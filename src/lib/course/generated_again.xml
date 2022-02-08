@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE BrainData>
+<BrainData>
+  <Source>
+    <guid>a00082e8-d600-485d-bbdb-6d084580e46e</guid>
+    <name>course brain</name>
+    <homeThoughtGuid>e16d7b0f-0436-4184-a86d-3269f3a49e5d</homeThoughtGuid>
+    <generatedDateTime>2022-02-09 07:09:19.632  @+0800</generatedDateTime>
+    <modificationDateTime>2022-02-09 07:09:19.632  @+0800</modificationDateTime>
+    <personalBrainVersion>8022</personalBrainVersion>
+    <telepathyVersion>10</telepathyVersion>
+  </Source>
+  <Attributes/>
+  <Thoughts>
+    <Thought>
+      <name>a ZTM course: L2L</name>
+      <guid>e16d7b0f-0436-4184-a86d-3269f3a49e5d</guid>
+      <creationDateTime>2022-02-09 07:09:19.627  @+0800</creationDateTime>
+      <realModificationDateTime>2022-02-09 07:09:19.631  @+0800</realModificationDateTime>
+      <displayModificationDateTime>2022-02-09 07:09:19.631  @+0800</displayModificationDateTime>
+      <label>dummy label</label>
+    </Thought>
+    <Thought>
+      <name>Introduction</name>
+      <guid>4f5ff718-435d-480c-aa68-45f7d1e92c12</guid>
+      <creationDateTime>2022-02-09 07:09:19.632  @+0800</creationDateTime>
+      <realModificationDateTime>2022-02-09 07:09:19.632  @+0800</realModificationDateTime>
+      <displayModificationDateTime>2022-02-09 07:09:19.632  @+0800</displayModificationDateTime>
+    </Thought>
+    <Thought>
+      <name>Learning to Learn [Efficient Learning]: Zero to Mastery Blueprint (3:56)</name>
+      <guid>0a4f55ff-a379-48fc-8eb8-e7327081366d</guid>
+      <creationDateTime>2022-02-09 07:09:19.632  @+0800</creationDateTime>
+      <realModificationDateTime>2022-02-09 07:09:19.633  @+0800</realModificationDateTime>
+      <displayModificationDateTime>2022-02-09 07:09:19.633  @+0800</displayModificationDateTime>
+      <label>dummy label</label>
+    </Thought>
+  </Thoughts>
+  <Links>
+    <Link>
+      <guid>b6caf2cf-07fb-4c80-bea0-8f887b53a625</guid>
+      <idA>e16d7b0f-0436-4184-a86d-3269f3a49e5d</idA>
+      <idB>4f5ff718-435d-480c-aa68-45f7d1e92c12</idB>
+      <isBackward>0</isBackward>
+      <isType>0</isType>
+      <color>0</color>
+      <thickness>0</thickness>
+      <strength>0</strength>
+      <meaning>0</meaning>
+      <creationDateTime>2022-02-09 07:09:19.632  @+0800</creationDateTime>
+      <modificationDateTime>2022-02-09 07:09:19.632  @+0800</modificationDateTime>
+      <dir>1</dir>
+    </Link>
+    <Link>
+      <guid>5da93304-38a5-4106-a9b2-a79abca4beb4</guid>
+      <idA>4f5ff718-435d-480c-aa68-45f7d1e92c12</idA>
+      <idB>0a4f55ff-a379-48fc-8eb8-e7327081366d</idB>
+      <isBackward>0</isBackward>
+      <isType>0</isType>
+      <color>0</color>
+      <thickness>0</thickness>
+      <strength>0</strength>
+      <meaning>0</meaning>
+      <creationDateTime>2022-02-09 07:09:19.633  @+0800</creationDateTime>
+      <modificationDateTime>2022-02-09 07:09:19.633  @+0800</modificationDateTime>
+      <dir>1</dir>
+    </Link>
+  </Links>
+  <Entries>
+    <Entry>
+      <EntryObjects>
+        <EntryObject>
+          <objectType>0</objectType>
+          <objectID>e16d7b0f-0436-4184-a86d-3269f3a49e5d</objectID>
+        </EntryObject>
+      </EntryObjects>
+      <guid>033930d3-66ed-4fde-8b34-e450704ee500</guid>
+      <creationDateTime>2022-02-09 07:09:19.632  @+0800</creationDateTime>
+      <modificationDateTime>2022-02-09 07:09:19.632  @+0800</modificationDateTime>
+    </Entry>
+    <Entry>
+      <EntryObjects>
+        <EntryObject>
+          <objectType>0</objectType>
+          <objectID>0a4f55ff-a379-48fc-8eb8-e7327081366d</objectID>
+        </EntryObject>
+      </EntryObjects>
+      <guid>a3e64ade-6847-4e0b-8229-fbd8e5cd9c22</guid>
+      <creationDateTime>2022-02-09 07:09:19.633  @+0800</creationDateTime>
+      <modificationDateTime>2022-02-09 07:09:19.633  @+0800</modificationDateTime>
+    </Entry>
+  </Entries>
+  <Attachments>
+    <Attachment>
+      <AttachmentEntries>
+        <AttachmentEntryID>033930d3-66ed-4fde-8b34-e450704ee500</AttachmentEntryID>
+      </AttachmentEntries>
+      <attachmentType>3</attachmentType>
+      <location>http://zerotomastery.io</location>
+      <creationDateTime>2022-02-09 07:09:19.631  @+0800</creationDateTime>
+      <modificationDateTime>2022-02-09 07:09:19.631  @+0800</modificationDateTime>
+      <format>.com</format>
+    </Attachment>
+    <Attachment>
+      <AttachmentEntries>
+        <AttachmentEntryID>a3e64ade-6847-4e0b-8229-fbd8e5cd9c22</AttachmentEntryID>
+      </AttachmentEntries>
+      <attachmentType>3</attachmentType>
+      <location>https://academy.zerotomastery.io/courses/776308/lectures/14101990</location>
+      <creationDateTime>2022-02-09 07:09:19.633  @+0800</creationDateTime>
+      <modificationDateTime>2022-02-09 07:09:19.633  @+0800</modificationDateTime>
+      <format>.com</format>
+    </Attachment>
+  </Attachments>
+</BrainData>
