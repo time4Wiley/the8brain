@@ -349,6 +349,9 @@ export class Entry implements IChildKeyForArrayProperty {
   public creationDateTime: CreationDateTime;
   public modificationDateTime: ModificationDateTime;
   public deletedDateTime: DeletedDateTime;
+  private childKeyForArrayProperty: { [key: string]: string } = {
+    EntryObjects: 'EntryObject',
+  };
 
   public constructor(props?: Entry) {
     if (props) {
@@ -360,10 +363,6 @@ export class Entry implements IChildKeyForArrayProperty {
       this.deletedDateTime = props.deletedDateTime;
     }
   }
-
-  private childKeyForArrayProperty: { [key: string]: string } = {
-    EntryObjects: 'EntryObject',
-  };
 
   getKeyForPropertyChild(propertyName: string): string {
     return this.childKeyForArrayProperty[propertyName];
@@ -399,10 +398,6 @@ export class Attachment implements IChildKeyForArrayProperty {
     AttachmentEntries: 'AttachmentEntryID',
   };
 
-  public getKeyForPropertyChild(propertyName: string): string {
-    return this.childKeyForArrayProperty[propertyName];
-  }
-
   public constructor(props?: Attachment) {
     if (props) {
       this.guid = props.guid;
@@ -417,6 +412,10 @@ export class Attachment implements IChildKeyForArrayProperty {
       this.modificationDateTime = props.modificationDateTime;
       this.deletedDateTime = props.deletedDateTime;
     }
+  }
+
+  public getKeyForPropertyChild(propertyName: string): string {
+    return this.childKeyForArrayProperty[propertyName];
   }
 }
 

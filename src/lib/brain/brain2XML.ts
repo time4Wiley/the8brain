@@ -14,11 +14,6 @@ export function brain2XML(brain: TheBrain8) {
     attachments: ['Attachments', 'Attachment'],
   };
 
-  // const subPluralMapping = {
-  //   entryObjects: ['EntryObjects', 'EntryObject'],
-  //   attachmentEntries: ['AttachmentEntries', 'AttachmentEntry'],
-  // };
-
   const sourceElement = eBrainData.ele('Source');
 
   mapObjectToXMLElement(brain.source, sourceElement);
