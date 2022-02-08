@@ -5,8 +5,12 @@ import { isIChildKeyForArrayProperty } from '../IChildKeyForArrayProperty';
 export function mapObjectToXMLElement(obj: any, root: XMLBuilder): void {
   Object.keys(obj).forEach((attr: string) => {
     const value = obj[attr];
-    if (typeof value === 'string') {
-      root.ele(attr).txt(value);
+    if (
+      typeof value === 'string' ||
+      typeof value === 'number' ||
+      typeof value === 'boolean'
+    ) {
+      root.ele(attr).txt(value.toString());
     } else if (Array.isArray(value)) {
       if (isIChildKeyForArrayProperty(obj)) {
         const childKey = obj.getKeyForPropertyChild(attr);
@@ -28,4 +32,8 @@ export function mapObjectToXMLElement(obj: any, root: XMLBuilder): void {
       }
     }
   });
+}
+
+export function generateXMLStringFromRootElement(root: XMLBuilder): string {
+  return root.end({ prettyPrint: true });
 }
