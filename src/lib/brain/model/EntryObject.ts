@@ -1,12 +1,12 @@
-import { ObjectID, ObjectType } from '../../TheBrain8';
+import { ObjectID } from '../../TheBrain8';
 
 export class EntryObject {
-  public objectType: ObjectType;
+  public objectType: number;
   public objectID: ObjectID;
 
   public constructor(props?: EntryObject) {
     if (props) {
-      this.objectType = props.objectType.toString();
+      this.objectType = props.objectType;
       this.objectID = props.objectID;
     }
   }

@@ -18,6 +18,8 @@ import {
 import { getNowInTheBrainStringFormat } from '../../utils';
 
 import { Attachment } from './Attachment';
+import { Entry } from './Entry';
+import { EntryObject } from './EntryObject';
 
 export class Thought {
   public guid: Guid;
@@ -52,7 +54,11 @@ export class Thought {
     }
   }
 
-  public static buildThought(name: string, label: string, url: string) {
+  public static buildThought(
+    name: string,
+    label: string,
+    url: string
+  ): [thought: Thought, entry: Entry, attachment: Attachment] {
     const thought = new Thought();
     thought.name = name;
     thought.label = label;
@@ -63,5 +69,18 @@ export class Thought {
     attachment.location = url;
     attachment.creationDateTime = getNowInTheBrainStringFormat();
     attachment.modificationDateTime = getNowInTheBrainStringFormat();
+    attachment.format = '.com';
+
+    const entry = new Entry();
+    entry.guid = uuidv4();
+    entry.EntryObjects.push(
+      new EntryObject({ objectID: thought.guid, objectType: 0 })
+    );
+    entry.creationDateTime = getNowInTheBrainStringFormat();
+    entry.modificationDateTime = getNowInTheBrainStringFormat();
+
+    attachment.AttachmentEntries.push(entry.guid);
+
+    return [thought, entry, attachment];
   }
 }
