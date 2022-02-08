@@ -39,10 +39,14 @@ export function parseBrain8XML() {
   }
   //Entries
   for (const entry of brainData.Entries.Entry) {
+    entry.EntryObjects = [entry.EntryObjects.EntryObject];
     brain.addEntry(new Entry(entry));
   }
   //Attachments
   for (const attachment of brainData.Attachments.Attachment) {
+    attachment.AttachmentEntries = [
+      attachment.AttachmentEntries.AttachmentEntry,
+    ];
     brain.addAttachment(new Attachment(attachment));
   }
   console.log(brain);
