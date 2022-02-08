@@ -146,6 +146,26 @@ export class TheBrain8 implements IRawParams {
       this.attachmentEntries = props.attachmentEntries?.map((o) => o);
     }
   }
+
+  addAttribute(attribute: Attribute) {
+    this.attributes.push(attribute);
+  }
+
+  addThought(thought: Thought) {
+    this.thoughts.push(thought);
+  }
+
+  addLink(link: Link) {
+    this.links.push(link);
+  }
+
+  addEntry(entry: Entry) {
+    this.entries.push(entry);
+  }
+
+  addAttachment(attachment: Attachment) {
+    this.attachments.push(attachment);
+  }
 }
 
 export class BrainData {
