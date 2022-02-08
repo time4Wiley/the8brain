@@ -5,19 +5,26 @@ import { log_xml_for_root } from '../../tesUtils';
 
 import { brainToXML } from './brainToXML';
 
-test('xml for brain in literal object', (t: ExecutionContext) => {
-  const brain = {
+test.skip('xml for brain in literal object', (t: ExecutionContext) => {
+  const brain8 = brainToXML();
+  console.log(brain8);
+  const brainObject = {
     BrainData: {
       Source: {},
       Attributes: {},
-      Thoughts: {},
+      Thoughts: [
+        {
+          Thought: {},
+        },
+        { Thought: {} },
+      ],
       Links: {},
       Entries: {},
       Attachments: {},
     },
   };
 
-  const root = create(brain);
+  const root = create(brainObject);
   log_xml_for_root(root);
 
   t.true(true);
