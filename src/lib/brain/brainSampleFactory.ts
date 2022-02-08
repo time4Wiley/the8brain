@@ -1,7 +1,9 @@
-import moment from 'moment';
 import { v4 as uuidv4 } from 'uuid';
 
-import { TheBrain8, Thought } from '../TheBrain8';
+import { getNowInTheBrainStringFormat } from '../utils';
+
+import { TheBrain8 } from './model/TheBrain8';
+import { Thought } from './model/Thought';
 
 export function brainSampleFactory(): TheBrain8 {
   const brain = new TheBrain8();
@@ -10,7 +12,7 @@ export function brainSampleFactory(): TheBrain8 {
   thought.guid = uuidv4();
   thought.label = 'Thought Label';
   thought.name = 'Thought Title';
-  const nowInString = moment(new Date()).format('yyyy-MM-dd HH:mm:ss.SSS');
+  const nowInString = getNowInTheBrainStringFormat();
   thought.creationDateTime = nowInString;
   thought.realModificationDateTime = nowInString;
   brain.thoughts = [];

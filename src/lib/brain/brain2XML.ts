@@ -1,7 +1,8 @@
 import { create } from 'xmlbuilder2';
 
-import { TheBrain8 } from '../TheBrain8';
 import { mapObjectToXMLElement } from '../xmlbuilder/xmlBuilderUtil';
+
+import { TheBrain8 } from './model/TheBrain8';
 
 export function brain2XML(brain: TheBrain8) {
   const root = create().dtd({}).doc();

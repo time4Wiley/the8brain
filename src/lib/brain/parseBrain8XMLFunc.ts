@@ -2,15 +2,13 @@ import fs from 'fs';
 
 import { XMLParser } from 'fast-xml-parser';
 
-import {
-  Attachment,
-  Attribute,
-  Entry,
-  Link,
-  Source,
-  TheBrain8,
-  Thought,
-} from '../TheBrain8';
+import { Attachment } from './model/Attachment';
+import { Attribute } from './model/Attribute';
+import { Entry } from './model/Entry';
+import { Link } from './model/Link';
+import { Source } from './model/Source';
+import { TheBrain8 } from './model/TheBrain8';
+import { Thought } from './model/Thought';
 
 export function parseBrain8XML() {
   const sampleBrainXMLFile = '/Users/wei/Lobby/the8brain/src/data/ABC.xml';
