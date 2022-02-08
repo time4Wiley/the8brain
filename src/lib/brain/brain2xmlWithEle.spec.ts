@@ -5,7 +5,7 @@ import { log_xml_for_root } from '../../tesUtils';
 
 import { brainToXML } from './brainToXML';
 
-test('thoughts', (t: ExecutionContext) => {
+test.skip('thoughts', (t: ExecutionContext) => {
   const brain = brainToXML();
 
   // console.log(brain);
