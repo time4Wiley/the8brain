@@ -18,7 +18,11 @@ test.skip('thoughts', (t: ExecutionContext) => {
     links: ['Links', 'Link'],
     entries: ['Entries', 'Entry'],
     attachments: ['Attachments', 'Attachment'],
+  };
+
+  const subPluralMapping = {
     entryObjects: ['EntryObjects', 'EntryObject'],
+    attachmentEntries: ['AttachmentEntries', 'AttachmentEntry'],
   };
 
   for (const [key, [plural, singular]] of Object.entries(pluralMapping)) {
@@ -30,6 +34,8 @@ test.skip('thoughts', (t: ExecutionContext) => {
         const value = values[attr];
         if (typeof value === 'string') {
           eForOne.ele(attr).txt(value);
+        } else if (Array.isArray(value)) {
+          console.log('pass');
         }
       });
     }

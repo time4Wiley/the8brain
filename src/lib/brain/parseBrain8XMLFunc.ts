@@ -45,7 +45,7 @@ export function parseBrain8XML() {
   //Attachments
   for (const attachment of brainData.Attachments.Attachment) {
     attachment.AttachmentEntries = [
-      attachment.AttachmentEntries.AttachmentEntry,
+      attachment.AttachmentEntries.attachmentEntryID,
     ];
     brain.addAttachment(new Attachment(attachment));
   }
