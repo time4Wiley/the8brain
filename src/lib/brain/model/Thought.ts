@@ -69,6 +69,9 @@ export class Thought {
     attachment.creationDateTime = getNowInTheBrainStringFormat();
     attachment.modificationDateTime = getNowInTheBrainStringFormat();
     attachment.format = '.com';
+    attachment.guid = uuidv4();
+    attachment.name = 'attachment name';
+    attachment.objectID = thought.guid;
 
     const entry = new Entry();
     entry.guid = uuidv4();
