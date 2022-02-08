@@ -27,6 +27,7 @@ specifiers:
   reflect-metadata: ^0.1.13
   standard-version: ^9.0.0
   ts-node: ^9.0.0
+  type-fest: ^2.11.2
   typedoc: ^0.19.0
   typescript: ^4.0.2
   uuid: ^8.3.2
@@ -39,6 +40,7 @@ dependencies:
   fast-xml-parser: 4.0.2
   moment: 2.29.1
   reflect-metadata: 0.1.13
+  type-fest: 2.11.2
   uuid: 8.3.2
   xmlbuilder2: 3.0.2
 
@@ -5242,6 +5244,11 @@ packages:
     resolution: {integrity: sha512-4dbzIzqvjtgiM5rw1k5rEHtBANKmdudhGyBEajN01fEyhaAIhsoKNy6y7+IN93IfpFtwY9iqi7kD+xwKhQsNJA==}
     engines: {node: '>=8'}
     dev: true
+
+  /type-fest/2.11.2:
+    resolution: {integrity: sha512-reW2Y2Mpn0QNA/5fvtm5doROLwDPu2zOm5RtY7xQQS05Q7xgC8MOZ3yPNaP9m/s/sNjjFQtHo7VCNqYW2iI+Ig==}
+    engines: {node: '>=12.20'}
+    dev: false
 
   /typedarray-to-buffer/3.1.5:
     resolution: {integrity: sha512-zdu8XMNEDepKKR+XYOXAVPtWui0ly0NtohUscw+UmaHiAWT8hrV1rr//H6V+0DvJ3OQ19S979M0laLfX8rm82Q==}
