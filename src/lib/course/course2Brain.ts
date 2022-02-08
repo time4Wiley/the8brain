@@ -13,7 +13,7 @@ import { Course } from './Course';
 export function getSampleCourse() {
   const courseJsonFromChrome = JSON.parse(
     fs.readFileSync(
-      '/Users/wei/Lobby/ZTM2Brain/src/data/ztm.sample.json',
+      '/Users/wei/Lobby/the8brain/src/data/ztm.sample.json',
       'utf-8'
     )
   );
