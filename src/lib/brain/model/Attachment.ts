@@ -1,7 +1,6 @@
 import { IChildKeyForArrayProperty } from '../../IChildKeyForArrayProperty';
 import {
   AttachmentEntryID,
-  AttachmentType,
   CreationDateTime,
   DataLength,
   DeletedDateTime,
