@@ -1,5 +1,6 @@
 import test, {ExecutionContext } from 'ava';
 import { create } from 'xmlbuilder2';
+import { XMLBuilder } from 'xmlbuilder2/lib/interfaces';
 import { brainToXML } from './brainToXML';
 
 test.skip('brain2xml', (t:ExecutionContext) => {
@@ -40,7 +41,7 @@ test.skip('doc type curry', (t:ExecutionContext) => {
 
 })
 
-test('TheBrain8', (t:ExecutionContext) => {
+test.skip('TheBrain8', (t:ExecutionContext) => {
   const brain8 = brainToXML();
   const doc = create(brain8);
   console.log(doc.end({ prettyPrint: true }))
@@ -55,4 +56,21 @@ test('xml spreading', (t:ExecutionContext) => {
     .up()
     log_xml_for_root(root)
     t.true(true)
+})
+
+test('xml from literal object', (t:ExecutionContext) => {
+  const obj = {
+    root: {
+      '@att': 'val',
+      foo: {
+        bar: 'foobar'
+      },
+      baz: {}
+    }
+  };
+
+  const doc = create(obj);
+  log_xml_for_root(doc)
+  t.true(true)
+
 })
