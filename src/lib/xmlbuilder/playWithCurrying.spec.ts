@@ -3,7 +3,7 @@ import { create } from 'xmlbuilder2';
 
 import { log_xml_for_root } from '../../tesUtils';
 
-test('ele, up', (t: ExecutionContext) => {
+test.skip('ele, up', (t: ExecutionContext) => {
   const root = create().dtd({}).doc();
 
   const brain = root.ele('brain');
