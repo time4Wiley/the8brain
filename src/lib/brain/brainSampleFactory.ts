@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 
 import { TheBrain8, Thought } from '../TheBrain8';
 
-export function brainToXML(): TheBrain8 {
+export function brainSampleFactory(): TheBrain8 {
   const brain = new TheBrain8();
 
   const thought = new Thought();

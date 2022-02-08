@@ -49,7 +49,6 @@ export function parseBrain8XML() {
     ];
     brain.addAttachment(new Attachment(attachment));
   }
-  console.log(brain);
-}
 
-parseBrain8XML();
+  return brain;
+}

@@ -3,10 +3,10 @@ import { create } from 'xmlbuilder2';
 
 import { log_xml_for_root } from '../../tesUtils';
 
-import { brainToXML } from './brainToXML';
+import { brainSampleFactory } from './brainSampleFactory';
 
 test.skip('xml for brain in literal object', (t: ExecutionContext) => {
-  const brain8 = brainToXML();
+  const brain8 = brainSampleFactory();
   console.log(brain8);
   const brainObject = {
     BrainData: {
@@ -31,7 +31,7 @@ test.skip('xml for brain in literal object', (t: ExecutionContext) => {
 });
 
 test.skip('TheBrain8', (t: ExecutionContext) => {
-  const brain8 = brainToXML();
+  const brain8 = brainSampleFactory();
   const doc = create(brain8);
   console.log(doc.end({ prettyPrint: true }));
   t.true(true);
