@@ -1,4 +1,10 @@
-export class TheBrain8 {
+interface IRawParams {
+  [key: string]: any;
+}
+
+export class TheBrain8 implements IRawParams {
+  [k: string]: any;
+
   public guid: Guid;
   public name: Name;
   public personalBrainVersion: PersonalBrainVersion;
