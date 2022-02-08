@@ -4,7 +4,7 @@ import fs from 'fs';
 import { plainToClass } from 'class-transformer';
 import 'reflect-metadata';
 
-import { Course } from '../Course';
+import { Course } from './Course';
 
 const dataArray = JSON.parse(
   fs.readFileSync(
