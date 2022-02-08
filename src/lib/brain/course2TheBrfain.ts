@@ -6,8 +6,6 @@ import 'reflect-metadata';
 
 import { Course } from '../Course';
 
-import { brainToXML } from './brainToXML';
-
 const dataArray = JSON.parse(
   fs.readFileSync(
     '/Users/wei/Lobby/ZTM2Brain/src/data/ztm.sample.json',
@@ -27,8 +25,5 @@ const courses = plainToClass(Course, [dataArray]);
 const course = courses[0];
 console.log(course);
 // to TheBrain text outline
-
-brainToXML();
-
 // brain.
 // reference the Python Code
