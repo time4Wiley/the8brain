@@ -1,14 +1,7 @@
-import fs from 'fs';
-
 import { create } from 'xmlbuilder2';
 
 import { TheBrain8 } from '../TheBrain8';
-import {
-  generateXMLStringFromRootElement,
-  mapObjectToXMLElement,
-} from '../xmlbuilder/xmlBuilderUtil';
-
-import { parseBrain8XML } from './parseBrain8XMLFunc';
+import { mapObjectToXMLElement } from '../xmlbuilder/xmlBuilderUtil';
 
 export function brain2XML(brain: TheBrain8) {
   const root = create().dtd({}).doc();
@@ -41,10 +34,3 @@ export function brain2XML(brain: TheBrain8) {
   }
   return root;
 }
-
-const brain = parseBrain8XML();
-
-const root = brain2XML(brain);
-
-const xmlString = generateXMLStringFromRootElement(root);
-fs.writeFileSync('generated.xml', xmlString);
