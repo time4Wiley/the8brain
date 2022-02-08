@@ -58,7 +58,7 @@ import { Source } from './Source';
 import { Thought } from './Thought';
 
 export class TheBrain8 implements IRawParams {
-  [k: string]: any;
+  // [k: string]: any;
 
   public guid: Guid;
   public name: Name;
@@ -220,5 +220,29 @@ export class TheBrain8 implements IRawParams {
 
   addAttachment(attachment: Attachment) {
     this.attachments.push(attachment);
+  }
+
+  addThoughtWithTitleLabelURL(
+    title: string,
+    label: string,
+    url: string
+  ): Thought {
+    const [thought, entry, attachment] = Thought.buildThought(
+      title,
+      label,
+      url
+    );
+    this.addThought(thought);
+    this.addEntry(entry);
+    this.addAttachment(attachment);
+
+    return thought;
+  }
+
+  addThoughtWithTitle(title: string): Thought {
+    const thought = Thought.buildThoughtForTitle(title);
+    this.addThought(thought);
+
+    return thought;
   }
 }

@@ -59,10 +59,9 @@ export class Thought {
     label: string,
     url: string
   ): [thought: Thought, entry: Entry, attachment: Attachment] {
-    const thought = new Thought();
-    thought.name = name;
+    const thought = this.buildThoughtForTitle(name);
+
     thought.label = label;
-    thought.guid = uuidv4();
 
     const attachment = new Attachment();
     attachment.attachmentType = 3;
@@ -82,5 +81,15 @@ export class Thought {
     attachment.AttachmentEntries.push(entry.guid);
 
     return [thought, entry, attachment];
+  }
+
+  static buildThoughtForTitle(title: string) {
+    const thought = new Thought();
+    thought.name = title;
+    thought.guid = uuidv4();
+    thought.creationDateTime = getNowInTheBrainStringFormat();
+    thought.realModificationDateTime = getNowInTheBrainStringFormat();
+    thought.displayModificationDateTime = getNowInTheBrainStringFormat();
+    return thought;
   }
 }
