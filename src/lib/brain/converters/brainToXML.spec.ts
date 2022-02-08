@@ -1,7 +1,7 @@
 import test, { ExecutionContext } from 'ava';
 import { create } from 'xmlbuilder2';
 
-import { log_xml_for_root } from '../../tesUtils';
+import { log_xml_for_root } from '../../../tesUtils';
 
 import { brainSampleFactory } from './brainSampleFactory';
 

@@ -2,8 +2,8 @@ import fs from 'fs';
 
 import test, { ExecutionContext } from 'ava';
 
-import { log_xml_for_root } from '../../tesUtils';
-import { generateXMLStringFromRootElement } from '../xmlbuilder/xmlBuilderUtil';
+import { log_xml_for_root } from '../../../tesUtils';
+import { generateXMLStringFromRootElement } from '../../xmlbuilder/xmlBuilderUtil';
 
 import { brain2XML } from './brain2XML';
 import { brainSampleFactory } from './brainSampleFactory';

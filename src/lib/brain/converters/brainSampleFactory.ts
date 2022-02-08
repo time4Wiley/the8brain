@@ -1,9 +1,8 @@
 import { v4 as uuidv4 } from 'uuid';
 
-import { getNowInTheBrainStringFormat } from '../utils';
-
-import { TheBrain8 } from './model/TheBrain8';
-import { Thought } from './model/Thought';
+import { getNowInTheBrainStringFormat } from '../../utils';
+import { TheBrain8 } from '../model/TheBrain8';
+import { Thought } from '../model/Thought';
 
 export function brainSampleFactory(): TheBrain8 {
   const brain = new TheBrain8();
