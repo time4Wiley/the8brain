@@ -20,6 +20,7 @@ export class Section {
 export class Course {
   @Type(() => Section)
   public sections: Section[];
+  public meta: ICourseMeta = {};
 
   constructor(public title: string, public url: string) {
     this.sections = [];
@@ -44,4 +45,9 @@ export class Course {
 
     return textOutlines.join('\n');
   }
+}
+
+export interface ICourseMeta {
+  brand?: string;
+  abbrev?: string;
 }
