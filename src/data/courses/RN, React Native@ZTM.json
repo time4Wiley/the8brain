@@ -1,0 +1,1476 @@
+{
+  "title": "Complete React Native Developer in 2022: Zero to Mastery [with Hooks]",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1050496",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "RN, React Native"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29602043",
+          "title": "React Native: Zero to Mastery (3:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29602044",
+          "title": "Course Outline (6:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29972380",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23187447",
+          "title": "Meeting Bruno (1:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/32910109",
+          "title": "Complete Course Resources + Code"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30795902",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "React Native Fundamentals",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23015777",
+          "title": "How We Got Here - React Native History (9:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23033525",
+          "title": "How We Got Here 2 - React Native History (3:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23033531",
+          "title": "Why React Native? (3:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23033529",
+          "title": "Our First React Native App (11:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23058881",
+          "title": "React Native Internals (8:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23058880",
+          "title": "React Native Internals 2 (4:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23033528",
+          "title": "Exercise: Is There CSS? (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "The 2 Paths",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23058878",
+          "title": "The 2 Paths (1:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23187449",
+          "title": "React DOM vs React Native (2:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23187450",
+          "title": "Recommended Setup (4:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/36152504",
+          "title": "Keeping Your App Up To Date"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29972424",
+          "title": "Endorsements On LinkedIn"
+        }
+      ]
+    },
+    {
+      "title": "Building With React Native: FocusTime App",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29694106",
+          "title": "FocusTime Demo (3:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/31537303",
+          "title": "Before We Get Going!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/26958405",
+          "title": "Introduction To Expo (2:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/26958402",
+          "title": "Getting Ready To Hit The Ground Running! (3:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/26958404",
+          "title": "Who Likes Snacks? (2:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/26996311",
+          "title": "Running Snacks On Your Device (1:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/26996314",
+          "title": "Running The FocusTime Demo On Your Device (2:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/26996315",
+          "title": "Proper Preparation Prevents Poor Snacking! (4:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/26996313",
+          "title": "Quick Recap On What We've Done So Far (2:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/26996310",
+          "title": "A Rundown Of What's In Our Snack (7:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/26996312",
+          "title": "Building A Simple Navigation (4:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27170523",
+          "title": "Creating Our Focus Feature (8:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29442687",
+          "title": "Adding An Input (5:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29448141",
+          "title": "Storing The Focus Item (10:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30059566",
+          "title": "RoundedButton On Press"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27231010",
+          "title": "Storing Our Focus Input (7:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27170526",
+          "title": "Quick Note On The Docs (2:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27170525",
+          "title": "Cleaning Up Our Styling (6:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27170527",
+          "title": "Building The Timer Feature (8:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27170528",
+          "title": "Building The Countdown Feature (11:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27170529",
+          "title": "Building The Countdown Feature Part 2 (6:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29442685",
+          "title": "Building The Countdown Feature Part 3 (8:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27170524",
+          "title": "A Quick Note On Error Screens (2:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30060402",
+          "title": "Reporting The Progress (8:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27543449",
+          "title": "Preset Timing Buttons (11:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27543450",
+          "title": "Keeping The App Awake (3:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27777136",
+          "title": "Vibrating When Finished With A Task (8:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27777138",
+          "title": "Going Full Circle (3:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27777139",
+          "title": "Quick Cleanup (1:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27777135",
+          "title": "Quick Review Of What We Have Accomplished So Far (6:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29442688",
+          "title": "Clearing The Subject (4:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27777134",
+          "title": "Storing Focus History (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27777137",
+          "title": "Storing Focus History With Statuses (4:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27827189",
+          "title": "Building The Focus History List (13:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30058670",
+          "title": "Clearing The Focus History (4:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30835267",
+          "title": "Quick Note On AsyncStorage"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27895688",
+          "title": "Storing And Loading The Focus History (7:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27895685",
+          "title": "Reflection Time! (3:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27895686",
+          "title": "Reflection Time Part 2! (3:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27895689",
+          "title": "Reflection Time Part 3! (3:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27895687",
+          "title": "Reflection Time Part 4! (1:54)"
+        }
+      ]
+    },
+    {
+      "title": "Mobile Development Professional: Local Setup",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29977728",
+          "title": "Before You Start, Read This!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29442690",
+          "title": "[MAC] Exporting FocusTime Locally (1:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29498734",
+          "title": "[MAC] Installing GIT (5:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29498726",
+          "title": "[MAC] Installing Node and Yarn (4:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29498725",
+          "title": "[MAC] Running it on IOS Simulator (4:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29552103",
+          "title": "[MAC] Installing Android Studio (1:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29552104",
+          "title": "[MAC] Installing Android SDK Tools (3:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29552102",
+          "title": "[MAC] Running On An Emulator (5:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29552101",
+          "title": "[MAC] Installing VSCode (3:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29634281",
+          "title": "[MAC] Optional: Using GIT With Visual Studio Code (6:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29634285",
+          "title": "[WINDOWS] Exporting FocusTime Locally (2:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29634282",
+          "title": "[WINDOWS] Installing GIT And VSCode (8:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29634279",
+          "title": "[WINDOWS] Optional: Using GIT With Visual Studio Code Part 1 (5:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29634278",
+          "title": "[WINDOWS] Optional: Using GIT With Visual Studio Code Part 2 (7:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29634280",
+          "title": "Github What Is It Good For? (3:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29972859",
+          "title": "Github Appendix"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29634284",
+          "title": "[WINDOWS] Optional: Publishing Your Code To Github (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29634283",
+          "title": "[MAC] Optional: Publishing Your Code To Github (8:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29678543",
+          "title": "[WINDOWS] Installing Android Studio (11:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29678547",
+          "title": "[WINDOWS] Installing Node and Yarn (8:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29678540",
+          "title": "[WINDOWS] Running FocusTime On My Device (3:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29678546",
+          "title": "What If I'm Still Running Into Issues? (4:42)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: MealsToGo Project Setup",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29964501",
+          "title": "MealsToGo Demo (2:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29984983",
+          "title": "Project Files"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/37423099",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29747512",
+          "title": "Setting Up Our Master Project (7:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29972756",
+          "title": "Note For Windows Users"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29747508",
+          "title": "Creating The MealsToGo Project (1:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29747511",
+          "title": "[Optional] MealsToGo On Github (2:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29747509",
+          "title": "Watch This Before Getting Started! (1:05)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: MealsToGo Core Part 1",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29694105",
+          "title": "Time For Yoga! (2:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27895080",
+          "title": "Let's Do Some Yoga! (5:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27895081",
+          "title": "React Native Flexbox And Snacks (4:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27928413",
+          "title": "Spring Cleaning The Expo Setup (5:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29979067",
+          "title": "Quick Note On Publishing Your App"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27973022",
+          "title": "Exercise App Layout (2:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27973026",
+          "title": "Solution App Layout (5:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27973025",
+          "title": "Android StatusBar Issue (6:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27973021",
+          "title": "Quick Note On Debugging (2:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27973028",
+          "title": "Keeping Up With The Code Step By Step (1:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27973023",
+          "title": "Setting Up Eslint And Prettier (4:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27973024",
+          "title": "Using Eslint (5:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27973027",
+          "title": "Optimizing Eslint (2:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27993548",
+          "title": "Setting Up Prettier (3:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27993546",
+          "title": "Exercise SearchBar (4:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27993549",
+          "title": "Solution SearchBar (1:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27993543",
+          "title": "Feature Overview: Restaurant List Item (1:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27993545",
+          "title": "Restaurant Info Setup Part 1 (5:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27993550",
+          "title": "Restaurant Info Setup Part 2 (5:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27993547",
+          "title": "Exercise Restaurant Info Card (1:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27993542",
+          "title": "Solution Restaurant Info Card (3:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/27993544",
+          "title": "Reflection Time Restaurant Info (1:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/28031625",
+          "title": "The Way We Are Styling Feels Weird (4:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/28031626",
+          "title": "Trying Out Styled Components (3:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/28031627",
+          "title": "Installing And Using Styled Component (3:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29241684",
+          "title": "Quick Note On How To Look At Changes (2:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29241683",
+          "title": "Exercise Migrating To Styled Components (1:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29241682",
+          "title": "Solution Migrating To Styled Components (6:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29572165",
+          "title": "Uhoh We Have An IOS Error (3:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29442689",
+          "title": "How Do We Make Things Consistent (2:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29442686",
+          "title": "Setting Up Our Theme (8:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29498728",
+          "title": "Exercise Theme Cleanup (1:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29498733",
+          "title": "Solution Theme Cleanup (3:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29498735",
+          "title": "Custom Fonts Fonts Fonts! (0:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29498729",
+          "title": "Loading Custom Fonts (8:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29498732",
+          "title": "Adding The Address (2:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29498730",
+          "title": "Using SVG With Rating (6:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29498727",
+          "title": "Exercise Adding Open Now SVG (0:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29498731",
+          "title": "Solution Finishing Our Restaurant Card (6:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30885635",
+          "title": "Quick Reminder"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29557681",
+          "title": "Building A Spacer Component (8:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29557680",
+          "title": "Optimizing The Spacer Component (12:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29644756",
+          "title": "Hold Up Why Do We Need Consistency (5:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29644751",
+          "title": "Wait A Second It Won't Render On Android (3:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29644749",
+          "title": "Creating A Typography Component And Cleanup (11:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29644747",
+          "title": "Solution Code Cleanup (2:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29644753",
+          "title": "FlatList! (0:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29644757",
+          "title": "List It! (15:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30992092",
+          "title": "Note On Content Container Style"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29644758",
+          "title": "No Inline Styles (2:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29644752",
+          "title": "Why Is There A White Bar? (4:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29644754",
+          "title": "Feature Overview: App Navigation (0:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29644750",
+          "title": "Navigation Installation (6:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29644755",
+          "title": "Exercise Tab Navigation (3:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29644759",
+          "title": "Solution Tab Navigation (6:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29644748",
+          "title": "Exercise Tab Bar Icons (3:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29883823",
+          "title": "Solution Tab Bar Icons (3:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29883824",
+          "title": "Simplifying Tab Icon Logic (5:14)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: MealsToGo Core Part 2",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29883820",
+          "title": "Feature Overview: Adding Data (6:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29883821",
+          "title": "Quick Recap Of What We'll Be Doing (2:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29950962",
+          "title": "Fake An API Request (6:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29950960",
+          "title": "Quick Refresh On Promises (2:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29950961",
+          "title": "Let's Transform The Data (6:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29962933",
+          "title": "Let's Transform The Data Part 2 (6:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29962935",
+          "title": "Setting Up RestaurantContext (6:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29962938",
+          "title": "Hooking Up Our Context (13:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29962934",
+          "title": "Exercise Activity Indicator (1:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29863843",
+          "title": "Solution Activity Indicator (4:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29863840",
+          "title": "Quick Architecture Overview (4:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29883822",
+          "title": "Feature Overview Geocoding And Search (3:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29889157",
+          "title": "Setting Up Our Geocoding Service (7:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29889160",
+          "title": "Setting Up Our Geocoding Context (9:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29889159",
+          "title": "Hooking Up The Searchbar (11:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29889154",
+          "title": "Searching For Restaurants (6:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29889158",
+          "title": "Oh No A Bug! (0:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29889155",
+          "title": "Oh No A Bug Solution! (2:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29889156",
+          "title": "Key Warnings (2:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29930322",
+          "title": "Oh No An Anti-Pattern (7:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29930325",
+          "title": "Our Next Feature! (2:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29890141",
+          "title": "Let's Optimize Before We Build! (0:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29870515",
+          "title": "Building Navigation Infrastructure For Scale (3:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29870581",
+          "title": "Restructuring Navigation (3:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29870719",
+          "title": "Setting Up Stack Navigation (7:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29889161",
+          "title": "Setting Up Restaurant Detail Navigation (3:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29871174",
+          "title": "Modals And Touch Feedback (4:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29871231",
+          "title": "Exercise Rendering The Card (1:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29871237",
+          "title": "Solution Rendering The Card (3:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29871249",
+          "title": "Back To Our Feature! (0:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29871270",
+          "title": "Exercise Menu List (1:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29871375",
+          "title": "Solution Menu List (7:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29955694",
+          "title": "Feature Overview Map (0:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29955695",
+          "title": "Installing React Native Maps (5:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29955700",
+          "title": "Map Screen And Search (9:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29955699",
+          "title": "Setting The Map Region (8:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29955696",
+          "title": "Rendering Map Markers (3:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29955702",
+          "title": "Custom Map Callout Exercise (4:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29955701",
+          "title": "Custom Map Callout Solution (8:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29955697",
+          "title": "Linking A Callout To Details (2:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29955693",
+          "title": "Feature Overview Favourites (0:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29955698",
+          "title": "Favourites Context (6:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29930326",
+          "title": "Hooking Up Favourites Part 1 (7:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29930324",
+          "title": "Hooking Up Favourites Part 2 (4:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29930323",
+          "title": "Building A Favourites Bar Part 1 (4:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29930984",
+          "title": "Building A Favourites Bar Part 2 (9:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29962936",
+          "title": "Storing Favourites (9:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29930985",
+          "title": "Uh Oh An Android Bug (2:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29956957",
+          "title": "Feature Overview Firebase And Authentication (6:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29956959",
+          "title": "Firebase Installation (5:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29956960",
+          "title": "Quick Note On Firebase (0:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29956958",
+          "title": "Let's Test Authentication (5:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29957908",
+          "title": "Authentication Service And Context (5:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29957910",
+          "title": "Account And Authentication Navigation (6:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29957912",
+          "title": "Image Background Exercise (4:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29957911",
+          "title": "Image Background Solution (3:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29957909",
+          "title": "Lighten Up The Background (3:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29960538",
+          "title": "Account Screen Buttons (11:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29960541",
+          "title": "Exercise Login Screen (1:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29960540",
+          "title": "Solution Login Screen (9:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29960539",
+          "title": "Tying Up Some Loose Ends (2:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29960542",
+          "title": "Feature Overview: Registration (5:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29962937",
+          "title": "Activity Indicators (2:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29964071",
+          "title": "Favourites Is Broken Part 1 (6:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29964067",
+          "title": "Favourites Is Broken Part 2 (8:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29964072",
+          "title": "Adding A Watermelon Animation (8:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29964073",
+          "title": "Feature Overview: Settings (0:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29964068",
+          "title": "Building The Settings Feature (7:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29964070",
+          "title": "Making The Settings Screen Look Nice (4:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29964069",
+          "title": "Favourites Screen Exercise (2:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29964502",
+          "title": "Favourites Screen Solution (9:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29964500",
+          "title": "Animations And Polish (8:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29964499",
+          "title": "App Icons (2:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29964498",
+          "title": "Expo Publish (2:56)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: Mobile Camera Module",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29606535",
+          "title": "Feature Overview Camera Module (0:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29991254",
+          "title": "Setting Up The Infrastructure (3:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29606536",
+          "title": "Exercise Expo Camera (3:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29606538",
+          "title": "Solution Expo Camera (5:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29606537",
+          "title": "Taking A Picture (4:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30344581",
+          "title": "Additional Changes For Android To Take a Picture"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29617380",
+          "title": "Storing And Retrieving The Picture (11:03)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: Google Maps Integration",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29747507",
+          "title": "Important Note On This Section! (4:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29759985",
+          "title": "Setting Up Your Payment Information For Firebase (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29759984",
+          "title": "Setting Up Firebase CLI (9:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30287687",
+          "title": "Quick Note On Running Functions Locally"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29760976",
+          "title": "Running Firebase Functions Locally (5:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29863842",
+          "title": "Moving Location Mock Part 1 (9:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29863841",
+          "title": "Moving Location Mock Part 2 (3:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30080218",
+          "title": "Moving Restaurants Mock (11:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30080220",
+          "title": "Deploying Our Functions (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30080222",
+          "title": "Switching Between Local And Deployed Functions (3:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30080215",
+          "title": "Oh No Android Doesn't Work! (1:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30080221",
+          "title": "Creating a Google Cloud Account (2:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30080217",
+          "title": "A Cautionary Tale (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30080219",
+          "title": "Configuring Our Google Cloud Project (5:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30080223",
+          "title": "Setting Up Google Node SDK (7:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30090012",
+          "title": "Firebase Environment (1:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30090009",
+          "title": "Integrating Geocoding API (8:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30095851",
+          "title": "Integrating Places API (6:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30095852",
+          "title": "Integrating Places Photos (4:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30098919",
+          "title": "Publishing Our Expo App And Functions (3:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30098923",
+          "title": "Minor Optimizations (3:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30108541",
+          "title": "Error Management (10:19)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: Mobile Payments With Stripe",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29678549",
+          "title": "Stripe Integration Demo (3:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29678544",
+          "title": "Stripe Integration Architecture (2:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29678539",
+          "title": "Signing Up For Stripe (4:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29678545",
+          "title": "Quick Recap On Firebase Functions (3:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29678542",
+          "title": "High Level Stripe Payment Flow (3:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29678541",
+          "title": "React Native Stripe Client (3:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29678538",
+          "title": "Setting Up Our Checkout (5:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29724086",
+          "title": "Our Credit Card Input (9:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29717740",
+          "title": "Getting Our First Stripe Token (6:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29991258",
+          "title": "Hooking Up Our Credit Card Form (6:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29991255",
+          "title": "Checkout Cart Overview (3:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29991257",
+          "title": "Building The Cart Context (8:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29991256",
+          "title": "Integrating Our Cart (11:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29991253",
+          "title": "Oh No! A Cart Bug (3:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29991252",
+          "title": "An Empty Cart (6:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30058669",
+          "title": "Adding The Checkout UI (10:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30080216",
+          "title": "Starting On The Payment Flow (1:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30080214",
+          "title": "Getting The Payee Name (6:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30090008",
+          "title": "Setting Up For Payment (6:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30090007",
+          "title": "Building Our Payment Gateway (6:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30090011",
+          "title": "Payment Request Part 1 (8:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30090010",
+          "title": "Payment Request Part 2 (5:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30095279",
+          "title": "Payment Request Part 3 (6:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30095278",
+          "title": "Adding Loading State (6:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30095276",
+          "title": "Handling Error States (14:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30095280",
+          "title": "Exercise Cart Persistence (1:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30095277",
+          "title": "Solution Cart Persistence (5:09)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: Releasing To The App Stores",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30095848",
+          "title": "Before We Get Started (3:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30098924",
+          "title": "What Will I Get Out Of This Section (2:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30114615",
+          "title": "Building Standalone Apps (3:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30095850",
+          "title": "Building An APK For Android (3:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30098917",
+          "title": "Running Our APK On The Emulator (3:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30098920",
+          "title": "Creating A Play Store Account (4:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30098921",
+          "title": "Building iOS With Expo (6:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30098922",
+          "title": "Testing Your iOS Build On A Simulator (4:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30109684",
+          "title": "AppStore Connect And TestFlight (8:24)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: App Polish + Customizing MealsToGo",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30095849",
+          "title": "Adding Some Polish (1:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30098926",
+          "title": "Adapting The Theme Colors (3:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30098925",
+          "title": "Improving The Settings Screen (7:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30159209",
+          "title": "Improving Restaurant Detail Screen (2:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/30098918",
+          "title": "The Favourites Bar (4:11)"
+        }
+      ]
+    },
+    {
+      "title": "Keeping Your App Up To Date",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/36096446",
+          "title": "New Year New Me (2:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/36096448",
+          "title": "Why Upgrade (3:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/36096450",
+          "title": "Upgrading (5:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/36096452",
+          "title": "Smoke Testing the Upgrade (3:09)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/37423098",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/37576756",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29973041",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29973043",
+          "title": "LinkedIn Endorsements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29973045",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29973046",
+          "title": "Coding Challenges"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Learn React",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29972935",
+          "title": "Before We Start"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511174",
+          "title": "Introduction To React.js (12:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/35657517",
+          "title": "Create React App (7:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/35657514",
+          "title": "React App Folder Structure (8:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/35657518",
+          "title": "React Fundamentals (3:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/35657516",
+          "title": "React Fundamentals 2 (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/35657515",
+          "title": "Class vs Functional App.js (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/35656515",
+          "title": "Hooks vs Classes (2:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/35907979",
+          "title": "Quick Note: Service Worker File"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511173",
+          "title": "Your First React Component (20:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511170",
+          "title": "Building A React App 1 (16:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/35656755",
+          "title": "Exercise: Learn to Read the Docs"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511165",
+          "title": "Building A React App 2 (9:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511182",
+          "title": "Building A React App 3 (26:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511168",
+          "title": "Styling Your React App (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/31964050",
+          "title": "Quick Note: JSON Placeholder"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511176",
+          "title": "Building A React App 4 (15:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511177",
+          "title": "Building A React App 5 (8:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511184",
+          "title": "Building A React App 6 (9:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29972985",
+          "title": "Project Files"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511172",
+          "title": "Keeping Your Projects Up To Date (8:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/35656697",
+          "title": "Exercise: React 17"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/35656514",
+          "title": "Solution: React 17 (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511181",
+          "title": "React Review (2:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511169",
+          "title": "Error Boundaries In React (8:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511175",
+          "title": "Deploying Our React App (5:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23187452",
+          "title": "React Hooks (3:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23070441",
+          "title": "React Hooks 2 (3:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23187446",
+          "title": "React Hooks 3 (3:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23070444",
+          "title": "React Hooks 4 (4:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23187451",
+          "title": "React Hooks 5 (3:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23070442",
+          "title": "React Hooks 6 (6:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23085404",
+          "title": "React Hooks 7 (9:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23085403",
+          "title": "React Hooks 8 (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/24901998",
+          "title": "Project Files"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/23187448",
+          "title": "React Hooks 9 (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/29972998",
+          "title": "Next Steps"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Git + Github",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22596113",
+          "title": "CWD: Git + Github (17:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/24851555",
+          "title": "Github Update: Master --> Main"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22596114",
+          "title": "CWD: Git + Github 2 (16:52)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Open Source Projects",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511179",
+          "title": "Contributing To Open Source (14:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/22511166",
+          "title": "Contributing To Open Source 2 (9:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1050496/lectures/25369966",
+          "title": "Exercise: Contributing To Open Source"
+        }
+      ]
+    }
+  ]
+}

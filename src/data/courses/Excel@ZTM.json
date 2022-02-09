@@ -1,0 +1,529 @@
+{
+  "title": "The Excel Bootcamp: Zero to Mastery",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1597713",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "Excel"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37422266",
+          "title": "The Excel Bootcamp: Zero to Mastery (2:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36549352",
+          "title": "Course Outline (5:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37346275",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37464405",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "Module 1: Excel 101",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650010",
+          "title": "Hello Excel Part 1 (10:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650024",
+          "title": "Hello Excel Part 2 (12:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650027",
+          "title": "Data Entry Part 1 (11:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650029",
+          "title": "Data Entry Part 2 (10:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650011",
+          "title": "Autofill (10:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650028",
+          "title": "Working With Ranges (11:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650009",
+          "title": "Working With Rows and Columns (9:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650008",
+          "title": "Resizing Rows and Columns (9:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650031",
+          "title": "Freezing Rows and Columns (9:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650013",
+          "title": "Working With Multiple Worksheets (10:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650002",
+          "title": "Find and Replace (14:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650016",
+          "title": "Working With Multiple Workbooks (10:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650030",
+          "title": "Intro to Formatting (4:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650005",
+          "title": "Formatting Numbers (11:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650007",
+          "title": "Formatting Dates and Times (11:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650014",
+          "title": "Font Styles (11:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650022",
+          "title": "Text Wrapping and Alignment (10:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36650021",
+          "title": "Cell Borders and Merging (9:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36660703",
+          "title": "Exercise: Excel 101"
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Filtering and Sorting Data",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36651289",
+          "title": "Intro to Filtering (8:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36651286",
+          "title": "Advanced Filtering (16:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36651288",
+          "title": "Sorting in Excel (14:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36660710",
+          "title": "Exercise: Filtering and Sorting Data"
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Excel Formulas 101",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652224",
+          "title": "Intro to Formulas (8:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652229",
+          "title": "Arithmetic Formulas (9:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652227",
+          "title": "Applying Formulas to Text (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652226",
+          "title": "Applying Formulas to Dates (9:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652228",
+          "title": "Copying and Cutting Formulas (12:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652230",
+          "title": "Cell References (13:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652225",
+          "title": "Hiding Rows and Columns (2:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36660720",
+          "title": "Exercise: Formulas 101"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37345228",
+          "title": "Budget Project: Introduction (1:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37345233",
+          "title": "Budget Project: Formulas 101 (6:21)"
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Crunching Numbers With Excel Functions",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652884",
+          "title": "Intro to Excel Functions (10:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652886",
+          "title": "Arithmetic Functions (14:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652883",
+          "title": "Counting Functions (6:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652885",
+          "title": "The Status Bar (2:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652889",
+          "title": "Rounding and Truncation (9:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652888",
+          "title": "Median (8:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36652887",
+          "title": "Standard Deviation (7:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36660724",
+          "title": "Exercise: Crunching Numbers With Excel Functions"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37345327",
+          "title": "Budget Project: Crunching Numbers With Excel Functions (5:34)"
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Conditional Calculations",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653203",
+          "title": "Conditional Calculations I (12:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653205",
+          "title": "Conditional Calculations II (12:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653204",
+          "title": "Conditional Calculations III (14:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36660729",
+          "title": "Exercise: Conditional Calculations"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37345385",
+          "title": "Budget Project: Conditional Calculations (4:52)"
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Date and Time Functions",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653337",
+          "title": "Introducing Date and Time Functions (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653341",
+          "title": "Parsing Date and Time Components (7:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653339",
+          "title": "The DATE Function (5:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653340",
+          "title": "Applying the DATE and TIME Functions (7:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653342",
+          "title": "DATEDIF and NETWORKDAYS (9:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653338",
+          "title": "Transforming Date Values (6:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36660772",
+          "title": "Exercise: Date and Time Functions"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37345400",
+          "title": "Budget Project: Date and Time Functions (8:35)"
+        }
+      ]
+    },
+    {
+      "title": "Module 7: Text Functions",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653493",
+          "title": "LEFT, RIGHT, and MID (6:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653495",
+          "title": "FIND and LEN (15:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653494",
+          "title": "Text Cleaning Functions (10:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36660775",
+          "title": "Exercise: Text Functions"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37426710",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Module 8: Logical and Lookup Functions",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653610",
+          "title": "The IF Function (15:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653607",
+          "title": "AND and OR (10:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653608",
+          "title": "VLOOKUP (10:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653609",
+          "title": "VLOOKUP with IFERROR (9:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36660781",
+          "title": "Exercise: Logical and Lookup Functions"
+        }
+      ]
+    },
+    {
+      "title": "Module 9: Modeling in Excel",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653713",
+          "title": "Intro to Modeling (2:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653710",
+          "title": "The PMT Function (7:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653709",
+          "title": "Data Validation Lists (8:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653714",
+          "title": "Scroll Bars (16:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653712",
+          "title": "Named Ranges (11:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36653711",
+          "title": "Model Design (7:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36660786",
+          "title": "Exercise: Modeling"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37345454",
+          "title": "Budget Project: Modeling (11:53)"
+        }
+      ]
+    },
+    {
+      "title": "Module 10: Data Visualization in Excel",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654060",
+          "title": "Custom Formats (9:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654061",
+          "title": "Conditional Formatting I (7:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654063",
+          "title": "Conditional Formatting II (10:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654065",
+          "title": "Introducing Charts (13:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654062",
+          "title": "Column Charts (7:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654064",
+          "title": "Line Charts (12:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36660789",
+          "title": "Exercise: Data Visualization"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37345540",
+          "title": "Budget Project: Data Visualization (9:55)"
+        }
+      ]
+    },
+    {
+      "title": "Module 11: Working With Structured Data in Excel",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654270",
+          "title": "Text to Columns (5:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654269",
+          "title": "External Data (10:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654271",
+          "title": "Table Features (9:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654272",
+          "title": "Tables as Named Ranges (14:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36660798",
+          "title": "Exercise: Working With Structure Data in Excel"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37345628",
+          "title": "Budget Project: Structured Data (9:32)"
+        }
+      ]
+    },
+    {
+      "title": "Module 12: Pivot Tables",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654471",
+          "title": "Intro to Pivot Tables (13:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654467",
+          "title": "Adding Layers to Pivot Tables (14:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654470",
+          "title": "Pivot Table Formatting and Layout (10:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654468",
+          "title": "Filtering Pivot Tables (10:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654466",
+          "title": "Slicers (11:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654469",
+          "title": "Pivot Table Math (9:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36660807",
+          "title": "Exercise: Pivot Tables"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37345789",
+          "title": "Budget Project: Pivot Tables (6:28)"
+        }
+      ]
+    },
+    {
+      "title": "Module 13: Macros and VBA",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654712",
+          "title": "Intro to Macros (9:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654711",
+          "title": "Running Macros With Buttons (4:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654710",
+          "title": "Editing Macros (9:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36654709",
+          "title": "Macros - A Case Study (19:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/36660812",
+          "title": "Exercise: Macros and VBA"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37345806",
+          "title": "Budget Project: Macros and VBA (6:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37465438",
+          "title": "Even More Coming Very Soon..."
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37426711",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37576879",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37346695",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37346698",
+          "title": "LinkedIn Endorsements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1597713/lectures/37346700",
+          "title": "Become An Alumni"
+        }
+      ]
+    }
+  ]
+}

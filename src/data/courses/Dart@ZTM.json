@@ -1,0 +1,864 @@
+{
+  "title": "Dart: The Complete Developer's Guide",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1389133",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "Dart"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32570572",
+          "title": "Dart: The Complete Developer's Guide (1:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32319863",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31932108",
+          "title": "Making the most of this course (3:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944891",
+          "title": "Introduction to Dart (4:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944905",
+          "title": "Introduction to Dartpad (2:05)"
+        }
+      ]
+    },
+    {
+      "title": "Dart Basics",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944986",
+          "title": "Section Intro (0:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944968",
+          "title": "The 'main' method (1:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944976",
+          "title": "Hello world (1:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944966",
+          "title": "Variable declaration and initialization (3:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944979",
+          "title": "Basic types (2:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944967",
+          "title": "Exercise: printing variables (1:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944970",
+          "title": "String Concatenation & Interpolation (5:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944983",
+          "title": "Exercise: String interpolation (1:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944972",
+          "title": "String Escaping (4:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944965",
+          "title": "Multi-line strings (1:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944981",
+          "title": "Basic String operations: uppercase and lowercase (3:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944977",
+          "title": "Initialization vs Assignment (1:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944980",
+          "title": "Exercise: Lowercase and uppercase strings (0:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944978",
+          "title": "Finding and replacing strings (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944985",
+          "title": "Conversations between types (4:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944964",
+          "title": "Arithmetic operators (3:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944973",
+          "title": "Exercise: temperature conversion (2:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944982",
+          "title": "Increment & decrement operators (3:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944975",
+          "title": "Logical & Relational operators (3:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944974",
+          "title": "Ternary conditional operator (2:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944969",
+          "title": "Hex format, bitwise & shifting operators (4:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944984",
+          "title": "Comments (4:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31944971",
+          "title": "Expressions & statements (1:55)"
+        }
+      ]
+    },
+    {
+      "title": "Dart type system",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945404",
+          "title": "Section Intro (0:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945403",
+          "title": "Static vs Dynamic Languages (3:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945408",
+          "title": "Type inference with 'var' (1:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945406",
+          "title": "The 'final' keyword (2:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945405",
+          "title": "The 'const' keyword (2:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945407",
+          "title": "Exercise: 'var', 'final' and 'const' (2:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945409",
+          "title": "The 'dynamic' keyword (2:17)"
+        }
+      ]
+    },
+    {
+      "title": "Control flow",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945545",
+          "title": "Section Intro (0:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945546",
+          "title": "If/else statements (3:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945550",
+          "title": "Exercise: if/else statements (2:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945552",
+          "title": "while loops (2:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945549",
+          "title": "for loops (2:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945548",
+          "title": "Exercise: fizz buzz (3:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945544",
+          "title": "'break' and 'continue' (3:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945543",
+          "title": "switch statements (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945551",
+          "title": "enumerations (9:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31945547",
+          "title": "Exercise: simple calculator (2:36)"
+        }
+      ]
+    },
+    {
+      "title": "Project: Building a command line app",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947313",
+          "title": "Section Intro (1:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947308",
+          "title": "Installing the Dart SDK (6:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947312",
+          "title": "Installing and configuring VS Code (4:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947311",
+          "title": "Project Brief: Rock, Paper & Scissors (2:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947310",
+          "title": "Creating a command line app (1:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947316",
+          "title": "Pseudocode for the game logic (1:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947315",
+          "title": "Getting use input with stdin from dart:io (4:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947309",
+          "title": "Implementing the game loop (2:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947314",
+          "title": "Implementing the game logic (17:50)"
+        }
+      ]
+    },
+    {
+      "title": "Collections",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947655",
+          "title": "Section Intro (0:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947654",
+          "title": "Lists (4:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947663",
+          "title": "Exercise: Sum of the items in a list (1:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947662",
+          "title": "List methods (3:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947665",
+          "title": "Type annotations with lists (1:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947666",
+          "title": "Using 'var', 'final', 'const' with lists (2:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947667",
+          "title": "Sets (3:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947652",
+          "title": "Exercise: Sets (2:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947658",
+          "title": "Maps (4:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947661",
+          "title": "The 'as' operator (1:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947653",
+          "title": "The 'null' value (1:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947651",
+          "title": "Iterating on maps (2:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947649",
+          "title": "Exercise: Pizza Ordering (2:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947660",
+          "title": "Nested Collections (1:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947650",
+          "title": "Exercise: Restaurant ratings (1:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947657",
+          "title": "Collection-if (2:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947664",
+          "title": "Collection-for (1:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947656",
+          "title": "Spreads (3:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947668",
+          "title": "Exercise: Shopping List (2:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/31947659",
+          "title": "Copying collections (4:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/37424944",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Project: Data Processing in Dart",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32174548",
+          "title": "Section Intro (2:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32174547",
+          "title": "Parsing command line arguments (3:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32174551",
+          "title": "Reading files line by line (3:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32174549",
+          "title": "Pseudocode for the processing logic (2:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32174550",
+          "title": "Implementing the processing logic (6:13)"
+        }
+      ]
+    },
+    {
+      "title": "Dart Null Safety",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32174719",
+          "title": "Introduction to Null Safety (2:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32174722",
+          "title": "Nullable and non-nullable variables (2:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32174718",
+          "title": "Flow Analysis: Promotion and Definite Assignment (3:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32174720",
+          "title": "The assertion operator (2:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32174721",
+          "title": "The if-null operator (2:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32174717",
+          "title": "Null Safety with type inference (1:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32174715",
+          "title": "Null Safety with collections (2:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32174716",
+          "title": "The conditional access operator & the billion dollar mistake (3:17)"
+        }
+      ]
+    },
+    {
+      "title": "Functions: Basics",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175024",
+          "title": "Section Intro (0:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175025",
+          "title": "Intro to functions (1:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175036",
+          "title": "Function arguments (4:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175031",
+          "title": "Return values (1:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175035",
+          "title": "Exercise: Sum of a list of numbers (2:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175029",
+          "title": "Named and positional arguments (2:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175027",
+          "title": "Required and default values (5:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175033",
+          "title": "Default positional arguments (2:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175026",
+          "title": "Exercise: Pizza ordering with functions (2:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175034",
+          "title": "Fat arrow notations (1:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175032",
+          "title": "The global and local scope (2:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175030",
+          "title": "Inner Functions (2:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175028",
+          "title": "Global mutable state and functions with side effects (4:05)"
+        }
+      ]
+    },
+    {
+      "title": "Functions: Advanced",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175813",
+          "title": "Section Intro (0:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175811",
+          "title": "Anonymous functions (2:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175817",
+          "title": "Functions as first class objects (2:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175814",
+          "title": "Function types (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175809",
+          "title": "Closures (2:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175819",
+          "title": "The 'forEach' method (3:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175815",
+          "title": "The 'map' method (1:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175822",
+          "title": "'Iterable' and 'toList()' (2:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175808",
+          "title": "Code reuse with anonymous functions and generics (7:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175810",
+          "title": "The 'where' and 'firstWhere' methods (3:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175818",
+          "title": "Exercise: Implement the 'where' function (2:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175816",
+          "title": "Ecercise: Implement the 'firstWhere' function (3:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175807",
+          "title": "The 'reduce' method (2:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32175812",
+          "title": "Combining functional operators (6:01)"
+        }
+      ]
+    },
+    {
+      "title": "Classes: Basics",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176470",
+          "title": "Section Intro (0:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176468",
+          "title": "Introduction to classes (3:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176461",
+          "title": "Instance methods (3:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176464",
+          "title": "Class constructors and the 'this' keyword (1:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176474",
+          "title": "Initializer lists and the shorthand syntax (4:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176476",
+          "title": "Classes with immutable members (1:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176467",
+          "title": "Exercise: Creating a 'Person' class (2:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176472",
+          "title": "Type safety with classes (2:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176462",
+          "title": "'const' constructors (2:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176471",
+          "title": "Named constructors (3:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176466",
+          "title": "Named constructors: temperature example (2:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176465",
+          "title": "Getters and setters (3:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176475",
+          "title": "Exercise: Restaurant ratings with classes (2:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176473",
+          "title": "Static methods and variables (3:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176469",
+          "title": "Private variables and methods (5:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32176463",
+          "title": "Wrap up (1:13)"
+        }
+      ]
+    },
+    {
+      "title": "Classes: Advanced",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177071",
+          "title": "Section Intro (1:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177078",
+          "title": "VS Code Dart Setup with Null Safety (7:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177089",
+          "title": "Introduction to inheritance/subclassing (4:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177072",
+          "title": "The 'super' constructor (3:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177074",
+          "title": "Overriding methods (3:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177086",
+          "title": "Abstract classes (6:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177081",
+          "title": "Exercise: Area and Perimeter (2:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177077",
+          "title": "Interfaces and the difference between 'implements' and 'extends' (5:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177082",
+          "title": "The base 'Object' class (2:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177087",
+          "title": "The 'toString()' method (2:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177088",
+          "title": "The equality operator and the 'covariant' keyword (4:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177079",
+          "title": "Exercise: Implement the + and * operators (1:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177075",
+          "title": "Overriding 'hashCode' and the Equatable package (5:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177083",
+          "title": "Using classes with generics (3:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177084",
+          "title": "Composition vs inheritance: Flutter widget hierarchy example (3:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177085",
+          "title": "Factory constructors and reading JSON data (10:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177073",
+          "title": "Exercise: JSON Serialization (3:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177080",
+          "title": "Copying objects with 'copyWiith' (3:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32177076",
+          "title": "The cascade operator (4:15)"
+        }
+      ]
+    },
+    {
+      "title": "Project: Simple eCommerce",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32180457",
+          "title": "Simple eCommerce store: Overview (3:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32180454",
+          "title": "Creating the Product, Item, Cart classes (2:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32180452",
+          "title": "Adding the interactive prompt (7:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32180456",
+          "title": "Adding items to the cart (5:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32180455",
+          "title": "Checkout functionality (4:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32180453",
+          "title": "Project structure and wrap-up (3:29)"
+        }
+      ]
+    },
+    {
+      "title": "Mixins &amp; Extensions",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32180820",
+          "title": "Section Intro (1:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32180819",
+          "title": "Creating and using mixins (4:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32180821",
+          "title": "Mixins: Drawbacks (2:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32180824",
+          "title": "Extensions (2:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32180822",
+          "title": "Extensions with generic type constraints (4:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32180823",
+          "title": "Exercise: Range extension (2:20)"
+        }
+      ]
+    },
+    {
+      "title": "Error Handling &amp; Exceptions",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181236",
+          "title": "Section Intro (1:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181234",
+          "title": "Errors vs Exceptions (1:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181235",
+          "title": "Assertions (5:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181238",
+          "title": "Exceptions: 'throw', 'try', 'catch', 'finally', 'rethrow' (7:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181237",
+          "title": "Exercise: Email validation (3:23)"
+        }
+      ]
+    },
+    {
+      "title": "Async Programming",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181930",
+          "title": "Section Intro (1:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181926",
+          "title": "Futures, 'then', 'catchError', 'whenComplete' (5:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181935",
+          "title": "'async' and 'await' (4:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181931",
+          "title": "'Future.value' and 'Future.error' (2:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181934",
+          "title": "Exercise: Countdown with Futures (3:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181927",
+          "title": "Streams (4:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181933",
+          "title": "Stream generators: 'async*' and 'yield' (3:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181932",
+          "title": "Exercise: fizz-buzz with streams (2:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181929",
+          "title": "Stream constructors (2:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181925",
+          "title": "Stream methods (3:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32181928",
+          "title": "Single/multiple subscription streams (1:45)"
+        }
+      ]
+    },
+    {
+      "title": "Weather App",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32182177",
+          "title": "Weather App Overview (1:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32182182",
+          "title": "REST API Basics (2:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32182184",
+          "title": "Creating the command-line app (1:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32182183",
+          "title": "Creating a Weather API Client with the Dart http package (5:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32182179",
+          "title": "Reading the response status code and data (3:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32182180",
+          "title": "Completing the Weather API Client (4:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32182178",
+          "title": "Parsing JSON Data (6:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32182181",
+          "title": "Error Handling and Wrap up (7:30)"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion &amp; Next Steps",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/37424943",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/37576786",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32319884",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32319885",
+          "title": "LinkedIn Endorsements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1389133/lectures/32456043",
+          "title": "Learning Guideline"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1322 @@
+{
+  "title": "Complete Vue Developer in 2022 (w/ Vuex, Composition API, Router)",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1209915",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "Vue"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31331198",
+          "title": "Complete Vue JS Developer: Zero to Mastery (2:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31197135",
+          "title": "Course Outline (5:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30897908",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31318382",
+          "title": "Vue vs React vs Angular (12:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30895218",
+          "title": "Composition vs. Options API (2:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31003750",
+          "title": "Complete Course Resources + Code"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31344742",
+          "title": "Optional: Vue Documentary"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/32632111",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "Vue Fundamentals",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27199437",
+          "title": "Getting Started (7:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27199434",
+          "title": "Vue Dev Tools (5:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27199435",
+          "title": "Working with Data (8:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27289104",
+          "title": "Multiple Vue Instances (4:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27223545",
+          "title": "Accessing the Instance Data (6:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27223546",
+          "title": "Methods (4:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27223544",
+          "title": "Directives (5:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27289102",
+          "title": "Two-way data binding (7:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27289103",
+          "title": "Binding Attributes (2:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444912",
+          "title": "Outputting Raw HTML (6:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444915",
+          "title": "Listening to Events (7:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444909",
+          "title": "Passing on Data with Events (2:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444917",
+          "title": "Event Modifiers (2:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444908",
+          "title": "Keyboard Events and Modifiers (4:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444913",
+          "title": "v-model Modifiers (5:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444919",
+          "title": "Computed Properties (9:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444916",
+          "title": "Watchers (3:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444911",
+          "title": "Binding Classes (8:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444918",
+          "title": "Binding Styles (5:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444921",
+          "title": "Conditional Rendering (10:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444914",
+          "title": "The v-show Directive (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444920",
+          "title": "List Rendering (12:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27444910",
+          "title": "Understanding the role of the key attribute (8:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30897934",
+          "title": "Endorsements On LinkedIN"
+        }
+      ]
+    },
+    {
+      "title": "Project 1: Perspective Playground",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27445491",
+          "title": "Creating a Perspective Playground (11:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27445501",
+          "title": "Copying to the Clipboard (7:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31004253",
+          "title": "Extra Exercise: Copy Button"
+        }
+      ]
+    },
+    {
+      "title": "Vue: Beyond the Fundamentals",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27445500",
+          "title": "Mounting the Vue Instance (4:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27445502",
+          "title": "Understanding Lifecycle Hooks (4:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30251691",
+          "title": "Using Lifecycle Hooks (9:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30251693",
+          "title": "Virtual DOM (7:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30251690",
+          "title": "Understanding Reactivity with Proxies (7:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30251692",
+          "title": "The Vue Compiler (12:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30251694",
+          "title": "Introduction to Components (8:07)"
+        }
+      ]
+    },
+    {
+      "title": "Vue Developer Environment",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27445493",
+          "title": "Overview (2:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31241164",
+          "title": "Optional Videos In Appendix"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30444385",
+          "title": "Installing Webpack (5:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30256091",
+          "title": "Configuring Webpack (9:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30256092",
+          "title": "Installing Babel (5:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30256093",
+          "title": "Configuring Babel (6:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30256094",
+          "title": "Installing SASS (7:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30256095",
+          "title": "Bundling CSS (7:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30256096",
+          "title": "SASS Basics (13:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30256097",
+          "title": "PostCSS (9:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30256098",
+          "title": "Understanding Linting (5:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30256099",
+          "title": "Installing ESLint (8:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30444043",
+          "title": "Configuring ESLint with Visual Studio Code (3:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30256105",
+          "title": "Conclusion (0:48)"
+        }
+      ]
+    },
+    {
+      "title": "Advanced Vue Components",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257101",
+          "title": "Installing the Vue CLI (10:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257095",
+          "title": "Sidebar: Understanding Servers (5:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257093",
+          "title": "Reviewing the Files (11:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257100",
+          "title": "Creating Components (3:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257086",
+          "title": "Child Components (7:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257091",
+          "title": "Component Styles (6:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257087",
+          "title": "Using SASS in Components (3:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257097",
+          "title": "Communicating Between Components (2:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257089",
+          "title": "Props (6:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257092",
+          "title": "The Limitations of Props (3:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257090",
+          "title": "Emitting Events (8:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257096",
+          "title": "Validating Props (7:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257098",
+          "title": "Callback Functions (4:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257099",
+          "title": "Inserting content with slots (8:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257088",
+          "title": "Named Slots (7:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30257094",
+          "title": "Dynamic Components (9:24)"
+        }
+      ]
+    },
+    {
+      "title": "Transitions &amp; Animations",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30260753",
+          "title": "Animating with CSS Transitions (9:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30260748",
+          "title": "Fine-tuning Transitions (5:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30260746",
+          "title": "Animating with CSS Animations (8:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30260752",
+          "title": "Animating with JavaScript (6:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30260751",
+          "title": "JavaScript Zoom Animation (6:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30260745",
+          "title": "CSS and JavaScript Transitions (3:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30260750",
+          "title": "Animating a List (8:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30260747",
+          "title": "Fixing the Animation (4:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30260749",
+          "title": "Transition CSS Class Names (5:40)"
+        }
+      ]
+    },
+    {
+      "title": "Project 2: Vue Quiz App",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30261762",
+          "title": "Setting up the Quiz Application (6:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30261763",
+          "title": "Rendering the Questions (12:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30261765",
+          "title": "Moving between Questions (10:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30261764",
+          "title": "Finishing Touches (11:27)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Introduction to Vuex",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30481293",
+          "title": "The Next Step (1:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30481298",
+          "title": "Installing Yarn (3:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30481301",
+          "title": "Introduction to the Vue UI (6:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30481297",
+          "title": "Creating a New Project (9:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30481299",
+          "title": "Reviewing the UI and Files (16:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30481295",
+          "title": "Adding the Template (9:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30481296",
+          "title": "What is Tailwind? (5:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30481294",
+          "title": "Installing Tailwind (7:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30481300",
+          "title": "Practicing with Tailwind (5:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30509376",
+          "title": "Loading Assets (4:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30509335",
+          "title": "Understanding State (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30509391",
+          "title": "Reviewing the Vuex Configuration (5:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30509416",
+          "title": "Splitting the Template into Components (5:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30509350",
+          "title": "Working with State (4:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30509362",
+          "title": "Using Mutations (3:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30531672",
+          "title": "Mapping Mutations (2:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30531667",
+          "title": "Understanding Getters (1:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30531671",
+          "title": "Using Getters (4:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30531670",
+          "title": "Closing the Modal (2:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30531669",
+          "title": "Mapping Getters and State Properties (4:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30531666",
+          "title": "Aliases (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30531668",
+          "title": "Adding Tabs (5:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/37424491",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Form Validation",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30543706",
+          "title": "Setting up Form Validation (5:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30543710",
+          "title": "Registering A Plugin (5:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30543704",
+          "title": "Validation Components (5:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30543707",
+          "title": "Defining Rules (3:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30543711",
+          "title": "Applying Rules (5:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30543708",
+          "title": "Additional Rules (6:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30543709",
+          "title": "Validating Emails (3:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30543705",
+          "title": "Validating Numbers (4:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30563141",
+          "title": "Validating Passwords (5:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30563138",
+          "title": "Dropdown and Checkbox Fields (7:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30563137",
+          "title": "Validating the Form (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30563136",
+          "title": "Sidebar: Slot Properties (8:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30563139",
+          "title": "Rendering Multiple Error Messages (5:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30563142",
+          "title": "Default Values (1:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30563134",
+          "title": "Custom Error Messages (10:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30563140",
+          "title": "Validation Triggers (3:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30563135",
+          "title": "Showing Alerts (8:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30563133",
+          "title": "Setting up the Login Form (18:09)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Authentication",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558843",
+          "title": "Understanding Authentication (6:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558844",
+          "title": "Reviewing the Rules (5:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558846",
+          "title": "Setting up the Firebase SDK (8:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558845",
+          "title": "User Registration (6:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558841",
+          "title": "Handling the Response (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558842",
+          "title": "Exporting Services (4:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30557829",
+          "title": "Storing the User Form Data (7:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31005858",
+          "title": "Extra Exercise: Add Another Field"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30557836",
+          "title": "Understanding Authentication (6:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30557835",
+          "title": "Logging the user in after Signup (5:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30557833",
+          "title": "Understanding Actions (5:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30557834",
+          "title": "Using Actions (11:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30557839",
+          "title": "Connecting the User with their Data (8:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30557838",
+          "title": "Initializing Firebase First (4:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30557830",
+          "title": "Persisting the User Authentication (6:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30557832",
+          "title": "Setting up the Login (6:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30557837",
+          "title": "Signing Out (10:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30557831",
+          "title": "Sidebar: JSON Web Tokens (9:10)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Routing",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558183",
+          "title": "Understanding Routing (4:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558182",
+          "title": "Reviewing the Router Configuration (5:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558191",
+          "title": "Creating Routes (7:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558186",
+          "title": "History Mode (8:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558177",
+          "title": "Navigating with Links (5:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558190",
+          "title": "Custom Links (5:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558179",
+          "title": "Tailwind Styles for Active Links (5:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558180",
+          "title": "Naming Routes (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558184",
+          "title": "Setting up “Catch-All” and Redirect Routes (6:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558322",
+          "title": "Route Alias (2:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558181",
+          "title": "Guarding Routes (5:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558189",
+          "title": "Route Specific Guards (4:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558187",
+          "title": "Guarding Authentication Only Routes (5:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558188",
+          "title": "Redirecting after Logging Out (5:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558178",
+          "title": "Route Meta Fields (10:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558185",
+          "title": "Avoiding Dependency Cycle (6:04)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Uploading Files",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558552",
+          "title": "Preparing the Upload Component (5:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558534",
+          "title": "Handling Drag and Drop Events (8:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558551",
+          "title": "Handling the File (6:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558548",
+          "title": "Uploading Files with Firebase (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558536",
+          "title": "Firebase Rules and Validation (7:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558543",
+          "title": "Adding the Progress Bar (6:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558533",
+          "title": "Making the Progress Bar Dynamic (3:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558550",
+          "title": "Improving the Progress Bar (4:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558532",
+          "title": "Handling Errors and Successful Uploads (6:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558538",
+          "title": "Storing the File Data in the Database (10:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558541",
+          "title": "Firebase References and Snapshots (2:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558547",
+          "title": "Fallback Upload (4:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558542",
+          "title": "Canceling Uploads (4:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558531",
+          "title": "Cancelling Uploads with Refs (7:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558553",
+          "title": "One more thing about References (4:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558539",
+          "title": "Querying the Database (6:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558537",
+          "title": "Storing the List of Songs (4:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558530",
+          "title": "Displaying the List of Songs (3:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558540",
+          "title": "Prop Validation (2:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558529",
+          "title": "Toggling the Form (2:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558545",
+          "title": "Validating the Song Form (7:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558544",
+          "title": "Editing a Song (12:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558546",
+          "title": "Deleting a Song from the Storage/Database (10:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558549",
+          "title": "Updating the list of songs after an Upload (8:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30558535",
+          "title": "Router Leave Guards (9:43)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Playing Music",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30587418",
+          "title": "Creating the Home Page (9:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559039",
+          "title": "Checking the Scroll Position (8:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559043",
+          "title": "Infinite Scrolling (8:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559045",
+          "title": "Path Parameters (4:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559028",
+          "title": "Creating the Song Template (9:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559040",
+          "title": "Validating the Comment (3:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559037",
+          "title": "Prepping the Form (4:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559036",
+          "title": "Finalizing the Comment Form (10:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559029",
+          "title": "Displaying the Comments (6:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559042",
+          "title": "Updating the Comments List (7:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559032",
+          "title": "Query Parameters (5:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559033",
+          "title": "Detecting Query Parameters (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559047",
+          "title": "Updating the Comment Count (4:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559041",
+          "title": "Storing the song in the State (7:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559027",
+          "title": "Playing Audio (4:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559031",
+          "title": "Toggling Audio (10:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559044",
+          "title": "Duration and Current Position (7:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559038",
+          "title": "Formatting the Time (4:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559035",
+          "title": "Player Progress Bar (8:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559034",
+          "title": "Changing the Audio Position (11:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31005869",
+          "title": "Extra Exercise: Update the \"play\" Button"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559030",
+          "title": "Creating links with Hash Fragments (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30559048",
+          "title": "Route Transitions (4:44)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Directives",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30562155",
+          "title": "Introduction to Directives (5:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30562157",
+          "title": "Writing our First Directive (5:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30562156",
+          "title": "Passing Values to Directives (5:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30562158",
+          "title": "Directive Modifiers (5:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30562159",
+          "title": "Registering a Directive Locally (4:39)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Internationalization",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30579501",
+          "title": "Introduction to i18n (4:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30579505",
+          "title": "Reviewing the Configuration (7:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30579500",
+          "title": "Our First Translation (8:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30579504",
+          "title": "Formatting and Pluralization (6:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30579503",
+          "title": "Number Localizations (8:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30579506",
+          "title": "Translating HTML with Component Interpolation (6:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30579502",
+          "title": "Changing Locales (5:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30579507",
+          "title": "Exercise: Translating the Rest of the App (3:15)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: PWA (Progressive Web App)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30580111",
+          "title": "What are Progressive Web Apps? (4:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30580110",
+          "title": "The Manifest File (5:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30580113",
+          "title": "Generating the Manifest File (8:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30580115",
+          "title": "Configuring the Manifest File (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30580114",
+          "title": "Offline Support with Service Workers (5:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30580112",
+          "title": "Workbox (8:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30580109",
+          "title": "Firebase Data Persistence (4:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30580108",
+          "title": "Handling Offline Uploads (5:58)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Performance Optimizations",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30581873",
+          "title": "Overview (1:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30581878",
+          "title": "Auto-Registering Global Components (12:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30581870",
+          "title": "Vuex Modules (7:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30581867",
+          "title": "Fixing the App (5:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30581875",
+          "title": "Vuex Namespaces (2:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30581872",
+          "title": "Automatic Module Registration (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30581871",
+          "title": "Dynamically Registering Modules (3:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30581868",
+          "title": "Perceived Performance (7:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30581874",
+          "title": "Dynamic Route Imports (6:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30581877",
+          "title": "Chunk Names (2:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30581869",
+          "title": "Progress Bar (5:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30581876",
+          "title": "Code Coverage (4:25)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Deployment + Production",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601527",
+          "title": "Deploying an App with Vercel (11:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31004263",
+          "title": "Sharing Your Project"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Testing Your Vue App",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601516",
+          "title": "Introduction to Testing (12:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601529",
+          "title": "Introduction to Jest (4:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601521",
+          "title": "Writing Our First Test (8:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601519",
+          "title": "Mounting with Vue Test Utils (6:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601522",
+          "title": "Testing the Inner Content (4:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601520",
+          "title": "Passing Data to Components (5:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601536",
+          "title": "Stubbing Components (4:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601528",
+          "title": "Avoid Boolean Assertions (1:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601518",
+          "title": "Testing Children Components (6:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601530",
+          "title": "Mocking Firebase (6:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601523",
+          "title": "Mocking Methods (5:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601531",
+          "title": "Testing Attributes (6:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601524",
+          "title": "Testing Vuex Mutations (6:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601535",
+          "title": "Testing Vuex Actions (6:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601534",
+          "title": "Mocking Promises (3:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601517",
+          "title": "Testing Vuex Getters (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601533",
+          "title": "Testing Router Components (6:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601525",
+          "title": "Snapshot Testing (12:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601526",
+          "title": "E2E Testing Overview (10:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30601532",
+          "title": "Writing an E2E Test (12:18)"
+        }
+      ]
+    },
+    {
+      "title": "Composition API",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27445490",
+          "title": "The Composition API (6:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27445492",
+          "title": "Mixins (10:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27445496",
+          "title": "Reactive References (7:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27445494",
+          "title": "The Reactive Function (7:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27445499",
+          "title": "Watchers and Computed Properties (7:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/27445495",
+          "title": "Lifecycle Functions (3:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30262604",
+          "title": "Props (6:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30262602",
+          "title": "Template Refs (4:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30262603",
+          "title": "Emitting Events (1:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30262601",
+          "title": "Advantages of the Composition API (12:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30262598",
+          "title": "Router Hooks (7:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30262600",
+          "title": "Vuex Hooks (7:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30262599",
+          "title": "Verifying Reactivity (3:08)"
+        }
+      ]
+    },
+    {
+      "title": "Component Design Patterns",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31551552",
+          "title": "Section Overview (1:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31551553",
+          "title": "Controlled Components (18:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31551556",
+          "title": "Separation of Concerns (4:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31551550",
+          "title": "Third-Party Libraries as Controlled Components (14:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31551555",
+          "title": "Moving Beyond Vue’s Event System (11:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31551551",
+          "title": "Encapsulating Scrolling (8:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31551554",
+          "title": "The Teleport Component (12:35)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/37424492",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/37576771",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30897940",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30897941",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30897943",
+          "title": "Coding Challenges"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/30897944",
+          "title": "Endorsements On LinkedIn"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31327940",
+          "title": "Become a ZTM Ambassador ➡ Refer new students. Earn cash."
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Extra Bits",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31241167",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31241168",
+          "title": "For WINDOWS Users ONLY"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31237437",
+          "title": "Using The Terminal/Command Prompt (10:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31237440",
+          "title": "Running script.js In Node (3:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31237441",
+          "title": "Modules In Node (4:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31241169",
+          "title": "ES6 Modules??"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31237439",
+          "title": "ES6 Modules In Node (8:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1209915/lectures/31237436",
+          "title": "Types of Modules (5:10)"
+        }
+      ]
+    }
+  ]
+}

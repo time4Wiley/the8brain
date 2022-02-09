@@ -1,0 +1,611 @@
+{
+  "title": "Motion Design with Figma: Animations, Motion Graphics, UX/UI",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1495820",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "Figma, UI, UX, Design, Motion"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34945715",
+          "title": "Motion Design with Figma: Zero to Mastery (3:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34879486",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34915154",
+          "title": "Figma Design Resources"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/36077225",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "Why Is Motion Important?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34434938",
+          "title": "Common Misconceptions Of Motion Design (5:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34279532",
+          "title": "Motion Helps Create Usability (7:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34292907",
+          "title": "Narrative And Mental Models (9:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34923994",
+          "title": "Where To Next? Your Choice... (1:00)"
+        }
+      ]
+    },
+    {
+      "title": "Introduction To Figma",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34316900",
+          "title": "Getting Started With Figma"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34915639",
+          "title": "Figma Resources For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34316971",
+          "title": "Introducing Figma (1:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34328178",
+          "title": "Figma Dashboard (5:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34328850",
+          "title": "Figma Tools (5:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34328853",
+          "title": "Layers And Pages (3:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34328851",
+          "title": "The Top Bar (10:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34328852",
+          "title": "Design Properties (11:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34328854",
+          "title": "Prototyping With Figma (3:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34330800",
+          "title": "Exercise: Creating A Responsive Layout (16:43)"
+        }
+      ]
+    },
+    {
+      "title": "Introduction To Smart Animate",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34916759",
+          "title": "Figma Resources For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34436579",
+          "title": "Scale (6:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34436580",
+          "title": "Position (5:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34436582",
+          "title": "Opacity (5:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34436583",
+          "title": "Rotation (2:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34436584",
+          "title": "Fill (8:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34436586",
+          "title": "Exercise: Creating A Simple Interaction (5:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34436587",
+          "title": "Exercise: Animating The Navigation (10:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34436588",
+          "title": "Exercise: Creating A Larger Prototype (13:06)"
+        }
+      ]
+    },
+    {
+      "title": "Project: Photo Inspiration Application",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34916782",
+          "title": "Figma Resources For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34436745",
+          "title": "Design Assets (11:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34436746",
+          "title": "Filtering Through Categories (9:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34436747",
+          "title": "Screen Transitions And Drag Interactions (11:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34436748",
+          "title": "Simple Microinteractions (12:49)"
+        }
+      ]
+    },
+    {
+      "title": "Motion Design Principles",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293554",
+          "title": "Introduction (1:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293556",
+          "title": "Easing (2:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293552",
+          "title": "Offset And Delay (2:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293555",
+          "title": "Parenting (2:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293548",
+          "title": "Transformation (2:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293558",
+          "title": "Value Change (3:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293550",
+          "title": "Masking (2:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293557",
+          "title": "Overlay (1:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293549",
+          "title": "Cloning (1:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293553",
+          "title": "Obscuration (2:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293547",
+          "title": "Parallax (3:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293559",
+          "title": "Dimensionality (2:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293551",
+          "title": "Dolly And Zoom (2:48)"
+        }
+      ]
+    },
+    {
+      "title": "Creating Motion In Figma",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34916834",
+          "title": "Figma Resources For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34885196",
+          "title": "Exercise: Navigation Transitions (Navigation Design) (10:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34885344",
+          "title": "Exercise: Navigation Transitions (Heart) (10:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34665929",
+          "title": "Exercise: Navigation Transitions (Cart) (6:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34665930",
+          "title": "Exercise: Navigation Transitions (Home) (7:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34661879",
+          "title": "Exercise: Scrolling (Landing Page) (8:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34661881",
+          "title": "Exercise: Scrolling (Anchor Links) (4:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34661882",
+          "title": "Exercise: Scrolling (Parallax) (9:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34663297",
+          "title": "Exercise: Paging (Simple Carousel Dots) (11:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34663300",
+          "title": "Exercise: Paging (Carousel Animations) (12:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34672318",
+          "title": "Exercise: Dragging (Listing Card) (13:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34666605",
+          "title": "Exercise: Dragging (Image Drag) (8:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34672319",
+          "title": "Exercise: Dragging (Dragging Through Content) (11:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34672321",
+          "title": "Exercise: Dragging (Drag and Drop) (10:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34678229",
+          "title": "Exercise: Microinteractions (File Uploader) (5:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34681484",
+          "title": "Exercise: Microinteractions (File Uploader Part 2) (8:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34681486",
+          "title": "Exercise: Microinteractions (Pause and Play) (2:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34681489",
+          "title": "Exercise: Microinteractions (Like Button) (5:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34684180",
+          "title": "Exercise: Microinteractions (Like Interaction) (11:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34701062",
+          "title": "Exercise: Delight (Success Modal) (6:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34701063",
+          "title": "Exercise: Delight (Confetti Pop) (11:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34701065",
+          "title": "Exercise: Delight (Checklist) (9:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34701068",
+          "title": "Exercise: Delight (Checklist Part 2) (10:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34883959",
+          "title": "Exercise: Delight (Cart Button Part 1) (8:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34883963",
+          "title": "Exercise: Delight (Cart Button Part 2) (16:26)"
+        }
+      ]
+    },
+    {
+      "title": "The Motion Design Process",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293651",
+          "title": "Discovery And Research Part 1 (2:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293653",
+          "title": "Discovery And Research Part 2 (3:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293654",
+          "title": "Design And Storyboard (3:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293652",
+          "title": "Prototype (2:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34293655",
+          "title": "Testing (3:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34301283",
+          "title": "Helpful Tips (11:35)"
+        }
+      ]
+    },
+    {
+      "title": "Project: National Geographic Carousel",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34917044",
+          "title": "Figma Resources For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437017",
+          "title": "Simple Landing Page Carousel (12:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437020",
+          "title": "Complex Parallax And 3D Image Effect (7:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/37425911",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Microinteractions",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34917111",
+          "title": "Figma Resources For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34333577",
+          "title": "What Is A Microinteraction? (10:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34333576",
+          "title": "Why Microinteractions Are Important (9:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34333578",
+          "title": "Figmotion: Part 1 (11:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34333575",
+          "title": "Figmotion: Part 2 (11:49)"
+        }
+      ]
+    },
+    {
+      "title": "Project: Smart Home Application",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34917123",
+          "title": "Figma Resource For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437039",
+          "title": "Design A Mobile Home Screen (13:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437040",
+          "title": "Create A Toggle Interaction (5:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437042",
+          "title": "Temperature Adjustment Interactions (15:50)"
+        }
+      ]
+    },
+    {
+      "title": "Feedback",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34332783",
+          "title": "Why Is Feedback Important? (4:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34332784",
+          "title": "Constructive Feedback (6:48)"
+        }
+      ]
+    },
+    {
+      "title": "Project: Home Renovation Landing Page",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34917213",
+          "title": "Figma Resources For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437063",
+          "title": "Design A Landing Page (14:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437066",
+          "title": "Prototyping A Landing Page (5:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437071",
+          "title": "Parallax Effects: Part 1 (14:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437073",
+          "title": "Carousel (3:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437074",
+          "title": "Parallax Effects: Part 2 (6:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437075",
+          "title": "Gallery (6:33)"
+        }
+      ]
+    },
+    {
+      "title": "Project: Home Renovation Form",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34917226",
+          "title": "Figma Resources For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437121",
+          "title": "Motion In Form Elements (5:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437123",
+          "title": "Form Progress (4:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437126",
+          "title": "Animating Form Content (3:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437128",
+          "title": "Inputs And Buttons: Part 1 (7:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437129",
+          "title": "Inputs And Buttons: Part 2 (6:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437132",
+          "title": "Inputs And Buttons: Part 3 (6:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437134",
+          "title": "Inputs And Buttons: Part 4 (4:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437135",
+          "title": "Tooltips (3:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437137",
+          "title": "Carousel Input (8:02)"
+        }
+      ]
+    },
+    {
+      "title": "Project: Food Delivery Application",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34917248",
+          "title": "Figma Resources For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437201",
+          "title": "Introduction (4:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437204",
+          "title": "Using Parallax To Draw Attention (6:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437207",
+          "title": "List Transitions (9:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437209",
+          "title": "Alternative Overlays (6:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437210",
+          "title": "Masking And Overlay (12:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437211",
+          "title": "Microinteractions and Floating Action Buttons (8:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437213",
+          "title": "Order Progress: Part 1 (8:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437217",
+          "title": "Order Progress: Part 2 (10:54)"
+        }
+      ]
+    },
+    {
+      "title": "Showcasing Your Work",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34917274",
+          "title": "Figma Resources For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437288",
+          "title": "Kap For Mac (1:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437289",
+          "title": "How To Use Kap (5:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437290",
+          "title": "Using Your Kap Gif In Figma (3:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437294",
+          "title": "Screenity For Chrome And Windows (0:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437296",
+          "title": "How To Use Screenity (4:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34437298",
+          "title": "Using Your Screenity GIF in Figma (2:03)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/37425910",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/37576853",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34879465",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34879466",
+          "title": "Endorsements On LinkedIn"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1495820/lectures/34879467",
+          "title": "Learning Guideline"
+        }
+      ]
+    }
+  ]
+}

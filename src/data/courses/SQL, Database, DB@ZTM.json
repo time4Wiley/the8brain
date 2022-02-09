@@ -1,0 +1,1200 @@
+{
+  "title": "Complete SQL + Databases Bootcamp: Zero to Mastery",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1073491",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "SQL, Database, DB"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/22876708",
+          "title": "Complete SQL + Databases Bootcamp: Zero to Mastery (3:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23587590",
+          "title": "Course Outline (7:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23654436",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23482541",
+          "title": "The Big Data Breach At Keiko Corp (2:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/25202710",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "History And Story Of Data",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23465861",
+          "title": "What Is a Database? (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23420310",
+          "title": "I Didn't Learn Anything, Try Again... (6:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23465841",
+          "title": "Database Management System (DBMS) (7:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23502870",
+          "title": "Exercise: Building Amazon (5:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23457191",
+          "title": "Exercise: Building Amazon 2 (5:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23457183",
+          "title": "5 Types Of Databases (5:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23457189",
+          "title": "Exercise: What Is A Database? (1:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23457187",
+          "title": "Section Review (1:29)"
+        }
+      ]
+    },
+    {
+      "title": "Databases + SQL Fundamentals",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23648639",
+          "title": "SQL Playground (1:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171548",
+          "title": "What Is SQL? (2:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/24413384",
+          "title": "What Is A Query? (6:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23656490",
+          "title": "Exercise: Setting Up Your First Database"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171565",
+          "title": "Imperative vs Declarative (3:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171554",
+          "title": "History of SQL (2:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23656532",
+          "title": "Exercises: The Select Statement"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23656609",
+          "title": "Optional: History of SQL Deep Dive"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171564",
+          "title": "SQL Standards (4:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171546",
+          "title": "What Is A Database? Revisited (5:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171547",
+          "title": "Database Oriented Approach (6:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23656696",
+          "title": "Exercise: SQL Starter Quiz"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23633824",
+          "title": "Database Models (1:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171562",
+          "title": "Hierarchical And Networking Model (8:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171551",
+          "title": "Relational Model (7:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171549",
+          "title": "DBMS Revisited (13:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171561",
+          "title": "Relational Model Revisited (1:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171567",
+          "title": "Tables (3:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171553",
+          "title": "Columns (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171559",
+          "title": "Rows (2:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171558",
+          "title": "Primary And Foreign Keys (5:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171550",
+          "title": "OLTP vs OLAP (3:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171557",
+          "title": "Exercise: OLTP vs OLAP (3:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23656768",
+          "title": "Exercise: Relational Model Quiz"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23656825",
+          "title": "Endorsements On LinkedIn"
+        }
+      ]
+    },
+    {
+      "title": "Environment Setup",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23648640",
+          "title": "Why PostgreSQL (1:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23622746",
+          "title": "Environment Tooling (3:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/30786045",
+          "title": "Having Trouble Registering A Serial Key For ValentinaDB?"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23658893",
+          "title": "SQL Tooling Alternatives"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23180599",
+          "title": "Command Line 101 (5:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23658950",
+          "title": "Getting Help With The Setup"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23180600",
+          "title": "WINDOWS Setup (4:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23459393",
+          "title": "Optional: Setting Up Windows For Command Line (4:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23180604",
+          "title": "MAC Setup (6:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23959476",
+          "title": "MAC Commandline Tools"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23180601",
+          "title": "LINUX Setup (5:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/28696439",
+          "title": "Importing The Databases (6:03)"
+        }
+      ]
+    },
+    {
+      "title": "SQL Deep Dive",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23658973",
+          "title": "Query Along"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23648641",
+          "title": "Starting With Query (5:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23176812",
+          "title": "Exercise: Simple Queries (10:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/25322256",
+          "title": "Changing Column Names in a SELECT Query (3:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23176802",
+          "title": "Concat Function (4:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23176805",
+          "title": "What Is A Function In SQL? (6:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23176798",
+          "title": "Aggregate Functions (5:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23658992",
+          "title": "Exercise: Aggregate Functions"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23176807",
+          "title": "Commenting Your Queries (9:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/24413385",
+          "title": "Common SELECT Mistakes (8:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23176811",
+          "title": "Filtering Data (5:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23176808",
+          "title": "AND and OR (14:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23176804",
+          "title": "Exercise: Filtering Data (7:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23176803",
+          "title": "The NOT Keyword (7:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659084",
+          "title": "Exercise: The Where Clause"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/24413386",
+          "title": "Comparison Operators (6:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23660925",
+          "title": "Exercise: Comparison Operators"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23176797",
+          "title": "Logical Operators (7:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23176806",
+          "title": "Operator Precedence (9:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23176801",
+          "title": "Operator Precedence 2 (11:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/24929148",
+          "title": "Operator Precedence Extra"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659131",
+          "title": "Exercise: Operator Precedence"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23267547",
+          "title": "Checking For NULL Values (12:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23267543",
+          "title": "IS Keyword (13:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23267544",
+          "title": "NULL Coalescing (7:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659158",
+          "title": "Exercise: Null Value Coalescing"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23267545",
+          "title": "3 Valued Logic (12:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659286",
+          "title": "Exercise: 3 Valued Logic"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23267546",
+          "title": "BETWEEN + AND (2:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/24603302",
+          "title": "Exercise: BETWEEN + AND"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23421019",
+          "title": "IN Keyword (3:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659329",
+          "title": "Exercise: IN Keyword"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23334911",
+          "title": "LIKE (13:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659337",
+          "title": "Exercise: Like Keyword"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23334913",
+          "title": "Dates And Timezones (12:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23334918",
+          "title": "Setting Up Timezones (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23457694",
+          "title": "How Do We Format Date And Time? (6:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23334914",
+          "title": "Timestamps (10:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23334917",
+          "title": "Date Functions (4:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23334910",
+          "title": "Date Difference And Casting (1:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23334916",
+          "title": "Age Calculation (2:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23334909",
+          "title": "Extracting Information (2:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23334919",
+          "title": "Intervals (3:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659360",
+          "title": "Exercise: Date and Timestamp"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23334912",
+          "title": "DISTINCT (4:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659394",
+          "title": "Exercise: Distinct Keyword"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23334915",
+          "title": "Sorting Data (6:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/24696445",
+          "title": "Exercise Sorting Data"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23421020",
+          "title": "Multi Table SELECT (10:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23544274",
+          "title": "Inner Join (19:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23544272",
+          "title": "Self Join (4:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23544275",
+          "title": "Outer Join (11:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23544276",
+          "title": "Less Common Joins (6:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659435",
+          "title": "Exercise: Inner-Join"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23544273",
+          "title": "USING Keyword (4:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/37422099",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Advanced SQL",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23648637",
+          "title": "GROUP BY (14:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659456",
+          "title": "Group By Exercises"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610053",
+          "title": "HAVING Keyword (7:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/25317819",
+          "title": "Having Exercises"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610048",
+          "title": "Ordering Grouped Data (1:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610043",
+          "title": "Group By Mental Model (12:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610041",
+          "title": "Grouping Sets (9:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610051",
+          "title": "Rollup (7:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23633823",
+          "title": "Window What? (3:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610050",
+          "title": "Looking Through The Window (8:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610057",
+          "title": "PARTITION BY (5:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610039",
+          "title": "Order By Acting Strange (5:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610054",
+          "title": "Using Framing In Window Function (14:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610047",
+          "title": "Solving For Current Salary (10:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610052",
+          "title": "FIRST_VALUE (5:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610049",
+          "title": "LAST_VALUE (4:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610045",
+          "title": "SUM (5:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610042",
+          "title": "ROW_NUMBER (3:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659466",
+          "title": "Window Function Exercises"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23173279",
+          "title": "Conditional Statements (6:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/25317966",
+          "title": "Conditional Statement Exercise"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23173280",
+          "title": "NULLIF (2:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/25317958",
+          "title": "NULLIF Exercise"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610040",
+          "title": "Views...What Are They Good For? (3:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23173281",
+          "title": "View Syntax (5:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23173283",
+          "title": "Using Views (12:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/25317942",
+          "title": "Views Exercises"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23173282",
+          "title": "Indexes (11:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23547534",
+          "title": "Index Types (10:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23547533",
+          "title": "Index Algorithms (10:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/30287568",
+          "title": "Quick Note: Index Algorithms"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23610044",
+          "title": "What Are Subqueries? (8:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23547532",
+          "title": "Subqueries vs Joins (8:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23547536",
+          "title": "Subquery Guidelines As Types (11:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23547535",
+          "title": "Using Subqueries (11:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/27188766",
+          "title": "Quick Note: Titles For Employees"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23547537",
+          "title": "Getting The Latest Salaries (14:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23547531",
+          "title": "Subquery Operators (9:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659498",
+          "title": "Subquery Exercises"
+        }
+      ]
+    },
+    {
+      "title": "Database Management",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659521",
+          "title": "Before We Get Started"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23648638",
+          "title": "Time To Create Some Stuff! (9:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23459395",
+          "title": "Types Of Databases In A RDBMS (4:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23459394",
+          "title": "Default PostgreSQL Database (7:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23459392",
+          "title": "Template Databases (6:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23459397",
+          "title": "Creating A Database (4:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23486770",
+          "title": "Database Organization (7:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23486765",
+          "title": "Roles In Postgres (3:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23486764",
+          "title": "Role Attributes And Creation (4:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23486768",
+          "title": "Creating Users And Configuring Login (13:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23486763",
+          "title": "Privileges (3:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23542649",
+          "title": "Granting Privileges and Role Management (6:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23486767",
+          "title": "Best Practices For Role Management (4:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23486769",
+          "title": "Data Types & Boolean Type (7:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23542653",
+          "title": "Storing Text (5:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23542642",
+          "title": "Storing Numbers (7:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23542644",
+          "title": "Storing Arrays (4:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23542645",
+          "title": "Data Models And Naming Conventions (10:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23542647",
+          "title": "CREATE TABLE (8:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659541",
+          "title": "Extra information on CREATE TABLE"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23640935",
+          "title": "Column Constraints (5:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23640933",
+          "title": "Table Constraints (11:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659587",
+          "title": "Regexes!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23640932",
+          "title": "UUID Explained (5:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23640934",
+          "title": "Custom Data Types And Domains (6:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23542643",
+          "title": "Creating The Tables For ZTM (11:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659623",
+          "title": "Extra information on ALTER TABLE"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23542646",
+          "title": "Adding Students And Teachers (8:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23542648",
+          "title": "Creating A Course (12:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23612114",
+          "title": "Adding Feedback To A Course (6:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23612112",
+          "title": "A Tale Of 2 Feedbacks (9:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23665660",
+          "title": "SQL Exercises"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659682",
+          "title": "SQL Quiz"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23612117",
+          "title": "Backups And Why They Are Important (23:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23612113",
+          "title": "Backing Up In Postgres (7:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23612115",
+          "title": "Restoring A Database (6:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23612111",
+          "title": "Transactions (18:15)"
+        }
+      ]
+    },
+    {
+      "title": "Solving The Mystery",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23503499",
+          "title": "Clue #1 and #2 (1:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659734",
+          "title": "Getting ready to solve the mystery!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23482540",
+          "title": "Clue #3 (0:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659798",
+          "title": "Exercise: Solving The First Clues"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23599818",
+          "title": "Solution: Solving The First Clues (5:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23482531",
+          "title": "Clue #4 (0:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659852",
+          "title": "Exercise: Clue #4"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23599819",
+          "title": "Solution: Clue #4 (1:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23482543",
+          "title": "Clue #5 and #6 (1:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23659938",
+          "title": "Exercise: Clue #5 and #6"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23599820",
+          "title": "Solution: Clue #5 and #6 (5:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23482536",
+          "title": "Solving The Mystery (2:52)"
+        }
+      ]
+    },
+    {
+      "title": "Database Design",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621969",
+          "title": "System Design And SDLC (9:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621968",
+          "title": "SDLC Phases (6:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621989",
+          "title": "System Design Deep Dive (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621977",
+          "title": "Top-Down vs Bottom-Up (6:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621980",
+          "title": "DRIVEME Academy (6:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621978",
+          "title": "Top Down Design (4:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621979",
+          "title": "ER Model (5:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621981",
+          "title": "Step 1: Determining Entities (3:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621987",
+          "title": "Tooling For Diagramming (3:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23624695",
+          "title": "DRIVEME Academy Entities (13:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621972",
+          "title": "Step 2: Attributes (3:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621988",
+          "title": "Relational Model Extended (1:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171552",
+          "title": "Relational Schema And Instance (2:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171555",
+          "title": "Super Key and Candidate Key (6:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171560",
+          "title": "Primary Key and Foreign Key (7:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23171563",
+          "title": "Compound Composite And Surrogate Key (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621982",
+          "title": "DRIVEME Attributes (11:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621971",
+          "title": "Step 3: Relationships (12:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621983",
+          "title": "DRIVEME Relationships (12:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621970",
+          "title": "Step 4: Solving Many To Many (9:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621975",
+          "title": "Step 5: Subject Areas (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621974",
+          "title": "DRIVEME Subject Areas (2:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23624694",
+          "title": "Exercise: Painting Reservations (9:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23624696",
+          "title": "Exercise: Movie Theatre (5:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621976",
+          "title": "Bottom Up Design (5:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621985",
+          "title": "Anomalies (10:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621984",
+          "title": "Normalization (7:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621986",
+          "title": "Functional Dependencies (6:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621973",
+          "title": "Functional Dependencies 2 (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23621990",
+          "title": "The Normal Forms (4:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23633544",
+          "title": "Going from 0NF to 1NF (8:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23633539",
+          "title": "Going from 1NF to 2NF (5:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23633542",
+          "title": "Going from 2NF to 3NF (8:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/25322255",
+          "title": "Boyce-Codd Normal Form (9:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23633540",
+          "title": "Why 4NF And 5NF Are Not Useful (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23660374",
+          "title": "Exercise: Database Design Quiz"
+        }
+      ]
+    },
+    {
+      "title": "Database Landscape, Performance and Security",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23502871",
+          "title": "Bruno's Request (1:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23457182",
+          "title": "Scalability (4:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23502873",
+          "title": "Sharding (3:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23457184",
+          "title": "Replication (4:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23457193",
+          "title": "Backups (2:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23457185",
+          "title": "Distributed vs Centralized Databases (3:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23457186",
+          "title": "Database Security (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23660440",
+          "title": "Exercise: SQL Injection"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23476123",
+          "title": "Optional: All About Injections Attacks (19:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23476124",
+          "title": "Optional: Storing Passwords (10:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23660459",
+          "title": "Optional: How To Store Passwords"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23514347",
+          "title": "Relational vs NoSQL, PostgreSQL vs MongoDB Databases (10:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23482542",
+          "title": "Future Of Relational Databases (1:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23482534",
+          "title": "Elasticsearch (3:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23482535",
+          "title": "S3 Object Storage (1:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23482538",
+          "title": "Top Databases To Use (4:42)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23503500",
+          "title": "Thank You (1:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/37576734",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23660480",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23660527",
+          "title": "LinkedIn Endorsements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23660542",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23660554",
+          "title": "Coding Challenges"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23660701",
+          "title": "Become a ZTM Ambassador ➡ Refer new students. Earn cash."
+        }
+      ]
+    },
+    {
+      "title": "Bonus: Data Engineering (And the role of Machine Learning)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23502872",
+          "title": "Big Data + Analytics (2:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23660753",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23413298",
+          "title": "Reviewing How We Got Here (6:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23412192",
+          "title": "Data Engineering Introduction (3:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23412191",
+          "title": "What Is Data? (6:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23412196",
+          "title": "What Is A Data Engineer? (4:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23412197",
+          "title": "What Is A Data Engineer 2? (5:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23412190",
+          "title": "What Is A Data Engineer 3? (5:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23412198",
+          "title": "What Is A Data Engineer 4? (3:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23412189",
+          "title": "Types Of Databases (6:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23412193",
+          "title": "Hadoop, HDFS and MapReduce (4:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23412195",
+          "title": "Apache Spark and Apache Flink (2:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23412194",
+          "title": "Kafka and Stream Processing (4:33)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: Redis",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23660770",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23476122",
+          "title": "What Is Caching? (6:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23476127",
+          "title": "Introducing Redis (6:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23476126",
+          "title": "Installing Redis (4:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23476120",
+          "title": "Redis Commands (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23476129",
+          "title": "Redis Data Types (1:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23476130",
+          "title": "Redis Hashes (2:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23476131",
+          "title": "Redis Lists (3:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23476132",
+          "title": "Redis Sets and Sorted Sets (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23476137",
+          "title": "Section Summary (3:00)"
+        }
+      ]
+    },
+    {
+      "title": "Extra Bits: Databases In A Web App (with Node.js)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23660797",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23414261",
+          "title": "Setting Up Your Database (8:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23414259",
+          "title": "Connecting To The Database (7:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1073491/lectures/23414260",
+          "title": "Registering A User Part 1 (4:50)"
+        }
+      ]
+    }
+  ]
+}

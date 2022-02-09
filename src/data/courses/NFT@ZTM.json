@@ -1,0 +1,138 @@
+{
+  "title": "NFT 101: Introduction to NFTs",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1599759",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "NFT"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36841512",
+          "title": "Byte Sized Learning"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36841514",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        }
+      ]
+    },
+    {
+      "title": "Non Fungible Token Fundamentals",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36582376",
+          "title": "Our Goal (2:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36582378",
+          "title": "What Are NFTs? (1:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36582380",
+          "title": "Fungible vs Non-fungible (8:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36582381",
+          "title": "Why NFTs? (6:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36582382",
+          "title": "The Blockchain And NFTs (3:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36582384",
+          "title": "The Characteristics We Need For Ownership On The Blockchain (7:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36585817",
+          "title": "Ethereum (4:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36585818",
+          "title": "Smart Contracts (4:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36596137",
+          "title": "ERC-721 (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36596139",
+          "title": "ERC-1155 (3:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36596140",
+          "title": "Use Cases For NFTs (5:17)"
+        }
+      ]
+    },
+    {
+      "title": "Building And Selling NFTs",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36599857",
+          "title": "OpenSea (1:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/37426504",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36599970",
+          "title": "Installing MetaMask (1:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36599971",
+          "title": "Setting Up Your Account (2:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36599972",
+          "title": "Confirming Your Secret Phrase (2:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36599974",
+          "title": "Connecting Your Wallet (1:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36604845",
+          "title": "Configuring Your Profile (1:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36604846",
+          "title": "Creating a Collection (4:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36624654",
+          "title": "Creating an NFT (2:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36624655",
+          "title": "Listing Your NFT For Sale (4:41)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36841517",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36841518",
+          "title": "Endorsements On LinkedIn"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/36841519",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1599759/lectures/37576873",
+          "title": "Review This Course!"
+        }
+      ]
+    }
+  ]
+}

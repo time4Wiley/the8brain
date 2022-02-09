@@ -1,0 +1,1765 @@
+{
+  "title": "Complete Next.js Developer in 2022: Zero to Mastery",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1411345",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "Next.JS"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35677986",
+          "title": "Complete Next.js Developer in 2022: Zero to Mastery (2:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35623778",
+          "title": "Next.js Course Outline (5:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35668909",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35668912",
+          "title": "Complete Course Projects + Resources"
+        }
+      ]
+    },
+    {
+      "title": "Next.js Fundamentals (including React)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35662569",
+          "title": "Section Overview (2:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35559223",
+          "title": "What is Next.js? (1:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35666930",
+          "title": "Optional: Learn React Fundamentals"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35663106",
+          "title": "Benefits of Next.js and Different Rendering Techniques (4:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35663186",
+          "title": "Performance with Next.js (6:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35663187",
+          "title": "Image Component in Next.js (4:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35663190",
+          "title": "File Based Routing and SEO (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35663194",
+          "title": "Serverless Functions in Next.js (4:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35663196",
+          "title": "Next.js vs Create React App (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35669057",
+          "title": "Web Developer Monthly"
+        }
+      ]
+    },
+    {
+      "title": "Project #1: Build Your First Next.js App | Coffee Connoisseur",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32416532",
+          "title": "Project overview: What are we building? (1:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35559236",
+          "title": "Github Projects and Resources"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32416534",
+          "title": "Create a Next.js app: Zero Config (7:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35743345",
+          "title": "How To Upgrade Your Next.js Version (11:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37047259",
+          "title": "Exercise: Upgrade Next.js Version to Next.js 12"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37204002",
+          "title": "Quick Note: Next.js Versions"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37051969",
+          "title": "Upgrade to Next.js 12 (3:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37051968",
+          "title": "Next.js Version Breaking Changes (6:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37189481",
+          "title": "Features of Next.js 12 (13:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32416535",
+          "title": "Next.js setup project walkthrough (8:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33662947",
+          "title": "_app.js Exercise with Footer"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32926877",
+          "title": "_app.js Solution with Footer (4:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32926881",
+          "title": "What is Fast Refresh? (3:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32850285",
+          "title": "What are CSS modules? (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32850286",
+          "title": "Let's get ready for Home Page (1:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32850287",
+          "title": "App background (5:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32850288",
+          "title": "Banner Component (6:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32850289",
+          "title": "Mobile First Development & Banner Component Styling (7:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32850290",
+          "title": "Next.js Head Component (2:47)"
+        }
+      ]
+    },
+    {
+      "title": "Project #1: Routing with Next.js",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32857909",
+          "title": "Routing in Next.js (4:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32857910",
+          "title": "Add routing for Coffee Store Page (4:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32926963",
+          "title": "What is Dynamic Routing? (7:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32977724",
+          "title": "Add route using Link component (8:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32977725",
+          "title": "Add routes to Dynamic Pages with Link Component (1:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33663660",
+          "title": "Exercise: Routing"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32977728",
+          "title": "Solution: Routing (7:31)"
+        }
+      ]
+    },
+    {
+      "title": "Project #1: Styling in Next.js",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/32977729",
+          "title": "Style our homepage (5:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33644472",
+          "title": "Hero Image Generator (2:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33644474",
+          "title": "Add Hero Component (0:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33644545",
+          "title": "Next.js Image component (4:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33644477",
+          "title": "Hero Image on Home Page (2:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33644548",
+          "title": "Setup fonts in Next.js (1:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35560806",
+          "title": "Load fonts on the page (3:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35560810",
+          "title": "Document in Next.js (6:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35560811",
+          "title": "Apply fonts in Document (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37027268",
+          "title": "Quick Note: Fonts in Next.js"
+        }
+      ]
+    },
+    {
+      "title": "Hydration, SEO and Different Rendering Techniques in Next.js",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33647951",
+          "title": "What is SEO? (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33647953",
+          "title": "Pre-rendering in Next.js (5:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33647955",
+          "title": "Plain React vs Next.js app (4:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33647956",
+          "title": "Different Rendering Techniques in Next.js (2:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33647957",
+          "title": "How Pre-rendering helps with Performance (4:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33647958",
+          "title": "Static Site Generation (SSG) in Next.js (5:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33647959",
+          "title": "Incremental Static Regeneration (ISG) in Next.js (6:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35715848",
+          "title": "Quick Note: Incremental Static Regeneration"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33647960",
+          "title": "Serverside Rendering (SSR) in Next.js (4:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33648157",
+          "title": "Client Side Rendering (CSR) in Next.js (3:39)"
+        }
+      ]
+    },
+    {
+      "title": "Project #1: Static Coffee Store Pages",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33647962",
+          "title": "Project Component Architecture (2:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649494",
+          "title": "Card Component Structure (6:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649496",
+          "title": "Card Component Styling (7:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649495",
+          "title": "Grid Layout For Card Component (6:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649498",
+          "title": "Coffee Stores data"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649499",
+          "title": "Add Coffee Stores on Page (4:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649501",
+          "title": "Next.js: next.config.js Use Unsplash Image (4:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649503",
+          "title": "What to Pre-render in Coffee Connoisseur App (2:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649505",
+          "title": "Default Pre-rendering in Next.js (1:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649508",
+          "title": "Implement Static Site Generation (SSG) (6:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877323",
+          "title": "Characteristics of Get Static Props in Next.js (6:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877325",
+          "title": "Coffee Stores Heading (7:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877326",
+          "title": "Get Static Paths in Next.js (3:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877328",
+          "title": "Characteristics of Get Static Paths in Next.js (2:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877330",
+          "title": "Implement Get Static Props and Get Static Paths in Next.js (7:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877331",
+          "title": "Fallback in Next.js (9:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877332",
+          "title": "Fallback: false with 404 Page (2:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34900616",
+          "title": "Fallback: true (9:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34900626",
+          "title": "Refactor Coffee Store Page (5:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877334",
+          "title": "Coffee Store Page Styling (7:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877335",
+          "title": "Coffee Store Page Styling (continued) (9:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37204083",
+          "title": "Important Note: Foursquare UI Changes"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37204092",
+          "title": "Quick Note: Foursquare Accounts"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877338",
+          "title": "Setup Foursquare Account (5:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37204094",
+          "title": "Quick Note: Foursquare API Explorer"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877342",
+          "title": "Foursquare Places API (8:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37302458",
+          "title": "Important Note: Foursquare V3 Changes"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877341",
+          "title": "Foursquare Places API Playground (8:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877345",
+          "title": "Foursquare API in Get Static Props (1:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877347",
+          "title": "Fetch API Async Await (7:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877351",
+          "title": "Environment Variables in Next.js (6:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877349",
+          "title": "Coffee Stores Library (7:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877354",
+          "title": "Update Foursquare API in Get Static Paths (4:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33877355",
+          "title": "Update Coffee Store Library Data (3:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33881773",
+          "title": "Setup Unsplash API (6:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33922859",
+          "title": "Invoke Unsplash API for Coffee Store Images (7:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33922860",
+          "title": "Update Coffee Store Library with Images (2:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37204095",
+          "title": "Foursquare V3 Version Update"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33922861",
+          "title": "Display Coffee Store Images in the Card (8:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33922863",
+          "title": "Individual Coffee Store Page data (7:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33922864",
+          "title": "Update Styling for the App (1:57)"
+        }
+      ]
+    },
+    {
+      "title": "Project #1: Coffee Stores by Location",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33624395",
+          "title": "Section Overview (1:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33624396",
+          "title": "Geolocation API Docs (4:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33624398",
+          "title": "Using React Hooks (1:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33624399",
+          "title": "Create React Hook for Retrieving User Location (6:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33624400",
+          "title": "Use the hook for Retrieving User Location (10:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33625777",
+          "title": "Client Side Rendering (CSR) Coffee Stores (9:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649512",
+          "title": "Display Coffee Stores by Location on the Page (4:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649517",
+          "title": "Refresh the Dynamic Route (Non-static) (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649519",
+          "title": "Fallback in Next.js (3:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649520",
+          "title": "Use React Context and Why to Use Context? (4:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33649522",
+          "title": "Create Store Context (5:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33662758",
+          "title": "Create Store Reducer in Context (7:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33663466",
+          "title": "Store Coffee Stores in Store Context (8:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33664757",
+          "title": "Coffee Store Page with Context (3:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33667787",
+          "title": "Coffee Store Page for Non-SSG Routes (6:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33674976",
+          "title": "Refactor Coffee Store App (4:30)"
+        }
+      ]
+    },
+    {
+      "title": "Project #1: Serverless Functions",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33701984",
+          "title": "What are API's? (7:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33701985",
+          "title": "What are Serverless Functions? (6:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33701986",
+          "title": "API routing with Next.js (2:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33701988",
+          "title": "Hello World API route (4:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35742814",
+          "title": "Lesson: Create a Serverless Function"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34235021",
+          "title": "Catch All Routes in Next.js (5:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35561312",
+          "title": "Create a Serverless Function for Getting Coffee Stores (8:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35561313",
+          "title": "Invoke Serverless Function: Get Coffee Stores (5:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35561326",
+          "title": "Serverless Functions inside Get Static Props (3:16)"
+        }
+      ]
+    },
+    {
+      "title": "Project #1: Data Storage Using Airtable",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34073067",
+          "title": "Project Architecture (7:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33760484",
+          "title": "What is Airtable? (4:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33760479",
+          "title": "Setup Airtable (8:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33760488",
+          "title": "API Architecture: Coffee Store Page (5:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33767092",
+          "title": "Airtable Library (7:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33767235",
+          "title": "Basic Coffee Store API / Serverless function (6:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33773628",
+          "title": "API Design: Create Coffee Store (7:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33858585",
+          "title": "Find Coffee Store API (5:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33845715",
+          "title": "Transform Coffee Store Data (5:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33858586",
+          "title": "Airtable Docs: Create Coffee Store (9:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33883561",
+          "title": "Airtable Docs: Create Coffee Store (continued) (5:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33909079",
+          "title": "API Error Handling (5:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33910815",
+          "title": "Refactor Create Coffee Store API (9:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33910817",
+          "title": "API Architecture: Invoke API on Coffee Store Page (4:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33922660",
+          "title": "Invoke Coffee Store API once user navigates (9:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/33943918",
+          "title": "Create Coffee Store for Statically Generated Route (5:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37425994",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Project #1: SWR with Client Side Rendering",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35563290",
+          "title": "SWR Design (3:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35581426",
+          "title": "Voting Feature Design (4:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35587042",
+          "title": "Coffee Store By Id API (7:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35587043",
+          "title": "Coffee Store By Id API Validation (5:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35596499",
+          "title": "Refactor Coffee Store By Id API (8:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35596510",
+          "title": "What is SWR? (State While Revalidate) (7:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37829931",
+          "title": "Important Note: Latest SWR Version: Breaking Changes"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35596508",
+          "title": "SWR Docs Fetch API (0:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35599272",
+          "title": "Use SWR on the Coffee Store Page (8:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35607997",
+          "title": "API Design: Favourite Coffee Store By Id API (6:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35607998",
+          "title": "Airtable Docs: Favourite Coffee Store By Id API (6:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35630025",
+          "title": "Favourite Coffee Store By Id API (9:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35630026",
+          "title": "Favourite Coffee Store By Id API 2 (7:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35638613",
+          "title": "Favourite Coffee Store By Id API 3 (8:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35643262",
+          "title": "Favourite Coffee Store By Id API 4 (5:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35644685",
+          "title": "Application Demo (5:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35694512",
+          "title": "Airtable Final Demo (3:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35694519",
+          "title": "Refactor and Cleanup (4:19)"
+        }
+      ]
+    },
+    {
+      "title": "Project #1: Deployment and Build Optimization",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34306958",
+          "title": "What is Deployment? (4:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34306960",
+          "title": "Running Your Application Next Build (8:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34306962",
+          "title": "Cloud Ready Application (5:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34338849",
+          "title": "Setting up Github Repository (1:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34307042",
+          "title": "Create a Github Repository and Push Your Code (6:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34338854",
+          "title": "Deployment to Vercel (10:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37207666",
+          "title": "Quick Note: Environment Variables"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34338862",
+          "title": "Vercel Dashboard Walkthrough (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34338865",
+          "title": "Vercel Production Build Files (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34357712",
+          "title": "What is Netlify? (6:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34357714",
+          "title": "Netlify Deployment (10:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37677440",
+          "title": "Quick Note: Netlify Plugin Updates"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34357716",
+          "title": "Netlify Deployment Configuration Changes (9:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34357718",
+          "title": "Lighthouse Performance (4:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35716051",
+          "title": "Quick Note: Lighthouse Score"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34361385",
+          "title": "Lighthouse Performance and SEO Report (9:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35742862",
+          "title": "Lesson: Lighthouse Improvements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35742864",
+          "title": "Quick Note: Lighthouse Performance"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Project Setup | Netflix with Next.js",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35783908",
+          "title": "Project Overview (5:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35783909",
+          "title": "Setting Up Our Master Project (3:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35783910",
+          "title": "Setup Fonts (3:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35783911",
+          "title": "Add Font to _Document (5:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35783912",
+          "title": "Global App Styling (7:56)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Netflix Home Page and Video",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34490552",
+          "title": "Netflix Component Architecture (4:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35776739",
+          "title": "Github Projects and Resources"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34490555",
+          "title": "Banner Component (3:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34496205",
+          "title": "Banner Component Structure (9:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34496985",
+          "title": "Banner Component Button With Font (8:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34496986",
+          "title": "Icons with Google Fonts (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34498883",
+          "title": "NavBar Component Structure (7:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34515472",
+          "title": "NavBar Component Styling (8:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34515473",
+          "title": "NavBar Router (8:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34515474",
+          "title": "NavBar Dropdown (4:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34515476",
+          "title": "NavBar Logo Icons (7:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34519926",
+          "title": "Card Component Architecture (2:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34526522",
+          "title": "Card Component Structure (6:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34526523",
+          "title": "Card Component Size (8:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34526529",
+          "title": "Card Component Error Handling (9:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34540415",
+          "title": "Card Component Image Error (4:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34561324",
+          "title": "Framer Motion with Card (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34561325",
+          "title": "Implement Framer Motion with Card (8:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34561326",
+          "title": "Section Cards Architecture (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34562482",
+          "title": "Section Cards Structure (6:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34576586",
+          "title": "Section Cards Styling (5:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34576587",
+          "title": "Card Scaling Feature (8:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34583117",
+          "title": "Refactor Section Cards Component (8:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34583118",
+          "title": "Youtube API Overview (2:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34603903",
+          "title": "Which Youtube API To Use? (6:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34603904",
+          "title": "Implement Youtube Search API (6:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34603905",
+          "title": "Implement Youtube Search API (continued) (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34603906",
+          "title": "Data Fetching Technique: Server Side Rendering (6:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34603908",
+          "title": "Serverside Rendering (SSR) Rules in Next.js (2:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34603909",
+          "title": "Implement Serverside Rendering (SSR) to Fetch Videos (6:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34603912",
+          "title": "Youtube API: Google Console Project (7:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34627696",
+          "title": "Invoke Youtube API (7:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34627697",
+          "title": "Implement More Sections For Videos (5:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34628412",
+          "title": "Error Handling for Video Library (6:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34632833",
+          "title": "Popular Videos API Docs (8:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34634452",
+          "title": "Implement Popular Videos (6:17)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Authentication with Magic | Netflix with Next.js",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34639750",
+          "title": "Section Overview (2:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34639751",
+          "title": "What is Passwordless Authentication? (4:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34650500",
+          "title": "Overview of Sign-in Page (3:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34650501",
+          "title": "Setup of Sign-in Page (5:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34650502",
+          "title": "Sign-in Header Component (3:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34650503",
+          "title": "Sign-in Page Structure (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34656223",
+          "title": "Sign-in Page Styling (7:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34662014",
+          "title": "Sign-in Form Validation (9:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34663217",
+          "title": "Sign-in Routing To Dashboard (7:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34672266",
+          "title": "What is Magic Links? (8:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34672268",
+          "title": "Setup Magic Account (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35563550",
+          "title": "Install Magic in App (3:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34672269",
+          "title": "Magic API Keys (6:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34672271",
+          "title": "Magic SDK (continued) (2:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34672275",
+          "title": "Magic Docs For Login (4:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34672276",
+          "title": "Magic Implementation (8:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34678084",
+          "title": "Magic SDK Storage and Routing (4:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34678085",
+          "title": "Magic Loading State (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34678697",
+          "title": "Routing Delay with Login (6:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/34681449",
+          "title": "Username on NavBar (9:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35229228",
+          "title": "SignOut a User (8:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35229231",
+          "title": "App Route once LoggedIn (7:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35229235",
+          "title": "Routing Flicker with Login (6:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35229236",
+          "title": "Loading Component (4:22)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Incremental Static Regeneration | Netflix with Next.js",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35560850",
+          "title": "Project Architecture (3:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35560851",
+          "title": "What Are We Building and Video Id Page Route (4:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35560852",
+          "title": "Create Dynamic Route: Video Id Page (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35651454",
+          "title": "Link Dynamic Page to Card Component Routing (4:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35743070",
+          "title": "Exercise: Link Component"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35671319",
+          "title": "Connect Link Component (2:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35743072",
+          "title": "Solution: Link Component"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35671328",
+          "title": "Connect Banner Component (3:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35671337",
+          "title": "React Modal Docs (2:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35674611",
+          "title": "Install React Modal Component (8:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35711073",
+          "title": "Modal Component Styles (1:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35711102",
+          "title": "Implement Youtube API Player & Docs (8:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35711105",
+          "title": "Youtube Player Styling (4:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35711109",
+          "title": "Modal Component Structure (9:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35711112",
+          "title": "Modal Styling (3:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35711116",
+          "title": "Which Data Fetching Techniques To Use? (7:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35715661",
+          "title": "What is Incremental Static Regeneration? (7:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35715662",
+          "title": "Incremental Static Regeneration Fallback (4:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35716198",
+          "title": "ISR (Incremental Static Regeneration) Demo and Next Steps (3:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35733690",
+          "title": "Incremental Static Regeneration (ISR) Docs (4:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35733691",
+          "title": "Implement Incremental Static Regeneration (ISR) (7:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35737703",
+          "title": "Incremental Static Regeneration with Youtube API Docs (5:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35737707",
+          "title": "Architectural Diagram (1:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35742730",
+          "title": "Youtube API by ID (10:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35749541",
+          "title": "Fix Link Component Route (2:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35749544",
+          "title": "ISR Query Params (5:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35768905",
+          "title": "Navbar Component (4:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35768909",
+          "title": "YouTube Quota Limit: Test Data (8:50)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Hasura GraphQL | Netflix with Next.js",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35563594",
+          "title": "Section Overview (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35580422",
+          "title": "Why GraphQL? (7:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35580424",
+          "title": "What is GraphQL? (6:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35580596",
+          "title": "GraphQL Example (4:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35580597",
+          "title": "GQL Query vs Mutation (5:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35580599",
+          "title": "What is Hasura? (5:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35580600",
+          "title": "Hasura API Explorer (7:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35580601",
+          "title": "Hasura Dashboard and Signup (5:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35580603",
+          "title": "Hasura Create PostGres DB (5:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35740066",
+          "title": "Hasura DB Architecture (7:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35740068",
+          "title": "Hasura DB Architecture (continued) (6:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35740072",
+          "title": "Setup DB (6:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35740074",
+          "title": "Hasura Try Out Tables (5:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35740075",
+          "title": "Query Live Hasura Server (6:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35740076",
+          "title": "Query Live Hasura Server with Environment Variables (5:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35740078",
+          "title": "Hasura User Roles (7:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35740079",
+          "title": "User Roles: Why JWT (JSON Web Tokens) (5:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35740080",
+          "title": "What is JWT (JSON Web Token) (6:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35740081",
+          "title": "JWT (JSON Web Token) Secret (6:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35740082",
+          "title": "Create JWT Secret and Update Roles (7:24)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Authentication with Hasura | Netflix with Next.js",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739950",
+          "title": "Section Overview (2:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739954",
+          "title": "Authentication Architecture (5:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739956",
+          "title": "Login API (5:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739959",
+          "title": "Login API Architecture (6:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739960",
+          "title": "Login API Create Auth Header (5:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739962",
+          "title": "Login API Magic Server Side SDK (6:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739963",
+          "title": "Login API Magic Server Side SDK Testing (5:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739965",
+          "title": "Login API JWT (JSON Web Token) Docs (4:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739966",
+          "title": "Login API Create JWT (JSON Web Token) (8:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739967",
+          "title": "Login API Hasura Check New User (5:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739968",
+          "title": "Login API Check New User Query (9:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739970",
+          "title": "Login API Refactor (7:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739971",
+          "title": "Login API New User Hasura Dashboard (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739973",
+          "title": "Login API Create New User Mutation (10:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739975",
+          "title": "Login API Overview and Cookie (5:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739979",
+          "title": "Login API Set Token Cookie (8:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739980",
+          "title": "Login API Set Token Cookie Testing (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739982",
+          "title": "Login API Cleanup (2:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35739983",
+          "title": "Invoke Login API on Login (9:15)"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Ratings Service and My List Page | Netflix with Next.js",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36394980",
+          "title": "Section Overview (1:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36394983",
+          "title": "App Architecture (5:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36403165",
+          "title": "Like and Dislike Button Functionality (9:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36421505",
+          "title": "Like and Dislike Button Styling (2:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36421508",
+          "title": "Like and Dislike Button States (8:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36421511",
+          "title": "Stats Rating API Architecture (4:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36421516",
+          "title": "Stats API Creation (3:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36421520",
+          "title": "Build Stats with Request Cookies (9:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36421524",
+          "title": "Stats API Overview with JWT Verification (4:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36421527",
+          "title": "Stats API JWT Verification (3:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36421531",
+          "title": "Stats API Design GraphQL (4:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36421535",
+          "title": "Stats API Design Find User By ID (3:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36423059",
+          "title": "Find User By Id GraphQL (9:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36425754",
+          "title": "Use Query String For Video ID (3:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36444403",
+          "title": "Conditional Logic Does Video Exist? (3:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36461176",
+          "title": "GraphiQL: Insert and Update Mutation (8:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36461177",
+          "title": "Stats API Use Insert and Update Mutation (10:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36473585",
+          "title": "Stats API Testing (4:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36473586",
+          "title": "Insert And Update Mutation Implementation (7:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36473588",
+          "title": "Stats API Wrap (9:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36943233",
+          "title": "Overview of Like Dislike Functionality (1:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36947808",
+          "title": "Like Dislike Functionality (10:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36947812",
+          "title": "Like Dislike Functionality Testing (3:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36947825",
+          "title": "Stats API Design: GET Request (3:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36950048",
+          "title": "Tweak Stats API GET Request (5:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36950049",
+          "title": "Stats API Refactor (6:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36954540",
+          "title": "Invoke Stats API on Frontend (9:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36959879",
+          "title": "Watch It Again Architecture (4:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36959885",
+          "title": "Watch it Again Query Hasura (6:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36959891",
+          "title": "Watch it Again Call in SSR (ServerSide Rendering) (6:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36963688",
+          "title": "Render Watch it Again Section on Page (6:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36965899",
+          "title": "High Resolution Images in the App (5:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36967783",
+          "title": "Cookies inside SSR (ServerSide Rendering) (5:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36967786",
+          "title": "Redirects in SSR (ServerSide Rendering) (9:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36974847",
+          "title": "Create Redirect User Hook (4:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36974848",
+          "title": "Testing the Redirect User Hook (5:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36974849",
+          "title": "My List Page Architecture (2:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36974851",
+          "title": "Build My List Page (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36978642",
+          "title": "Styling My List Page (2:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36978644",
+          "title": "Hasura Query for My List Page (4:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36979398",
+          "title": "Server Side Render My List Page (7:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36979400",
+          "title": "Wrap Cards in My List Page (8:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36981392",
+          "title": "Logout Assignment (6:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36993848",
+          "title": "Logout Solution"
+        }
+      ]
+    },
+    {
+      "title": "NextJS 12: The New Features",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37189480",
+          "title": "NextJS 12: Middleware Introduction (6:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37189482",
+          "title": "NextJS 12: Middleware Lets Try it Out (6:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37189479",
+          "title": "NextJS 12: Middleware Implementation Continued (9:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37203950",
+          "title": "Lesson: Next.js 12 Middleware"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37203951",
+          "title": "Solution: Next.js Middleware"
+        }
+      ]
+    },
+    {
+      "title": "Master Project: Deployment | Netflix with Next.js",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36189587",
+          "title": "How To Make Cloud Ready App (5:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36189589",
+          "title": "Create Github Repo (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36189602",
+          "title": "Application Cleanup (3:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36189603",
+          "title": "Deployment To Vercel (7:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36189606",
+          "title": "Try The App On Vercel (8:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36189607",
+          "title": "Application Testing on Vercel (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/36189609",
+          "title": "Run Production Next Build (6:37)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37425993",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/37576859",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35669040",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35669044",
+          "title": "LinkedIn Endorsements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35669046",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35669050",
+          "title": "Coding Challenges"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Learning React",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35658226",
+          "title": "Introduction To React.js (12:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35654594",
+          "title": "Create React App (7:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35654596",
+          "title": "React App Folder Structure (8:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35654597",
+          "title": "React Fundamentals (3:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35654601",
+          "title": "React Fundamentals 2 (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35654602",
+          "title": "Class vs Functional App.js (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35658247",
+          "title": "Hooks vs Classes (2:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35907980",
+          "title": "Quick Note: Service Worker File"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35658248",
+          "title": "Your First React Component (20:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659070",
+          "title": "Building A React App 1 (16:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659071",
+          "title": "React.Fragment and Semantic HTML"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659074",
+          "title": "Exercise: Learn to Read the Docs"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659075",
+          "title": "Building A React App 2 (9:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659077",
+          "title": "Building A React App 3 (26:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659078",
+          "title": "Styling Your React App (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659082",
+          "title": "Quick Note: JSON Placeholder"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659085",
+          "title": "Building A React App 4 (15:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659087",
+          "title": "Building A React App 5 (8:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659088",
+          "title": "Building A React App 6 (9:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659090",
+          "title": "Project Files"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659091",
+          "title": "Keeping Your Projects Up To Date (8:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659094",
+          "title": "Exercise: React 17"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659095",
+          "title": "Solution: React 17 (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659097",
+          "title": "React Review (2:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659098",
+          "title": "Error Boundary In React (8:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35659124",
+          "title": "Deploying Our React App (5:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35661797",
+          "title": "React Hooks (3:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35661798",
+          "title": "React Hooks 2 (3:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35661800",
+          "title": "React Hooks 3 (3:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35661801",
+          "title": "React Hooks 4 (4:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35661803",
+          "title": "React Hooks 5 (3:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35661805",
+          "title": "React Hooks 6 (6:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35661806",
+          "title": "React Hooks 7 (9:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35661810",
+          "title": "React Hooks 8 (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35661812",
+          "title": "Project Files - Hooks"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35661813",
+          "title": "React Hooks 9 (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1411345/lectures/35666884",
+          "title": "Next Steps"
+        }
+      ]
+    }
+  ]
+}

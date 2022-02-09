@@ -1,0 +1,1010 @@
+{
+  "title": "JavaScript: The Advanced Concepts",
+  "url": "https://academy.zerotomastery.io/courses/698487",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "JS"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538207",
+          "title": "Advanced JavaScript Concepts (3:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538206",
+          "title": "How To Succeed In This Course (5:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13220817",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/14106908",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "JavaScript Foundation",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538779",
+          "title": "Section Overview (2:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538778",
+          "title": "Javascript Engine (5:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538781",
+          "title": "Exercise: Javascript Engine (0:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538780",
+          "title": "Inside The Engine (4:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538784",
+          "title": "Exercise: JS Engine For All (2:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538795",
+          "title": "Interpreters and Compilers (6:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13220864",
+          "title": "Babel + TypeScript"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538792",
+          "title": "Inside the V8 Engine (8:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538790",
+          "title": "Comparing Other Languages (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538787",
+          "title": "Writing Optimized Code (8:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538796",
+          "title": "WebAssembly (3:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538785",
+          "title": "Call Stack and Memory Heap (14:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538786",
+          "title": "Stack Overflow (3:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538794",
+          "title": "Garbage Collection (4:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538791",
+          "title": "Memory Leaks (6:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538782",
+          "title": "Single Threaded (1:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538783",
+          "title": "Exercise: Issue With Single Thread (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538793",
+          "title": "Javascript Runtime (14:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538788",
+          "title": "Node.js (6:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13220856",
+          "title": "Exercise: Fix This Code"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12538789",
+          "title": "Section Review (5:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/14130698",
+          "title": "Web Developer Monthly"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/16877704",
+          "title": "Advanced JavaScript Cheatsheet"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/23003675",
+          "title": "Endorsements On LinkedIn"
+        }
+      ]
+    },
+    {
+      "title": "Javascript Foundation II",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539493",
+          "title": "Section Overview (1:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539494",
+          "title": "Execution Context (8:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539492",
+          "title": "Lexical Environment (5:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539499",
+          "title": "Hoisting (10:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539501",
+          "title": "Exercise: Hoisting (3:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539509",
+          "title": "Exercise: Hoisting 2 (7:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13220911",
+          "title": "Exercise: Hoisting 3"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539510",
+          "title": "Function Invocation (6:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539498",
+          "title": "arguments Keyword (4:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539514",
+          "title": "Variable Environment (6:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539496",
+          "title": "Scope Chain (12:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539502",
+          "title": "[[scope]] (2:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539513",
+          "title": "Exercise: JS is Weird (4:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539508",
+          "title": "Function Scope vs Block Scope (3:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539507",
+          "title": "Exercise: Block Scope (3:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539500",
+          "title": "Global Variables (4:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539512",
+          "title": "IIFE (13:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539505",
+          "title": "this Keyword (16:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539506",
+          "title": "Exercise: Dynamic Scope vs Lexical Scope (12:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539495",
+          "title": "call(), apply(), bind() (11:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13220903",
+          "title": "Exercise: call(), apply()"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539511",
+          "title": "bind() and currying (3:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539497",
+          "title": "Exercise: this Keyword (3:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13220901",
+          "title": "Exercise: this Keyword 2"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539504",
+          "title": "Context vs Scope (1:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12539503",
+          "title": "Section Review (2:47)"
+        }
+      ]
+    },
+    {
+      "title": "Types in JavaScript",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12540594",
+          "title": "Section Overview (1:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12540595",
+          "title": "Javascript Types (13:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12540596",
+          "title": "Array.isArray() (2:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12540593",
+          "title": "Pass By Value vs Pass By Reference (17:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221046",
+          "title": "Exercise: Compare Objects"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221044",
+          "title": "Exercise: Pass By Reference"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12540597",
+          "title": "Type Coercion (9:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221039",
+          "title": "Exercise: Type Coercion"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221031",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12541140",
+          "title": "JTS: Dynamic vs Static Typing (11:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12541141",
+          "title": "JTS: Weakly vs Strongly Typed (3:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12541143",
+          "title": "JTS: Static Typing In JavaScript (9:45)"
+        }
+      ]
+    },
+    {
+      "title": "The 2 Pillars: Closures and Prototypal Inheritance",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543662",
+          "title": "Section Overview (1:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543660",
+          "title": "Functions Are Objects (9:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543668",
+          "title": "First Class Citizens (4:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543675",
+          "title": "Extra Bits: Functions (3:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543658",
+          "title": "Higher Order Functions (17:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543663",
+          "title": "Exercise: Higher Order Functions (3:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543659",
+          "title": "Closures (15:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543667",
+          "title": "Exercise: Closures (3:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543678",
+          "title": "Closures and Memory (7:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543661",
+          "title": "Closures and Encapsulation (7:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543677",
+          "title": "Exercise: Closures 2 (1:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543657",
+          "title": "Solution: Closures 2 (2:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543669",
+          "title": "Exercise: Closures 3 (1:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543670",
+          "title": "Solution: Closures 3 (3:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543665",
+          "title": "Closures Review (1:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543671",
+          "title": "Prototypal Inheritance (6:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543680",
+          "title": "Prototypal Inheritance 2 (9:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543672",
+          "title": "Prototypal Inheritance 3 (7:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543674",
+          "title": "Prototypal Inheritance 4 (10:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543679",
+          "title": "Prototypal Inheritance 5 (2:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543676",
+          "title": "Prototypal Inheritance 6 (9:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543664",
+          "title": "Exercise: Prototypal Inheritance (2:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543673",
+          "title": "Solution: Prototypal Inheritance (8:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221133",
+          "title": "Exercise: Prototypal Inheritance with this"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/37419126",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12543666",
+          "title": "Section Review (3:57)"
+        }
+      ]
+    },
+    {
+      "title": "Object Oriented Programming",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545768",
+          "title": "Section Overview (6:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545780",
+          "title": "OOP and FP (3:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545766",
+          "title": "OOP Introduction (3:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545778",
+          "title": "OOP1: Factory Functions (8:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545765",
+          "title": "OOP2: Object.create() (7:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545779",
+          "title": "OOP3: Constructor Functions (13:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545773",
+          "title": "More Constructor Functions (8:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545777",
+          "title": "Funny Thing About JS... (2:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545774",
+          "title": "OOP4: ES6 Classes (8:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545772",
+          "title": "Object.create() vs Class (1:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545769",
+          "title": "this - 4 Ways (4:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545770",
+          "title": "Inheritance (14:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545781",
+          "title": "Inheritance 2 (5:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/24867179",
+          "title": "ES2020: Private Class Variables"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545775",
+          "title": "Public vs Private (4:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545776",
+          "title": "OOP in React.js (3:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545767",
+          "title": "4 pillars of OOP (8:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221261",
+          "title": "Exercise: OOP and Polymorphism"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12545771",
+          "title": "Reviewing OOP (2:06)"
+        }
+      ]
+    },
+    {
+      "title": "Functional Programming",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550234",
+          "title": "Section Overview (2:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550233",
+          "title": "Functional Programming Introduction (3:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550252",
+          "title": "Exercise: Amazon (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550232",
+          "title": "Pure Functions (4:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550236",
+          "title": "Pure Functions 2 (7:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550242",
+          "title": "Can Everything Be Pure? (4:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550237",
+          "title": "Idempotent (4:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550249",
+          "title": "Imperative vs Declarative (6:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550239",
+          "title": "Immutability (5:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550243",
+          "title": "Higher Order Functions and Closures (7:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550250",
+          "title": "Currying (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550246",
+          "title": "Partial Application (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221349",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550244",
+          "title": "MCI: Memoization 1 (7:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550251",
+          "title": "MCI: Memoization 2 (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550248",
+          "title": "Compose and Pipe (12:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550247",
+          "title": "Arity (1:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550240",
+          "title": "Is FP The Answer To Everything? (2:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550235",
+          "title": "Solution: Amazon (21:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550245",
+          "title": "Reviewing FP (5:14)"
+        }
+      ]
+    },
+    {
+      "title": "OOP vs FP",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550238",
+          "title": "Composition vs Inheritance (16:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550241",
+          "title": "OOP vs FP (4:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12550253",
+          "title": "OOP vs FP 2 (5:19)"
+        }
+      ]
+    },
+    {
+      "title": "Asynchronous JavaScript",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12551164",
+          "title": "Section Overview (4:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221363",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12551439",
+          "title": "How JavaScript Works (24:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12551440",
+          "title": "Promises (22:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12551442",
+          "title": "ES8 - Async Await (15:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12551441",
+          "title": "ES9 (ES2018) (5:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12551438",
+          "title": "ES9 (ES2018) - Async (11:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12551165",
+          "title": "Job Queue (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12551163",
+          "title": "Parallel, Sequence, Race (10:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/25054928",
+          "title": "ES2020: allSettled() (4:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/35654520",
+          "title": "ES2021: any()"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12551162",
+          "title": "Threads, Concurrency and Parallelism (11:27)"
+        }
+      ]
+    },
+    {
+      "title": "Modules in JavaScript",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12552796",
+          "title": "Section Overview (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12552799",
+          "title": "What Is A Module? (11:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12552800",
+          "title": "Module Pattern (13:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12552797",
+          "title": "Module Pattern Pros and Cons (4:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12552795",
+          "title": "CommonJS, AMD, UMD (10:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12552798",
+          "title": "ES6 Modules (8:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12552801",
+          "title": "Section Review (2:14)"
+        }
+      ]
+    },
+    {
+      "title": "Error Handling",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12553043",
+          "title": "Section Overview (1:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12553040",
+          "title": "Errors In JavaScript (8:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12553039",
+          "title": "Try Catch (9:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12553042",
+          "title": "Async Error Handling (12:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12553044",
+          "title": "Async Error Handling 2 (3:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221427",
+          "title": "Exercise: Error Handling"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12553041",
+          "title": "Extending Errors (5:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12553045",
+          "title": "Section Review (1:18)"
+        }
+      ]
+    },
+    {
+      "title": "Thank You",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221463",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221532",
+          "title": "Endorsements On LinkedIn"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221541",
+          "title": "Become an Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221547",
+          "title": "Coding Challenges"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12553053",
+          "title": "Thank You (0:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/37576417",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221555",
+          "title": "Bonus Materials"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/19983954",
+          "title": "Become a ZTM Ambassador ➡ Refer new students. Earn cash."
+        }
+      ]
+    },
+    {
+      "title": "Bonus: Data Structures In JavaScript",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221708",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555172",
+          "title": "Section Overview (1:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555160",
+          "title": "What Is A Data Structure? (5:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555173",
+          "title": "How Computers Store Data (12:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555157",
+          "title": "Data Structures In Different Languages (3:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555177",
+          "title": "Operations On Data Structures (3:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555159",
+          "title": "Array Introduction (13:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555179",
+          "title": "Static vs Dynamic Arrays (6:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555171",
+          "title": "Implementing An Array (17:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555166",
+          "title": "Strings and Arrays (1:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555176",
+          "title": "Exercise: Reverse A String (1:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555163",
+          "title": "Solution Reverse A String (10:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555164",
+          "title": "Exercise: Merge Sorted Arrays (0:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555156",
+          "title": "Solution: Merge Sorted Arrays (14:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555180",
+          "title": "Arrays Review (3:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555169",
+          "title": "Hash Tables Introduction (4:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555174",
+          "title": "Hash Function (5:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555165",
+          "title": "Hash Collisions (9:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555161",
+          "title": "Hash Tables in Different Languages (3:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555167",
+          "title": "Exercise: Implement A Hash Table (3:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555178",
+          "title": "Solution: Implement A Hash Table (17:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555162",
+          "title": "keys() (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555168",
+          "title": "Hash Tables vs Arrays (2:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555170",
+          "title": "Exercise: First Recurring Character (1:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555158",
+          "title": "Solution: First Recurring Character (16:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12555175",
+          "title": "Hash Tables Review (6:09)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix I: Javascript Basics",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221765",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12561747",
+          "title": "What is JavaScript? (5:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12561744",
+          "title": "Your First JavaScript (11:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12561751",
+          "title": "Variables (15:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12561742",
+          "title": "Control Flow (16:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12561740",
+          "title": "JavaScript On Our Webpage (9:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12561752",
+          "title": "Functions (23:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12561741",
+          "title": "Data Structures: Arrays (13:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12561745",
+          "title": "Data Structures: Objects (15:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12561748",
+          "title": "Exercise: Build Facebook (11:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12561749",
+          "title": "JavaScript Terminology (3:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12561750",
+          "title": "Loops (22:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12561746",
+          "title": "Exercise: Build Facebook 2 (8:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12561743",
+          "title": "JavaScript Keywords (3:02)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix II: Intermediate  Javascript",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221793",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12563322",
+          "title": "Scope (10:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12563325",
+          "title": "Advanced Control Flow (11:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/25026661",
+          "title": "ES5 and ES6 (26:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/25026659",
+          "title": "Advanced Functions (20:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12563321",
+          "title": "Advanced Arrays (16:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12563314",
+          "title": "Advanced Objects (24:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12563315",
+          "title": "ES7 (3:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12563313",
+          "title": "ES8 (9:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221819",
+          "title": "Note: ES9 + ES8 Async Await"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12563318",
+          "title": "ES10 (ES2019) (16:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12563317",
+          "title": "Advanced Loops (12:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/25054931",
+          "title": "ES2020 Part 1 (10:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/25054930",
+          "title": "ES2020 Part 2 (3:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/25054927",
+          "title": "ES2020 Part 3 (4:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/25054929",
+          "title": "ES2020: globalThis (3:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/35654498",
+          "title": "ES2021 (3:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12563316",
+          "title": "Debugging (8:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12563324",
+          "title": "Modules (13:19)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: Extra Bits",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/13221824",
+          "title": "Notes To Review The Course"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/advanced-javascript-concepts/lectures/12565130",
+          "title": "AMA - 100,000 Students!! (38:30)"
+        }
+      ]
+    }
+  ]
+}

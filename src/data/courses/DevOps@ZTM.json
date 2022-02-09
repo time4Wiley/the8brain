@@ -1,0 +1,1149 @@
+{
+  "title": "DevOps Bootcamp: Learn Linux & Become a Linux Sysadmin",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1422911",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "DevOps"
+  },
+  "sections": [
+    {
+      "title": "Getting Started",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32681032",
+          "title": "DevOps Bootcamp Series: Linux System Administrator (2:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682078",
+          "title": "Course Outline (5:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32991939",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        }
+      ]
+    },
+    {
+      "title": "Setting Up the Environment",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682116",
+          "title": "Linux Distributions (6:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682117",
+          "title": "Installing Ubuntu in a VM (13:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682118",
+          "title": "Things to Do After Installing Ubuntu (10:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682120",
+          "title": "Installing CentOS in a VM (12:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32684841",
+          "title": "Ubuntu and CentOS Download Links (OVA Files)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682535",
+          "title": "Migrating to Linux (6:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33011399",
+          "title": "Quiz for Setting up the Environment"
+        }
+      ]
+    },
+    {
+      "title": "The Linux Terminal in Depth",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682145",
+          "title": "Terminals, Consoles, Shells and Commands (9:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682147",
+          "title": "Linux Command Structure (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682148",
+          "title": "Getting Help, Man Pages (man, type, help, apropos) (11:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33013138",
+          "title": "Quiz for Getting Help in Linux"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682151",
+          "title": "Mastering the Terminal: The TAB Key (6:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682152",
+          "title": "Mastering the Terminal: Keyboard Shortcuts (4:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32996180",
+          "title": "Quiz for Mastering the Terminal"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682154",
+          "title": "Mastering the Terminal: the Bash History (8:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682157",
+          "title": "Running Commands Without Leaving a Trace (6:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682158",
+          "title": "Recording the Date and Time for Each line in History (2:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32682159",
+          "title": "root vs. non-Privileged Users. Getting root Access (sudo, su, passwd) (11:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33013202",
+          "title": "Quiz for Bash History and root Access"
+        }
+      ]
+    },
+    {
+      "title": "Challenges - The Linux Terminal",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683097",
+          "title": "The Linux Terminal"
+        }
+      ]
+    },
+    {
+      "title": "The Linux File System",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683153",
+          "title": "Intro to The Linux Files System (5:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683175",
+          "title": "The Filesystem Hierarchy Standard ( FHS) (9:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683176",
+          "title": "Absolute vs. Relative Paths. Walking through the File System (pwd, cd, tree) (13:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33013481",
+          "title": "Quiz for The Linux File System"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683180",
+          "title": "The LS Command In Depth (ls) (8:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683182",
+          "title": "Understanding File Timestamps: atime, mtime, ctime (stat, touch, date) (9:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683183",
+          "title": "Sorting Files by Timestamp (1:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683191",
+          "title": "File Types in Linux (ls -F, file) (7:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33014255",
+          "title": "Quiz for LS, File Types and Timestamps"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683193",
+          "title": "Viewing Files - Part 1 (cat) (4:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683195",
+          "title": "Viewing Files - Part 2 (less, more) (3:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683198",
+          "title": "Viewing Files - Part 3 (tail, head, watch) (6:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33026126",
+          "title": "Quiz for Viewing Files"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683200",
+          "title": "Creating Files and Directories (touch, mkdir) (7:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683202",
+          "title": "Copying Files and Directories (cp) (6:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683203",
+          "title": "Moving and Renaming Files and Directories (mv) (7:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683204",
+          "title": "Removing Files and Directories (rm, shred) (9:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33026165",
+          "title": "Quiz for mkdir, cp, mv, rm, shred"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683205",
+          "title": "Working With Pipes in Linux (|, wc) (8:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683206",
+          "title": "Command Redirection (>, >>, 2> &>, cut, tee) (14:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33026247",
+          "title": "Quiz for Piping and Command Redirection"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683208",
+          "title": "Finding Files and Directories - Part 1 (locate, which) (10:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683219",
+          "title": "Finding Files and Directories - Part 2 (find) (11:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683216",
+          "title": "Find and Exec (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683217",
+          "title": "Searching for String Patterns in Text Files (grep) (12:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683261",
+          "title": "Searching for Strings in Binary Files (strings) (3:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33026248",
+          "title": "Quiz for locate, find and grep"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683262",
+          "title": "Comparing Files (cmp, diff, sha256) (9:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683263",
+          "title": "The Basics of VIM Text Editor (8:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683264",
+          "title": "The VIM Editor In Depth - Part 1 (8:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683265",
+          "title": "The VIM Editor In Depth - Part 2 (5:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33026493",
+          "title": "Quiz for VIM Editor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683267",
+          "title": "Compressing and Archiving Files and Directories (tar, gzip) (14:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32683268",
+          "title": "Hard Links and the Inode Structure (9:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32712364",
+          "title": "Working With Symlinks. Symlinks vs. Hard Links (5:22)"
+        }
+      ]
+    },
+    {
+      "title": "Challenges - The Linux File System",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32713039",
+          "title": "Challenges - Paths, ls, File Timestamps and Types, Viewing Files"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32946696",
+          "title": "Challenges - cp, mv, rm, shred"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32713043",
+          "title": "Challenges - tar, ln"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32715277",
+          "title": "Challenges - locate, find"
+        }
+      ]
+    },
+    {
+      "title": "User Accounts Management",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32715342",
+          "title": "Understanding /etc/passwd and /etc/shadow files (8:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32715343",
+          "title": "Understanding Linux Groups (groups, id) (4:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32715344",
+          "title": "Creating User Accounts (useradd) (8:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32715345",
+          "title": "Changing and Removing User Accounts (usermod, userdel) (6:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32715348",
+          "title": "Creating Admin Users (2:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32715349",
+          "title": "Group Management (groupadd, groupdel, groupmod) (3:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32715351",
+          "title": "User Account Monitoring (whoami, who am i, who, id, w, uptime, last) (7:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33026615",
+          "title": "Quiz for Accounts Management"
+        }
+      ]
+    },
+    {
+      "title": "Challenges - User Account Management",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32727441",
+          "title": "Challenges - User Accounts"
+        }
+      ]
+    },
+    {
+      "title": "Linux File Permissions",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32727481",
+          "title": "Understanding File Permissions (7:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32727484",
+          "title": "Octal (Numeric) Notation of File Permissions (5:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32727485",
+          "title": "Changing File Permissions (chmod) (8:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32727486",
+          "title": "The Effect of Permissions on Directories (7:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32727488",
+          "title": "Combining Find and Chmod Commands Together (3:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32727489",
+          "title": "Changing File Ownership (chown, chgrp) (6:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32727490",
+          "title": "Understanding SUID (Set User ID) (10:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32727491",
+          "title": "Understanding SGID (Set Group ID) (5:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32727492",
+          "title": "Understanding the Sticky Bit (5:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32727493",
+          "title": "Umask (5:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32727494",
+          "title": "Understanding Files Attributes (lsattr, chattr) (7:15)"
+        }
+      ]
+    },
+    {
+      "title": "Challenges - File Permissions",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32946836",
+          "title": "Challenges - File Permissions"
+        }
+      ]
+    },
+    {
+      "title": "Linux Process Management",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32728380",
+          "title": "Processes and The Linux Security Model (8:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32728382",
+          "title": "Listing Processes (ps, pstree) (12:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32728384",
+          "title": "Getting a Dynamic Real-Time View of the Running System (top, htop) (13:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32728385",
+          "title": "Signals and Killing Processes (kill, pkill, killall, pidof) (11:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32728386",
+          "title": "Foreground and Background Processes (4:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32728387",
+          "title": "Job Control (jobs, fg, bg) (7:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33026909",
+          "title": "Quiz for Process Management"
+        }
+      ]
+    },
+    {
+      "title": "Challenges - Linux Processes",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32728851",
+          "title": "Challenges - Linux Processes"
+        }
+      ]
+    },
+    {
+      "title": "Networking in Linux",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731039",
+          "title": "Getting Information about the Network Interfaces (ip, ifconfig (7:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731040",
+          "title": "Configuring the Network On The Fly (ifconfig, ip, route) (7:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33027054",
+          "title": "Quiz for Network Interfaces"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731041",
+          "title": "Setting Up Static IP on Ubuntu (netplan) (7:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731043",
+          "title": "Testing and Troubleshooting Network Connectivity (9:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731044",
+          "title": "Using SSH (8:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731047",
+          "title": "Troubleshooting SSH (8:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731049",
+          "title": "Securing the OpenSSH Server (sshd) (11:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731051",
+          "title": "Copying Files Over the Network (scp) (12:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731052",
+          "title": "Synchronizing Files and Directories using rsync (11:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731053",
+          "title": "Using rsync Over the Network (6:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731054",
+          "title": "Using wget (9:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731055",
+          "title": "Checking for Listening Ports (netstat, ss, lsof, telnet, nmap) (9:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33027123",
+          "title": "Quiz for SSH, scp, rsync, netstat"
+        }
+      ]
+    },
+    {
+      "title": "Challenges - Networking in Linux",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731662",
+          "title": "Challenges - Network Interfaces"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731663",
+          "title": "Challenges - SSH, scp, rsync"
+        }
+      ]
+    },
+    {
+      "title": "Software Management",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731949",
+          "title": "DPKG (Debian and Ubuntu Based Distros) (9:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731950",
+          "title": "Intro to APT (1:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731951",
+          "title": "Using APT (Advanced Package Tool) (11:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33055571",
+          "title": "Quiz for dpkg and apt"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731955",
+          "title": "Compiling Programs from Source Code vs. Package Manager (4:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731957",
+          "title": "Compiling C Programs (3:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32731958",
+          "title": "Compiling Software From Source Code: Lab ProFTPD (15:15)"
+        }
+      ]
+    },
+    {
+      "title": "Challenges - Software Management",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32733053",
+          "title": "Challenges - dpkg, apt"
+        }
+      ]
+    },
+    {
+      "title": "System Administration",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32860187",
+          "title": "Task Automation and Scheduling Using Cron (crontab) (14:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32860188",
+          "title": "Scheduling Tasks Using Anacron (anacron) (6:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33055580",
+          "title": "Quiz for Cron and Anacron"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32860189",
+          "title": "Mounting and Unmounting File Systems (df, mount, umount, fdisk, gparted) (11:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32860191",
+          "title": "Working With Device Files (dd) (10:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32860192",
+          "title": "Getting System Hardware Information (lwhw, lscpu, lsusb, lspci, dmidecode, hdparm) (13:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33055584",
+          "title": "Quiz for Getting Hardware Information"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32860193",
+          "title": "Intro to systemd (3:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32860194",
+          "title": "Service Management (systemd and systemctl) (7:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33055586",
+          "title": "Quiz for systemd and systemctl"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/37425282",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Challenges - System Administration",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32860927",
+          "title": "Challenges - System Administration"
+        }
+      ]
+    },
+    {
+      "title": "Bash Shell Scripting",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/34356494",
+          "title": "Bash Shell Scripting Examples"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868794",
+          "title": "Bash Aliases (7:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868797",
+          "title": "Intro to Bash Shell Scripting (7:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868798",
+          "title": "The Bash Shebang and Comments (5:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868799",
+          "title": "Running Scripts (3:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33055588",
+          "title": "Quiz for Bash Shell Basics"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868800",
+          "title": "Variables in Bash (10:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868801",
+          "title": "Environment Variables (7:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868804",
+          "title": "Getting User Input (5:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868807",
+          "title": "Special Variables and Positional Arguments (8:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33055593",
+          "title": "Quiz for Bash Variables"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868808",
+          "title": "If, Elif and Else Statements (9:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868810",
+          "title": "Testing Conditions For Numbers (3:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868811",
+          "title": "Multiple Conditions and Nested If Statements (6:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868812",
+          "title": "Command Substitution (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868815",
+          "title": "Comparing Strings in If Statements (8:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868816",
+          "title": "Lab: Testing Network Connections (4:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33055596",
+          "title": "Quiz for If...Elif...Else Statements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868817",
+          "title": "For Loops (8:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868819",
+          "title": "Lab: Dropping a List of IP addresses Using a For Loop (4:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868821",
+          "title": "While Loops (9:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/33055600",
+          "title": "Quiz for Loops"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868822",
+          "title": "Case Statement (9:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868823",
+          "title": "Functions in Bash (7:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868826",
+          "title": "Variable Scope in Functions (2:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868827",
+          "title": "Menus in Bash. The Select Statement (5:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32868856",
+          "title": "Lab: System Administration Script using Menus (10:03)"
+        }
+      ]
+    },
+    {
+      "title": "Challenges - Bash Scripting",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32890573",
+          "title": "Bash Scripting Basics"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32890575",
+          "title": "Flow Control (if...elif...else) and Command Substitution"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32890576",
+          "title": "Loops in Bash: for, while"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32890768",
+          "title": "Functions and Menus in Bash"
+        }
+      ]
+    },
+    {
+      "title": "Setting Up the Environment for the Hands-On Projects",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32890788",
+          "title": "Running a Linux Server in the Cloud (7:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32890790",
+          "title": "Securing SSH with Key Authentication (5:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32890791",
+          "title": "DigitalOcean Referral Link, Ubuntu and CentOS Download Links (OVA Files)"
+        }
+      ]
+    },
+    {
+      "title": "Project #1 - Running Containerized Applications with Docker",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891304",
+          "title": "Project Overview (5:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891305",
+          "title": "What is Docker? Why use it? (4:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891307",
+          "title": "Installing Docker (8:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891308",
+          "title": "The Docker Client (3:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891310",
+          "title": "Pulling Images and Running Containers (11:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891311",
+          "title": "Lab: Running a Web Server in a Docker Container (5:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891313",
+          "title": "Listing Images and Containers (4:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891314",
+          "title": "Removing Images and Containers (8:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891316",
+          "title": "Getting Shell Access to a Container (6:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891317",
+          "title": "Executing Commands in a Running Container (3:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891319",
+          "title": "Getting Information about the Running Containers (6:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891321",
+          "title": "Committing Container Changes into a New Image (6:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891322",
+          "title": "Tagging and Pushing Custom Images to Docker Hub (4:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891323",
+          "title": "Image Structure and Layers (4:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891325",
+          "title": "Creating Custom Images using Dockerfile (10:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891334",
+          "title": "Persistent Data: Volumes (5:02)"
+        }
+      ]
+    },
+    {
+      "title": "Challenges - Docker",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32891922",
+          "title": "Challenges - Docker"
+        }
+      ]
+    },
+    {
+      "title": "Project #2 - Securing and Hardening a Linux System",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892385",
+          "title": "Project Overview (2:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892386",
+          "title": "Linux Security Checklist (5:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892388",
+          "title": "Securing the OpenSSH Server (sshd) (11:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892389",
+          "title": "Securing the Boot Loader (Grub) (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892390",
+          "title": "Enforcing Password Policy (9:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892392",
+          "title": "Locking or Disabling User Accounts (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892393",
+          "title": "Giving Limited root Privileges (sudoers and visudo) - Part 1 (6:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892394",
+          "title": "Giving Limited root Privileges (sudoers and visudo) - Part 2 (9:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892395",
+          "title": "Setting Users’ Limits (Running a DoS Attack Without root Access) (5:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892396",
+          "title": "Intro to Cracking Passwords (4:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892397",
+          "title": "Cracking Linux Passwords Using John the Ripper (7:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892398",
+          "title": "Checking Files Integrity with AIDE - Part 1 (11:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892399",
+          "title": "Checking Files Integrity with AIDE - Part 2 (4:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892400",
+          "title": "Scanning for Rootkits (rkhunter and chkrootkit) (8:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892402",
+          "title": "Scanning for Viruses with ClamAV (10:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892403",
+          "title": "Full Disk Encryption Using dm-crypt and LUKS (12:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892405",
+          "title": "Unlocking LUKS Encrypted Drives With A Keyfile (4:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892406",
+          "title": "Symmetric Encryption Using GnuPG (9:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892407",
+          "title": "Steganography Explained (10:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892408",
+          "title": "Steganography In Depth (7:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892410",
+          "title": "Hide Secret Messages Through Steganography with Steghide (9:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892411",
+          "title": "Scanning Networks with Nmap (9:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32892416",
+          "title": "Nmap Advanced (9:24)"
+        }
+      ]
+    },
+    {
+      "title": "Project #3: Setting Up a Web and DNS Server",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931622",
+          "title": "Project Overview: The Big Picture (2:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931623",
+          "title": "Getting a Domain Name (13:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931624",
+          "title": "Diving into the DNS Protocol and Installing a DNS Server (BIND9) (10:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931627",
+          "title": "Setting Up the Authoritative BIND9 DNS Server (15:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931628",
+          "title": "Installing a Web Server (Apache2) (3:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931629",
+          "title": "Setting Up Virtual Hosting (11:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931636",
+          "title": "Securing Apache with OpenSSL and Digital Certificates (9:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931644",
+          "title": "Access Control by Source IP Address (8:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931645",
+          "title": "The 'Files' Directive (8:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931646",
+          "title": "The .htaccess File (7:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931648",
+          "title": "HTTP Digest Authentication (6:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931650",
+          "title": "The Options Directive and Indexing (13:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931651",
+          "title": "HTTP Compression (5:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931653",
+          "title": "SetHandler and Server Status (5:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931654",
+          "title": "Installing PHP (3:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931655",
+          "title": "Installing and Securing the MySql Server (4:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931659",
+          "title": "Installing phpMyAdmin (9:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931660",
+          "title": "Securing phpMyAdmin (4:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931721",
+          "title": "Installing a Web Application (WordPress) (8:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32931722",
+          "title": "Securing WordPress (5:14)"
+        }
+      ]
+    },
+    {
+      "title": "Challenges - DNS and WEB",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32935461",
+          "title": "Challenges - DNS and BIND"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32935462",
+          "title": "Challenges - Apache2"
+        }
+      ]
+    },
+    {
+      "title": "Project #4 - Automating Linux Administrative Tasks With Ansible",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32944930",
+          "title": "Intro to Ansible (3:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32944931",
+          "title": "Prerequisites (2:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32944932",
+          "title": "Ansible Inventory File (10:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32944934",
+          "title": "Ansible Ad-Hoc Commands: The Shell Module (5:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32944936",
+          "title": "Ansible Ad-Hoc Commands: The Script Module (4:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32944937",
+          "title": "Ansible Ad-Hoc Commands: The APT Module (5:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32944938",
+          "title": "Ansible Ad-Hoc Commands: The Service Module (3:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32944939",
+          "title": "Ansible Ad-Hoc Commands: The User Module (5:32)"
+        }
+      ]
+    },
+    {
+      "title": "Challenges - Automation with Ansible",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32945089",
+          "title": "Ansible"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: IPFS - The InterPlanetary File System",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32945136",
+          "title": "What is IPFS and How It Works (9:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32945137",
+          "title": "Installing IPFS on Linux (7:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32945138",
+          "title": "Running an IPFS Node on Linux (6:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32945141",
+          "title": "Pinning Objects (4:02)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: SSH Public Key Authentication",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32945186",
+          "title": "SSH Public Key Authentication Overview (4:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32945187",
+          "title": "Generating SSH Key Pair on Windows (4:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32945188",
+          "title": "Generating SSH Key Pair on Linux (3:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32945191",
+          "title": "What about macOS?"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32945192",
+          "title": "Configuring SSH Public Key Authentication on Linux (11:29)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/37425283",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/37576827",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32991972",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32991973",
+          "title": "Endorsements On LinkedIn"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1422911/lectures/32991974",
+          "title": "Learning Guideline"
+        }
+      ]
+    }
+  ]
+}

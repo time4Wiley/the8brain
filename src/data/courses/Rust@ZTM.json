@@ -1,0 +1,1153 @@
+{
+  "title": "Rust Programming: The Complete Developer's Guide",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1363752",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "Rust"
+  },
+  "sections": [
+    {
+      "title": "Intoduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31343242",
+          "title": "Rust Programming: The Complete Developer's Guide (2:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34050750",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34050940",
+          "title": "Course Projects + Code + Slides"
+        }
+      ]
+    },
+    {
+      "title": "Rust Fundamentals",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32981087",
+          "title": "Intro (2:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31350766",
+          "title": "Data Types (2:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31350772",
+          "title": "Variables (6:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33094040",
+          "title": "Functions (8:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360356",
+          "title": "println! (6:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360365",
+          "title": "Control Flow with If (8:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360377",
+          "title": "Repetition (6:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360383",
+          "title": "Setup Rust (4:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360386",
+          "title": "Comments (3:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360391",
+          "title": "Activity: Functions (7:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360399",
+          "title": "Numeric Types & Basic Arithmetic (3:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360408",
+          "title": "Activity: Basic Math (5:27)"
+        }
+      ]
+    },
+    {
+      "title": "Making Decisions with Rust",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360424",
+          "title": "Control Flow: If & Else (2:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31361122",
+          "title": "Activity: Logic with If & Else (3:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360439",
+          "title": "Activity: Logic with If & Else (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360452",
+          "title": "Match Expression (4:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360455",
+          "title": "Demo: Basic Match (3:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360507",
+          "title": "Activity: Basic Match 1 (4:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360522",
+          "title": "Activity: Basic Match 2 (5:11)"
+        }
+      ]
+    },
+    {
+      "title": "Repetition",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31636244",
+          "title": "The Loop Expression (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31420115",
+          "title": "Activity: Loops (4:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31670291",
+          "title": "The While Loop (3:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31558376",
+          "title": "Activity: While Loops (4:45)"
+        }
+      ]
+    },
+    {
+      "title": "Working With Data",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31679673",
+          "title": "Enums (3:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31612454",
+          "title": "Demo: Enums (3:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360854",
+          "title": "Activity: Enums (6:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31679718",
+          "title": "Structs (2:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31670384",
+          "title": "Demo: Structs (2:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31551267",
+          "title": "Activity: Structs (9:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31679799",
+          "title": "Tuples (3:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31670603",
+          "title": "Demo: Tuples (5:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31553733",
+          "title": "Activity: Tuples (5:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31679825",
+          "title": "Expressions (3:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31609783",
+          "title": "Demo: Expressions (5:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31401390",
+          "title": "Activity: Expressions (7:11)"
+        }
+      ]
+    },
+    {
+      "title": "Rust's Memory Model",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31679846",
+          "title": "Intermediate Memory Concepts (3:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31679861",
+          "title": "Ownership (6:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31650307",
+          "title": "Demo: Ownership (6:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31584290",
+          "title": "Activity: Ownership (4:57)"
+        }
+      ]
+    },
+    {
+      "title": "Data Collections",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31612525",
+          "title": "Implementing Functionality (9:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31498751",
+          "title": "Activity: Implementing Functionality (16:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31679886",
+          "title": "The Vector Data Structure (4:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31670643",
+          "title": "Vector Basics & For Loops (2:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31551406",
+          "title": "Activity: Vectors & For Loops (6:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31679922",
+          "title": "About Strings (4:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31670347",
+          "title": "Demo: Strings (4:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31558462",
+          "title": "Activity: Strings (7:23)"
+        }
+      ]
+    },
+    {
+      "title": "Expanding Knowledge",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31592858",
+          "title": "Deriving Functionality (6:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31679991",
+          "title": "Type Annotations (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31680026",
+          "title": "Enums Revisited (3:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31592481",
+          "title": "Demo: Advanced Match (7:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360755",
+          "title": "Activity: Advanced match (10:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31680040",
+          "title": "The Option Type (6:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31650292",
+          "title": "Demo: Option (4:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31584753",
+          "title": "Activity: Option (5:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31605079",
+          "title": "Generating Documentation (2:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31670314",
+          "title": "Standard Library API docs (3:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31584323",
+          "title": "Activity: Standard Library API docs (3:46)"
+        }
+      ]
+    },
+    {
+      "title": "Fallible Functions",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31680058",
+          "title": "The Result Type (4:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31660669",
+          "title": "Demo: Result (14:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31551348",
+          "title": "Activity: Result (6:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31508979",
+          "title": "Activity: Result & The Question Mark Operator (12:34)"
+        }
+      ]
+    },
+    {
+      "title": "Data Collection: HashMap",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31680095",
+          "title": "The HashMap Data Structure (4:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31605006",
+          "title": "Working With HashMaps (5:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360954",
+          "title": "Activity: HashMap Basics (8:26)"
+        }
+      ]
+    },
+    {
+      "title": "Easier Data Management",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31592531",
+          "title": "Basic Closures (4:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31650071",
+          "title": "Map Combinator (5:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31459495",
+          "title": "Activity: Map Combinator (8:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31650257",
+          "title": "Option Combinator Pattern (7:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31584898",
+          "title": "Activity: Option Combinators (4:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31613305",
+          "title": "Using Iterators (9:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31434024",
+          "title": "Activity: Using Iterators (5:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31650334",
+          "title": "Ranges (1:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31612497",
+          "title": "If..let..else (2:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31670677",
+          "title": "while..let (2:06)"
+        }
+      ]
+    },
+    {
+      "title": "Managing Code",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31636001",
+          "title": "Inline Modules (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32983628",
+          "title": "Activity: Inline Modules (10:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31670404",
+          "title": "Testing (6:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31524459",
+          "title": "Activity: Testing (7:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31592649",
+          "title": "External Crates (6:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31360903",
+          "title": "Activity: Adding an External Crate (4:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32983633",
+          "title": "External Modules (12:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32983634",
+          "title": "Activity: External Modules (9:54)"
+        }
+      ]
+    },
+    {
+      "title": "Milestone Project: Billing Application",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31634759",
+          "title": "Gathering User Input (14:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31434115",
+          "title": "Activity: Gathering User Input (22:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32983684",
+          "title": "Mini Project: Introduction (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32983685",
+          "title": "Retrieve User Input (3:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32983686",
+          "title": "Creating The Main Menu Loop (7:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32983687",
+          "title": "Required Data Structures (4:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32983689",
+          "title": "Implementation: Adding & Viewing Bills (13:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32983690",
+          "title": "Implementation: Removing Bills (6:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32983691",
+          "title": "Implementation: Editing Bills (9:15)"
+        }
+      ]
+    },
+    {
+      "title": "Shared Functionality",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31680111",
+          "title": "Traits (4:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31670560",
+          "title": "Demo: Traits (4:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31634480",
+          "title": "Activity: Traits (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31592605",
+          "title": "Implementing The \"Default\" Trait (2:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32983991",
+          "title": "Generics & Functions (13:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32983993",
+          "title": "Demo: Generics & Functions (6:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32983996",
+          "title": "Activity: Generics & Functions (5:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32984004",
+          "title": "Generic Structures (10:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32984005",
+          "title": "Generic Structures & impl Blocks (7:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32984006",
+          "title": "Demo: Generics & Structures (6:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32984007",
+          "title": "Activity: Generics & Structures (10:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32984009",
+          "title": "Advanced Memory Concepts (8:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32984010",
+          "title": "Trait Objects (11:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32984012",
+          "title": "Demo: Trait Objects (7:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/32984013",
+          "title": "Activity: Trait Objects (8:35)"
+        }
+      ]
+    },
+    {
+      "title": "Lifetimes",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33007488",
+          "title": "Ownership & Lifetimes (9:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33191029",
+          "title": "Demo: Lifetimes (8:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33024824",
+          "title": "Activity: Lifetimes & Structures (10:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33024826",
+          "title": "Activity: Lifetimes & Functions (4:47)"
+        }
+      ]
+    },
+    {
+      "title": "Improving Program Reliability",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33184766",
+          "title": "Custom Error Types (8:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33184815",
+          "title": "Demo: Custom Error Types (8:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31420088",
+          "title": "Activity: Creating a Custom Error (9:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31592555",
+          "title": "const (2:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31675727",
+          "title": "New Type Pattern (5:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31584768",
+          "title": "Activity: Utilizing The New Type Pattern (8:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33024858",
+          "title": "TypeState Pattern (4:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33024860",
+          "title": "Demo: TypeState Pattern (11:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33024863",
+          "title": "Activity: TypeState Pattern (7:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33024864",
+          "title": "Demo: Match Guards & Binding (6:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33024873",
+          "title": "Activity: Match Guards & Binding (8:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33024875",
+          "title": "Arrays & Slices (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33024877",
+          "title": "Slice Patterns (5:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33024879",
+          "title": "Activity: Slices (5:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025183",
+          "title": "Type Aliases (5:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37425722",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Type Conversions",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025210",
+          "title": "From/Into (8:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025211",
+          "title": "TryFrom/TryInto (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025213",
+          "title": "Demo: From/Into (7:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025215",
+          "title": "Activity: TryFrom/TryInto (10:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025216",
+          "title": "Numeric Limits & Numeric Type Casting (7:59)"
+        }
+      ]
+    },
+    {
+      "title": "Parallel Execution",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/31592451",
+          "title": "Passing Closures to Functions (10:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025324",
+          "title": "Threads (6:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025327",
+          "title": "Demo: Threads (7:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025329",
+          "title": "Activity: Threads (4:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025331",
+          "title": "Channels (8:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025334",
+          "title": "Demo: Channels (5:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025337",
+          "title": "Demo: Bidirectional Threaded Communication (7:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025344",
+          "title": "Activity: Channels (9:23)"
+        }
+      ]
+    },
+    {
+      "title": "Shared Ownership",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025410",
+          "title": "Smart Pointers (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025411",
+          "title": "Interior Mutability: Cell & RefCell (8:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025414",
+          "title": "Demo: Smart Pointers & RefCell (6:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025415",
+          "title": "Activity: Smart Pointers & ReffCell (9:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025416",
+          "title": "Arc/Mutex (8:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025418",
+          "title": "Threading: Deadlocks (6:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025420",
+          "title": "Demo: Arc/Mutex (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33025421",
+          "title": "Activity: Arc/Mutex (5:13)"
+        }
+      ]
+    },
+    {
+      "title": "Standard Library Tour",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027437",
+          "title": "Enum Equality & Ordering (3:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027438",
+          "title": "Struct Equality & Ordering (4:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027439",
+          "title": "Operator Overloading (7:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027440",
+          "title": "Iterators: Implementing Iterator for a Struct (3:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027441",
+          "title": "Implement IntoIterator (7:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33244484",
+          "title": "Demo: Implementing IntoIterator (9:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027443",
+          "title": "Activity: Implementing Iterator (5:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027442",
+          "title": "Iterators: Custom Iteration Logic (8:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027444",
+          "title": "Helpful Macros (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027487",
+          "title": "Managing Integer Overflow (5:39)"
+        }
+      ]
+    },
+    {
+      "title": "Other Language Features",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027588",
+          "title": "Turbofish (2:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027589",
+          "title": "Loop Labels (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027590",
+          "title": "Loop Expressions (2:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027591",
+          "title": "Struct Update Syntax (2:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027593",
+          "title": "Escape Sequences & Raw Strings (4:17)"
+        }
+      ]
+    },
+    {
+      "title": "Development Experience",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027631",
+          "title": "rust-analyzer (4:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027634",
+          "title": "clippy (2:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027637",
+          "title": "error-lens (1:27)"
+        }
+      ]
+    },
+    {
+      "title": "Crate Roundup",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027733",
+          "title": "dotenv (3:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027735",
+          "title": "serde (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027737",
+          "title": "rand (4:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027739",
+          "title": "cached (4:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33329596",
+          "title": "regex (5:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027743",
+          "title": "chrono (7:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027749",
+          "title": "strum (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027752",
+          "title": "derive_more (6:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027754",
+          "title": "rayon (4:00)"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/33027719",
+          "title": "Helpful Links for Your Rust Career"
+        }
+      ]
+    },
+    {
+      "title": "Final Project: Clip Stash",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34117023",
+          "title": "Async Primer (7:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34117041",
+          "title": "Introduction To The Project (1:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34117020",
+          "title": "Architecture (3:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34115672",
+          "title": "Walkthrough & Domain Structure Modules (7:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116690",
+          "title": "Domain Errors (6:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34115670",
+          "title": "Domain Implementation: Content & Hits (6:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34115675",
+          "title": "Domain Implementation: Password (6:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34115673",
+          "title": "Domain Implementation: Shortcode (7:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34115671",
+          "title": "Domain Implementation: Title (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116598",
+          "title": "Domain Implementation: Time (6:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116599",
+          "title": "Domain Implementation: Expire & Posted (5:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116600",
+          "title": "Domain Implementation: Dbld & Clipld (6:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116601",
+          "title": "Recap & Error Correction (5:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116693",
+          "title": "Database Type Aliases (7:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116689",
+          "title": "Database Wrapper (4:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116694",
+          "title": "Database Model (11:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116794",
+          "title": "SQL Primer (4:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116793",
+          "title": "sqlx cli (1:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116792",
+          "title": "Database Query: Get Clip (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116989",
+          "title": "Database Query: New Clip (7:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116988",
+          "title": "Database Query: Update Clip (3:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34116995",
+          "title": "Recap & Next Steps (4:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34117013",
+          "title": "Service Layer: Errors (7:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34131098",
+          "title": "Service Layer: Get Clip (11:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34131101",
+          "title": "Service Layer: Add & Update Clip (7:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34131102",
+          "title": "Templates (2:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34131103",
+          "title": "Page Contexts (6:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34138084",
+          "title": "Template Renderer (14:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34138087",
+          "title": "Rocket Framework (4:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34144208",
+          "title": "Initial Web Setup (3:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34191257",
+          "title": "Web Forms (9:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34191273",
+          "title": "Homepage, Catchers, and Router (5:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34191276",
+          "title": "Rocket Configuration (3:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34195901",
+          "title": "Running the Server (9:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34195904",
+          "title": "Retrieving a Clip (11:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34198352",
+          "title": "Saving a Clip (13:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34211254",
+          "title": "Password Protected Clips (7:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34211255",
+          "title": "Raw Clips (5:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34211257",
+          "title": "Hit Counter (1:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34211258",
+          "title": "Hit Counter - Service & Data (11:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34212631",
+          "title": "Hit Counter Implementation part 1 (12:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34215141",
+          "title": "Hit Counter Implementation part 2 (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34215144",
+          "title": "Database Migration (1:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34215146",
+          "title": "API: Keys & Error Handling (9:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34216475",
+          "title": "API: Service & Queries (7:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34219678",
+          "title": "API: Request Guard (6:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34219682",
+          "title": "API: Routing (12:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34219683",
+          "title": "API Client: Cargo.toml & CLI Options (8:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34230952",
+          "title": "API Client: Get Clip & New Clip (7:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34230954",
+          "title": "API Client: Update Clip & Making Requests (6:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34230956",
+          "title": "Maintenance Tasks (7:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34230957",
+          "title": "Testing: Database (9:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34230959",
+          "title": "Testing: HTTP Routes (10:00)"
+        }
+      ]
+    },
+    {
+      "title": "Declarative Macros",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37274014",
+          "title": "Overview (6:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37274015",
+          "title": "Detail (15:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37274017",
+          "title": "Demo: impl Blocks (6:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37273956",
+          "title": "Activity: Control Flow (2:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37273953",
+          "title": "Activity: impl Blocks (2:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37274019",
+          "title": "Repetitions (8:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37274021",
+          "title": "Demo: Repetitions (3:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37273952",
+          "title": "Activity: HashMap (5:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37274169",
+          "title": "Demo: Syntax Extension (8:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37273954",
+          "title": "Activity: Syntax Extension (4:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37273955",
+          "title": "Activity: Generating Tests (6:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37273951",
+          "title": "Activity: Function Tracer (4:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37274320",
+          "title": "Demo: Checked Config (13:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37274322",
+          "title": "Demo: Recursive tt Muncher (6:40)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37425723",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/37576840",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34050912",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34050913",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34050915",
+          "title": "LinkedIn Endorsements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1363752/lectures/34050916",
+          "title": "Coding Challenges"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+{
+  "title": "Deno: The Complete Guide Zero to Mastery",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/945092",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "Deno"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17637265",
+          "title": "Deno: Zero to Mastery (3:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17636318",
+          "title": "Course Outline (4:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17635901",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17642554",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "Deno Foundations",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17534830",
+          "title": "Why Deno? (6:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17534833",
+          "title": "Deno Runtime And V8 Engine (5:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17534832",
+          "title": "Deno Installation (4:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607953",
+          "title": "Quick Note: Installing Deno"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17534831",
+          "title": "MAC/LINUX Installation Tips (5:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17534839",
+          "title": "Windows Installation Tips (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17534836",
+          "title": "Setting Up Our Developer Environment (5:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607817",
+          "title": "Quick Note: Official VS Code Plugin"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17534834",
+          "title": "Our First Deno App (8:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607777",
+          "title": "Exercise: Our First Deno App"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17534838",
+          "title": "The Most Important Video (0:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17534835",
+          "title": "Deno Internals And Architecture (12:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607758",
+          "title": "Recommended Path: JavaScript Runtimes"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17534837",
+          "title": "Deno Metrics (6:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17534829",
+          "title": "Exercise: Deno Architecture (4:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/27382692",
+          "title": "Deno 1.5 Compiler Update"
+        }
+      ]
+    },
+    {
+      "title": "Deno vs Node",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17535288",
+          "title": "Deno Game Changers (9:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17535289",
+          "title": "Deno Game Changers 2 (7:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17535287",
+          "title": "Will Deno Kill NodeJS? (2:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17535290",
+          "title": "Single Executable To Rule Them All (4:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/28021464",
+          "title": "Exciting Times: Deno 1.6"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17535291",
+          "title": "Deno Security (8:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17618161",
+          "title": "Deno Permissions (6:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17620106",
+          "title": "Deno Permissions 2 (3:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17620430",
+          "title": "Deno Permissions 3 (5:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/37148928",
+          "title": "Quick Note: Drake Update"
+        }
+      ]
+    },
+    {
+      "title": "Deno Modules And Tooling",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536527",
+          "title": "How Modules Work In Deno (6:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536529",
+          "title": "URL Modules (5:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536530",
+          "title": "Standard Library (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536546",
+          "title": "3rd Party Modules (3:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536535",
+          "title": "Deno Caching (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536537",
+          "title": "Deno Caching 2 (7:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536536",
+          "title": "NPM for Deno (2:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536526",
+          "title": "Managing Module Versions (5:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536525",
+          "title": "Where the Bleep is package.json? (5:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536531",
+          "title": "Deps.ts (3:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536528",
+          "title": "Locking Dependencies (5:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/25054642",
+          "title": "Deno Upgrade To Latest (1:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536538",
+          "title": "Reviewing Deno Modules (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536532",
+          "title": "Deno Tooling (6:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536533",
+          "title": "Deno Tooling 2 (5:19)"
+        }
+      ]
+    },
+    {
+      "title": "TypeScript?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17606316",
+          "title": "Recommended Path: TypeScript"
+        }
+      ]
+    },
+    {
+      "title": "Deno File I/O - Planets Project",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/23165009",
+          "title": "Code Along"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17537197",
+          "title": "Reading Files With Deno (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17537193",
+          "title": "Async vs Sync File I/O (2:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607703",
+          "title": "Exercise: Async vs Sync File IO"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17537195",
+          "title": "Importing The Path Module (5:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17537196",
+          "title": "Downloading Our Planets Data (4:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17537192",
+          "title": "Reading Our CSV Data (7:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/27310150",
+          "title": "Quick Note: Parse Update"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607685",
+          "title": "Exercise: Resource Leaks"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17537194",
+          "title": "Finding Habitable Planets (10:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17537198",
+          "title": "Exploring Planets With 3rd Party Modules (6:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607651",
+          "title": "Exercise: Exploring Earth-like Planets"
+        }
+      ]
+    },
+    {
+      "title": "Exercise: SpaceX Launch Data",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607571",
+          "title": "Code Along"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607570",
+          "title": "Recommended Path: APIs"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536736",
+          "title": "fetch() (2:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536733",
+          "title": "Fetching SpaceX Launch Data (4:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607553",
+          "title": "Exercise: Making a POST Request"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536734",
+          "title": "Logging (6:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17536737",
+          "title": "--reload Cache For Troubleshooting (1:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540388",
+          "title": "Exploring SpaceX Launch Data (3:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17550480",
+          "title": "Postman and Insomnia (5:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607507",
+          "title": "Quick Note: Rainbow Editor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17603542",
+          "title": "SpaceX Customers Data (6:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17603543",
+          "title": "import.meta (3:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17643681",
+          "title": "Exercise: import.meta"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/37421145",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "NASA Project: Deno For Backend Development",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17537379",
+          "title": "Introduction To Backend (7:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607481",
+          "title": "Deno Backend Frameworks And Libraries (9:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17780339",
+          "title": "Code Along"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/22812704",
+          "title": "Quick Note: Versioned Imports"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607483",
+          "title": "Oak (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17788970",
+          "title": "What Is Middleware? (8:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607486",
+          "title": "Working With Middleware (9:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607489",
+          "title": "Reviewing Our Front End Code (10:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17686540",
+          "title": "Exercise: Reviewing Our Front End Code"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607492",
+          "title": "Serving Static Files (7:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17711848",
+          "title": "Exercise: Fixing A Security Issue"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17703428",
+          "title": "Fixing Our Security Vulnerability (1:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17703429",
+          "title": "Oak Router (7:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17705351",
+          "title": "Method Not Allowed and OPTIONS (7:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17721222",
+          "title": "/planets (9:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17711871",
+          "title": "Exercise: Populating The Dropdown Menu"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17721223",
+          "title": "Planets Data To The Frontend (4:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17767803",
+          "title": "Testing With Deno (5:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17948997",
+          "title": "Testing With Deno 2 (14:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17785801",
+          "title": "Testing With Deno 3 (10:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17783724",
+          "title": "Quick Note: Replace in Files"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17780611",
+          "title": "Logging In Our API (2:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17791616",
+          "title": "Error Handling (8:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17842775",
+          "title": "JavaScript Maps"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17791618",
+          "title": "/launches (18:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17791620",
+          "title": "POST /launches (12:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/27310169",
+          "title": "Quick Note: Request Body"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17791622",
+          "title": "DELETE /launches (8:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/18911728",
+          "title": "Managing Dependencies (8:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/18924309",
+          "title": "Managing Dependencies 2 (3:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/18179200",
+          "title": "Adding Some Polish (2:02)"
+        }
+      ]
+    },
+    {
+      "title": "NASA Project: Deno Production And The Cloud (Docker + AWS)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21543525",
+          "title": "Deploying Our Application To The Cloud (1:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21543534",
+          "title": "Serverless vs Containers (3:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21543527",
+          "title": "Virtual Machines (4:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21543529",
+          "title": "What is a Container? (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21543528",
+          "title": "Installing Docker (3:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21543523",
+          "title": "Running Our First Docker Container (5:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21543530",
+          "title": "Creating a Dockerfile (8:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/37148942",
+          "title": "Quick Note: Official Deno Docker Base Image"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21543531",
+          "title": "Your Docker Hub Account (1:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21543536",
+          "title": "Running Our NASA API in a Container (6:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21543532",
+          "title": "Restarting Docker Containers (3:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21543526",
+          "title": "Publishing Our Docker Image (3:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21543524",
+          "title": "Exploring Amazon Web Services (6:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21543533",
+          "title": "Creating an EC2 Instance 1 (7:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21567606",
+          "title": "Creating an EC2 Instance 2: Security (13:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21567607",
+          "title": "What is SSH? (2:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21567605",
+          "title": "Connecting To Our EC2 Instance With SSH (7:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21567608",
+          "title": "Setting Up Our EC2 Server (3:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/21567609",
+          "title": "Deploying Our NASA API (6:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/23003794",
+          "title": "Web Developer Monthly"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/37421146",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/37576706",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17790538",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17790578",
+          "title": "LinkedIn Endorsements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17790710",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17790742",
+          "title": "Coding Challenges"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/19985029",
+          "title": "Become a ZTM Ambassador ➡ Refer new students. Earn cash."
+        }
+      ]
+    },
+    {
+      "title": "Bonus: How JavaScript Works",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17707882",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539115",
+          "title": "Javascript Engine (5:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539120",
+          "title": "Exercise: Javascript Engine (0:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539111",
+          "title": "Inside the Engine (4:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539121",
+          "title": "Exercise: JS Engine For All (2:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539112",
+          "title": "Interpreters and Compilers (6:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539107",
+          "title": "Inside the V8 Engine (8:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539118",
+          "title": "Comparing Other Languages (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539106",
+          "title": "Writing Optimized Code (8:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539114",
+          "title": "WebAssembly (3:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539113",
+          "title": "Call Stack and Memory Heap (14:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539119",
+          "title": "Stack Overflow (3:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539108",
+          "title": "Garbage Collection (4:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539110",
+          "title": "Memory Leaks (6:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539117",
+          "title": "Single Threaded (1:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539105",
+          "title": "Exercise: Issue With Single Thread (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539116",
+          "title": "Javascript Runtime (14:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17539109",
+          "title": "Node.js (6:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607442",
+          "title": "Recommended Path: Back To Deno"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: Learning TypeScript",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17707933",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540192",
+          "title": "Introduction To TypeScript (1:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540189",
+          "title": "Dynamic vs Static Typing (11:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540194",
+          "title": "Strongly vs Weakly Typed (3:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540193",
+          "title": "Static Typing In JavaScript (9:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607291",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540197",
+          "title": "OPTIONAL: Installing TypeScript Compiler (3:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607282",
+          "title": "OPTIONAL: Installing Node.js + TypeScript"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540195",
+          "title": "TypeScript (11:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540186",
+          "title": "TypeScript 2 (3:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540188",
+          "title": "TypeScript 3 (7:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607272",
+          "title": "Resources: TypeScript Types"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540185",
+          "title": "TypeScript 4 (5:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540187",
+          "title": "TypeScript 5 (6:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540191",
+          "title": "TypeScript 6 (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607219",
+          "title": "Resources: Type VS Interface"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540198",
+          "title": "TypeScript 7 (3:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17607208",
+          "title": "Resources: Type Assertion"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540199",
+          "title": "TypeScript 8 (6:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540196",
+          "title": "TypeScript 9 (1:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17540190",
+          "title": "TypeScript 10 (1:23)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: HTTP, AJAX, JSON and APIs",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17707949",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17610249",
+          "title": "HTTP/HTTPS (19:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17610250",
+          "title": "JSON (7:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17618045",
+          "title": "JSON vs Form Data"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17640291",
+          "title": "AJAX (13:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/945092/lectures/17640240",
+          "title": "APIs (13:31)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1159 @@
+{
+  "title": "Master the Coding Interview: Data Structures + Algorithms",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/700474",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "DSA, Interview"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12565225",
+          "title": "Why This Course? (3:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12565224",
+          "title": "How To Succeed In This Course (5:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13413762",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/14106515",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "Getting More Interviews",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12566679",
+          "title": "Section Overview (5:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12566686",
+          "title": "Resume (5:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12566684",
+          "title": "Exercise: Resume Walkthrough (17:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12566678",
+          "title": "Resume Review (2:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13413749",
+          "title": "Resources: Resume Templates"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12566687",
+          "title": "What If I Don't Have Enough Experience? (15:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13413711",
+          "title": "Optional Exercise: Github Master"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12566681",
+          "title": "LinkedIn (8:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13413673",
+          "title": "Optional Exercise: LinkedIn Endorsements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12566680",
+          "title": "Portfolio (3:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13413636",
+          "title": "Resources: Free Portfolio Templates"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12566682",
+          "title": "Email (8:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13413597",
+          "title": "Resources: Email"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12566688",
+          "title": "Where To Find Jobs? (6:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13413567",
+          "title": "Resources: Where To Find Jobs?"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12566685",
+          "title": "When Should You Start Applying? (3:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12566683",
+          "title": "Section Summary (2:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/14130708",
+          "title": "Monthly Industry Updates"
+        }
+      ]
+    },
+    {
+      "title": "Big O",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568487",
+          "title": "Setting Up Your Environment (2:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568500",
+          "title": "Section Overview (2:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/14505989",
+          "title": "Python, Java, C/C++, C#, Golang, Swift, Kotlin, TypeScript, + Perl Solutions!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568499",
+          "title": "What Is Good Code? (6:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568491",
+          "title": "Big O and Scalability (11:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568503",
+          "title": "O(n) (5:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568494",
+          "title": "O(1) (6:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13413562",
+          "title": "Exercise: Big O Calculation"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568493",
+          "title": "Solution: Big O Calculation (5:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13413530",
+          "title": "Exercise: Big O Calculation 2"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568489",
+          "title": "Solution: Big O Calculation 2 (2:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568505",
+          "title": "Simplifying Big O (1:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568502",
+          "title": "Big O Rule 1 (4:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568495",
+          "title": "Big O Rule 2 (6:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568485",
+          "title": "Big O Rule 3 (3:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568490",
+          "title": "O(n^2) (7:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568506",
+          "title": "Big O Rule 4 (6:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568486",
+          "title": "Big O Cheat Sheet (3:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568497",
+          "title": "What Does This All Mean? (5:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568492",
+          "title": "O(n!) (1:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568507",
+          "title": "3 Pillars Of Programming (3:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568488",
+          "title": "Space Complexity (2:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568496",
+          "title": "Exercise: Space Complexity (6:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568501",
+          "title": "Exercise: Twitter (7:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568504",
+          "title": "Optional: Javascript Loops (3:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12568498",
+          "title": "Section Summary (4:43)"
+        }
+      ]
+    },
+    {
+      "title": "How To Solve Coding Problems",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12570389",
+          "title": "Section Overview (5:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12570392",
+          "title": "What Are Companies Looking For? (3:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12570393",
+          "title": "What We Need For Coding Interviews (3:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12570390",
+          "title": "Exercise: Google Interview (2:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12570388",
+          "title": "Exercise: Interview Question (20:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12570391",
+          "title": "Exercise: Interview Question 2 (22:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12570394",
+          "title": "Review Google Interview (1:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411514",
+          "title": "Optional Exercise: Google Interview On Your Own"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12570387",
+          "title": "Section Summary (3:35)"
+        }
+      ]
+    },
+    {
+      "title": "Data Structures: Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571136",
+          "title": "Section Overview (1:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571134",
+          "title": "What Is A Data Structure? (5:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571137",
+          "title": "How Computers Store Data (12:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571133",
+          "title": "Data Structures In Different Languages (3:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571135",
+          "title": "Operations On Data Structures (3:05)"
+        }
+      ]
+    },
+    {
+      "title": "Data Structures: Arrays",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571602",
+          "title": "Arrays Introduction (13:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571600",
+          "title": "Static vs Dynamic Arrays (6:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411492",
+          "title": "Quick Note: Upcoming Video"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571596",
+          "title": "Optional: Classes In Javascript (24:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571598",
+          "title": "Implementing An Array (17:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571604",
+          "title": "Strings and Arrays (1:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571599",
+          "title": "Exercise: Reverse A String (1:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571595",
+          "title": "Solution: Reverse A String (10:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571601",
+          "title": "Exercise: Merge Sorted Arrays (0:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571597",
+          "title": "Solution: Merge Sorted Arrays (14:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411483",
+          "title": "Interview Questions: Arrays"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12571603",
+          "title": "Arrays Review (3:28)"
+        }
+      ]
+    },
+    {
+      "title": "Data Structures: Hash Tables",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12621014",
+          "title": "Hash Tables Introduction (4:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12621020",
+          "title": "Hash Function (5:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12621019",
+          "title": "Hash Collisions (9:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12621017",
+          "title": "Hash Tables In Different Languages (3:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12621023",
+          "title": "Exercise: Implement A Hash Table (3:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12621015",
+          "title": "Solution: Implement A Hash Table (17:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12621022",
+          "title": "keys() (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/14454560",
+          "title": "Bonus: keys() Without Collision"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12621018",
+          "title": "Hash Tables vs Arrays (2:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12621021",
+          "title": "Exercise: First Recurring Character (1:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12621016",
+          "title": "Solution: First Recurring Character (16:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/14062112",
+          "title": "Interesting Tidbit: Python Dictionaries"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12621024",
+          "title": "Hash Tables Review (6:09)"
+        }
+      ]
+    },
+    {
+      "title": "Data Structures: Linked Lists",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633587",
+          "title": "Linked Lists Introduction (2:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633585",
+          "title": "What Is A Linked List? (4:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633586",
+          "title": "Exercise: Why Linked Lists? (2:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633599",
+          "title": "Solution: Why Linked Lists? (5:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633591",
+          "title": "What Is A Pointer? (5:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633596",
+          "title": "Our First Linked List (8:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633593",
+          "title": "Solution: append() (5:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633595",
+          "title": "Solution: prepend() (2:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633597",
+          "title": "Node Class (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633588",
+          "title": "insert() (5:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13847288",
+          "title": "Quick Note: Upcoming Video"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633602",
+          "title": "Solution: insert() (13:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633594",
+          "title": "Solution: remove() (5:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633589",
+          "title": "Doubly Linked List (3:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411462",
+          "title": "Exercise: Doubly Linked Lists"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633601",
+          "title": "Solution: Doubly Linked Lists (8:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633592",
+          "title": "Singly vs Doubly Linked Lists (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633590",
+          "title": "Exercise: reverse() (1:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633598",
+          "title": "Solution: reverse() (7:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12633600",
+          "title": "Linked Lists Review (5:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/37419477",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Data Structures: Stacks + Queues",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647804",
+          "title": "Stacks + Queues Introduction (2:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647807",
+          "title": "Stacks (3:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647805",
+          "title": "Queues (3:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647811",
+          "title": "Exercise: Stacks vs Queues (3:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647810",
+          "title": "Solution: Stacks vs Queues (3:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411449",
+          "title": "Quick Note: Upcoming Video"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647812",
+          "title": "Optional: How Javascript Works (24:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647806",
+          "title": "Exercise: Stack Implementation (Linked Lists) (2:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647813",
+          "title": "Solution: Stack Implementation (Linked Lists) (8:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647816",
+          "title": "Exercise: Stack Implementation (Array) (0:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647817",
+          "title": "Solution: Stack Implementation (Array) (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647808",
+          "title": "Exercise: Queue Implementation (1:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647809",
+          "title": "Solution: Queue Implementation (7:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647814",
+          "title": "Queues Using Stacks (2:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12647815",
+          "title": "Stacks + Queues Review (2:19)"
+        }
+      ]
+    },
+    {
+      "title": "Data Structures: Trees",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661815",
+          "title": "Trees Introduction (6:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661820",
+          "title": "Binary Trees (5:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661822",
+          "title": "O(log n) (7:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661816",
+          "title": "Binary Search Trees (6:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661813",
+          "title": "Balanced vs Unbalanced BST (3:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661824",
+          "title": "BST Pros and Cons (2:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661809",
+          "title": "Exercise: Binary Search Tree (3:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661807",
+          "title": "Solution: insert() (10:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661818",
+          "title": "Solution: lookup() (4:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661812",
+          "title": "Bonus Exercise: remove() (2:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661811",
+          "title": "Solution: remove() (7:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661821",
+          "title": "AVL Trees + Red Black Trees (2:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411431",
+          "title": "Resources: AVL Trees + Red Black Trees"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661814",
+          "title": "Binary Heaps (5:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661817",
+          "title": "Quick Note on Heaps (1:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661810",
+          "title": "Priority Queue (5:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661819",
+          "title": "Trie (3:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12661808",
+          "title": "Tree Review (0:51)"
+        }
+      ]
+    },
+    {
+      "title": "Data Structures: Graphs",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12663832",
+          "title": "Graphs Introduction (2:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12663827",
+          "title": "Types Of Graphs (3:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12663829",
+          "title": "Exercise: Guess The Graph (2:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12663828",
+          "title": "Graph Data (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12663830",
+          "title": "Exercise: Graph Implementation (4:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12663834",
+          "title": "Solution: Graph Implementation (4:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12663833",
+          "title": "Graphs Review (2:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12663826",
+          "title": "Data Structures Review (1:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12663831",
+          "title": "What Else Is Coming Up? (1:53)"
+        }
+      ]
+    },
+    {
+      "title": "Algorithms: Recursion",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667190",
+          "title": "Introduction to Algorithms (3:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667191",
+          "title": "Recursion Introduction (5:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667193",
+          "title": "Stack Overflow (6:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667183",
+          "title": "Anatomy Of Recursion (10:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667188",
+          "title": "Exercise: Factorial (3:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667189",
+          "title": "Solution: Factorial (6:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667186",
+          "title": "Exercise: Fibonacci (1:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667192",
+          "title": "Solution: Fibonacci (11:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667187",
+          "title": "Recursive vs Iterative (4:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667184",
+          "title": "When To Use Recursion (4:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411410",
+          "title": "Exercise: Reverse String With Recursion"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667185",
+          "title": "Recursion Review (2:47)"
+        }
+      ]
+    },
+    {
+      "title": "Algorithms: Sorting",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667645",
+          "title": "Sorting Introduction (7:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667663",
+          "title": "The Issue With sort() (6:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667659",
+          "title": "Sorting Algorithms (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667655",
+          "title": "Bubble Sort (3:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411353",
+          "title": "Exercise: Bubble Sort"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667661",
+          "title": "Solution: Bubble Sort (5:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667648",
+          "title": "Selection Sort (2:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411346",
+          "title": "Exercise: Selection Sort"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667650",
+          "title": "Solution: Selection Sort (2:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667656",
+          "title": "Dancing Algorithms (1:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667647",
+          "title": "Insertion Sort (2:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411339",
+          "title": "Exercise: Insertion Sort"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667654",
+          "title": "Solution: Insertion Sort (2:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667662",
+          "title": "Merge Sort and O(n log n) (8:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411327",
+          "title": "Exercise: Merge Sort"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667649",
+          "title": "Solution: Merge Sort (4:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411320",
+          "title": "Stable vs Unstable Algorithms"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667653",
+          "title": "Quick Sort (7:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411304",
+          "title": "Optional Exercise: Quick Sort"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667651",
+          "title": "Which Sort Is Best? (4:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411277",
+          "title": "Resources: Heap Sort"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667658",
+          "title": "Radix Sort + Counting Sort (4:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411272",
+          "title": "Resources: Radix Sort + Counting Sort"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667657",
+          "title": "Exercise: Sorting Interview (1:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667646",
+          "title": "Solution: Sorting Interview (7:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667652",
+          "title": "Sorting In Your Language (1:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12667660",
+          "title": "Sorting Review (2:53)"
+        }
+      ]
+    },
+    {
+      "title": "Algorithms: Searching + BFS + DFS",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670899",
+          "title": "Searching + Traversal Introduction (1:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670905",
+          "title": "Linear Search (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670915",
+          "title": "Binary Search (6:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670909",
+          "title": "Graph + Tree Traversals (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670900",
+          "title": "BFS Introduction (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670901",
+          "title": "DFS Introduction (3:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670908",
+          "title": "BFS vs DFS (3:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411251",
+          "title": "Resources: BFS vs DFS"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670902",
+          "title": "Exercise: BFS vs DFS (0:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670906",
+          "title": "Solution: BFS vs DFS (3:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670911",
+          "title": "breadthFirstSearch() (9:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670914",
+          "title": "breadthFirstSearchRecursive() (5:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670904",
+          "title": "PreOrder, InOrder, PostOrder (5:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670903",
+          "title": "depthFirstSearch() (12:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411248",
+          "title": "Optional Exercise: Validate A BST"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670913",
+          "title": "Graph Traversals (3:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670910",
+          "title": "BFS in Graph (2:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670907",
+          "title": "DFS in Graph (2:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670912",
+          "title": "Dijkstra + Bellman-Ford Algorithms (5:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12670916",
+          "title": "Searching + Traversal Review (4:21)"
+        }
+      ]
+    },
+    {
+      "title": "Algorithms: Dynamic Programming",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12674408",
+          "title": "Dynamic Programming Introduction (1:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12674406",
+          "title": "Memoization 1 (7:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12674407",
+          "title": "Memoization 2 (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12674409",
+          "title": "Fibonacci and Dynamic Programming (5:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12674410",
+          "title": "Dynamic Programming (5:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12674411",
+          "title": "Implementing Dynamic Programming (9:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411234",
+          "title": "Interview Questions: Dynamic Programming"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12674405",
+          "title": "Dynamic Programming Review (4:45)"
+        }
+      ]
+    },
+    {
+      "title": "Non Technical Interviews",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12676693",
+          "title": "Section Overview (2:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12676684",
+          "title": "During The Interview (9:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411228",
+          "title": "Exercise: Hero Stories"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12676692",
+          "title": "Tell Me About Yourself (5:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411224",
+          "title": "Exercise: Your Pitch"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12676683",
+          "title": "Why Us? (5:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12676686",
+          "title": "Tell Me About A Problem You Have Solved (5:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411217",
+          "title": "Exercise: Past Projects"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12676689",
+          "title": "What Is Your Biggest Weakness (2:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411211",
+          "title": "Exercise: Your Biggest Weakness"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12676690",
+          "title": "Any Questions For Us? (3:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411207",
+          "title": "Resources: Questions To Ask A Company"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12676685",
+          "title": "Secret Weapon (8:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12676688",
+          "title": "After The Interview (5:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12676687",
+          "title": "Section Summary (3:56)"
+        }
+      ]
+    },
+    {
+      "title": "Offer + Negotiation",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12678204",
+          "title": "Section Overview (2:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12678207",
+          "title": "Handling Rejection (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12678206",
+          "title": "Negotiation 101 (9:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12678209",
+          "title": "Handling An Offer (9:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12678203",
+          "title": "Handling Multiple Offers (7:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12678208",
+          "title": "Getting A Raise (7:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411201",
+          "title": "Exercise: Negotiation Master"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12678205",
+          "title": "Section Summary (2:09)"
+        }
+      ]
+    },
+    {
+      "title": "Thank You",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411105",
+          "title": "Become an Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12679187",
+          "title": "Thank You (0:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/37576485",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411125",
+          "title": "What You Can Do Now"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/19984246",
+          "title": "Become a ZTM Ambassador ➡ Refer new students. Earn cash."
+        }
+      ]
+    },
+    {
+      "title": "Extras: Google, Amazon, Facebook Interview Questions",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12679525",
+          "title": "Coding Problems (1:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411011",
+          "title": "Top Interview Questions"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411051",
+          "title": "Amazon Interview Questions"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411062",
+          "title": "Facebook Interview Questions"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411073",
+          "title": "Google Interview Questions"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13411080",
+          "title": "Domain Specific Questions"
+        }
+      ]
+    },
+    {
+      "title": "Contributing To Open Source To Gain Experience",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12679190",
+          "title": "Contributing To Open Source (14:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12679188",
+          "title": "Contributing To Open Source 2 (9:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13410995",
+          "title": "Exercise: Contribute To Open Source"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: Extra Bits",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13410684",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13410672",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12681135",
+          "title": "From JTS: Learn to Learn (1:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12681133",
+          "title": "From JTS: Start With Why (2:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/13410658",
+          "title": "Coding Challenges"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12679189",
+          "title": "How To Use Leetcode (2:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700474/lectures/12681134",
+          "title": "AMA - 100,000 Students!! (38:30)"
+        }
+      ]
+    }
+  ]
+}

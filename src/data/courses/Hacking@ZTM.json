@@ -1,0 +1,1117 @@
+{
+  "title": "Complete Ethical Hacking Bootcamp 2022: Zero to Mastery",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1134428",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "Hacking"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25093693",
+          "title": "Complete Ethical Hacking Bootcamp: Zero to Mastery (2:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25093692",
+          "title": "Course Outline (6:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25164456",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25179020",
+          "title": "What is Ethical Hacking? (8:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24341592",
+          "title": "Course Resources + Guide"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/26956968",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "Setting Up Our Hacking Lab",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/27430056",
+          "title": "What is a Virtual Machine? (6:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/27430055",
+          "title": "Why Linux? (3:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24343575",
+          "title": "Downloading Virtual Box & Kali Linux (4:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/32743468",
+          "title": "Important - New Kali Linux Categories (1:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163066",
+          "title": "Note: Kali Linux Updates All The Time!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24343573",
+          "title": "Creating Our First Virtual Machine (8:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24933147",
+          "title": "Installing Kali Linux Operating System (11:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/30653204",
+          "title": "Update 1 - New & Old Versions of Kali Linux (2:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/27218270",
+          "title": "Networking Basics"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24935120",
+          "title": "Full Screen Mode & Network Settings (12:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163095",
+          "title": "Note: Getting Familiar With Kali Linux!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24933146",
+          "title": "5 Stages Of A Penetration Test (7:35)"
+        }
+      ]
+    },
+    {
+      "title": "Linux Operating System",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25015575",
+          "title": "Navigating Through Linux System (11:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25015568",
+          "title": "Creating Files & Managing Directories (12:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25015570",
+          "title": "Network Commands & Sudo Privileges In Kali (11:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163207",
+          "title": "Note: Linux File System & Additional Commands"
+        }
+      ]
+    },
+    {
+      "title": "Reconnaissance &amp; Information Gathering",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25015572",
+          "title": "What is Information Gathering? (4:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25015565",
+          "title": "Obtaining IP Address, Physical Address Using Whois Tool (9:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25015563",
+          "title": "Whatweb Stealthy Scan (8:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25015567",
+          "title": "Aggressive Website Technology Discovering on IP Range (9:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163229",
+          "title": "Note: Same Tools Different Results!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25015571",
+          "title": "Gathering Emails Using theHarvester & Hunter.io (9:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25015566",
+          "title": "How To Download Tools Online (10:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25015569",
+          "title": "Finding Usernames With Sherlock (7:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25015573",
+          "title": "Bonus - Email Scraper Tool In Python 3 (6:35)"
+        }
+      ]
+    },
+    {
+      "title": "Scanning",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25015564",
+          "title": "Theory Behind Scanning (7:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25015574",
+          "title": "TCP & UDP (4:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059764",
+          "title": "Installing Vulnerable Virtual Machine (6:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059759",
+          "title": "Netdiscover (6:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059755",
+          "title": "Performing First Nmap Scan (8:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059762",
+          "title": "Different Nmap Scan Types (10:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/29961462",
+          "title": "ZTM Nmap Cheatsheet"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059766",
+          "title": "Discovering Target Operating System (6:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059756",
+          "title": "Detecting Version Of Service Running On An Open Port (7:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059761",
+          "title": "Filtering Port Range & Output Of Scan Results (11:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059765",
+          "title": "What is a Firewall/IDS? (2:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059763",
+          "title": "Using Decoys and Packet Fragmentation (12:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059757",
+          "title": "Security Evasion Nmap Options (5:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163271",
+          "title": "Note: Time To Switch Things Up!"
+        }
+      ]
+    },
+    {
+      "title": "Python Coding Project #1 - Portscanner",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163324",
+          "title": "The 2 Paths"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163287",
+          "title": "Note: Do We Need To Learn Programming To Be An Ethical Hacker?"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25085800",
+          "title": "Coding a Portscanner in Python 3 (25:03)"
+        }
+      ]
+    },
+    {
+      "title": "Vulnerability Analysis",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059760",
+          "title": "Finding First Vulnerability With Nmap Scripts (16:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059758",
+          "title": "Manual Vulnerability Analysis & Searchsploit (7:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25076869",
+          "title": "Nessus Installation (5:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25076874",
+          "title": "Discovering Vulnerabilities With Nessus (14:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25076878",
+          "title": "Scanning Windows 7 Machine With Nessus (4:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25076882",
+          "title": "Lets cool down for a bit! (1:14)"
+        }
+      ]
+    },
+    {
+      "title": "Exploitation &amp; Gaining Access",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25076870",
+          "title": "What is Exploitation? (7:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25076877",
+          "title": "What is a Vulnerability? (5:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25076873",
+          "title": "Reverse Shells, Bind Shells .. (2:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25076876",
+          "title": "Metasploit Framework Structure (13:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25076872",
+          "title": "Msfconsole Basic Commands (16:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25085802",
+          "title": "Our First Exploit - vsftp 2.3.4 Exploitation (9:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145609",
+          "title": "Misconfigurations Happen - Bindshell Exploitation (4:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25085801",
+          "title": "Information Disclosure - Telnet Exploit (4:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25086785",
+          "title": "Software Vulnerability - Samba Exploitation (9:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25087295",
+          "title": "Attacking SSH - Bruteforce Attack (11:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25101536",
+          "title": "Exploitation Challenge - 5 Different Exploits (17:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25101535",
+          "title": "Explaining Windows 7 Setup (8:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25101540",
+          "title": "Eternal Blue Attack - Windows 7 Exploitation (12:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059767",
+          "title": "DoublePulsar Attack - Windows Exploit (15:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25059768",
+          "title": "BlueKeep Vulnerability - Windows Exploit (9:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163372",
+          "title": "Note: We Can Also Target Routers!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163364",
+          "title": "Update 2 - Routersploit (6:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163365",
+          "title": "Update 3 - Router Default Credentials (7:02)"
+        }
+      ]
+    },
+    {
+      "title": "SMBGhost CVE 2020-0796 - Windows 10 Manual Exploitation",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163390",
+          "title": "Note: Not Everything Will Work Smooth!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25076871",
+          "title": "Setting Up Vulnerable Windows 10 (7:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25087296",
+          "title": "Crashing Windows 10 Machine Remotely (6:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25076875",
+          "title": "Exploiting Windows 10 Machine Remotely (13:59)"
+        }
+      ]
+    },
+    {
+      "title": "Gaining Access (Viruses, Trojans, Payloads ...)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25085799",
+          "title": "Generating Basic Payload With Msfvenom (11:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25086786",
+          "title": "Advance Msfvenom Usage Part 1 (9:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25101539",
+          "title": "Advance Msfvenom Usage Part 2 (7:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25101541",
+          "title": "Generating Powershell Payload Using Veil (14:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25101537",
+          "title": "TheFatRat Payload Creation (7:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163422",
+          "title": "Note: My Payloads Are Getting Detected By An Antivirus!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145594",
+          "title": "Hexeditor & Antiviruses (7:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145605",
+          "title": "Making Our Payload Open An Image (8:10)"
+        }
+      ]
+    },
+    {
+      "title": "Post Exploitation - Elevating Privileges, Extracting Data, Running Keyloggers",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145606",
+          "title": "Post Exploitation Theory (4:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145602",
+          "title": "Meterpreter Basic Commands Part 1 (11:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145616",
+          "title": "Meterpreter Basic Commands Part 2 (10:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145615",
+          "title": "Elevating Privileges With Different Modules (8:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145607",
+          "title": "Creating Persistence On The Target System (7:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145597",
+          "title": "Post Exploitation Modules (8:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145596",
+          "title": "Exploitation Recap (4:00)"
+        }
+      ]
+    },
+    {
+      "title": "Python Coding Project #2 - Backdoor",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145604",
+          "title": "What Are We Creating? (2:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145601",
+          "title": "Connecting Server And Backdoor (10:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25101538",
+          "title": "Processing Instructional Commands (6:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145617",
+          "title": "Sending and Receiving Data (6:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145611",
+          "title": "Executing Commands And Compiling The Program (12:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145613",
+          "title": "Changing Directory Inside Of Our Backdoor (6:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145610",
+          "title": "Uploading & Downloading Files (10:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145599",
+          "title": "Testing All The Commands (8:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163470",
+          "title": "Note: You Can Continue Building Onto This Project!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/37422475",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Website Application Penetration Testing",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25154859",
+          "title": "Website Penetration Testing Theory (11:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145612",
+          "title": "HTTP Request & Response (4:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145603",
+          "title": "Information Gathering & Dirb Tool (8:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145621",
+          "title": "Burpsuite Configuration (7:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145618",
+          "title": "ShellShock Exploitation (15:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145600",
+          "title": "Command Injection Exploitation (11:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25154863",
+          "title": "Getting Meterpreter Shell With Command Execution (9:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25154860",
+          "title": "Reflected XSS & Cookie Stealing (16:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25154864",
+          "title": "Stored XSS (9:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145608",
+          "title": "HTML Injection (7:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145614",
+          "title": "SQL Injection (21:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145598",
+          "title": "CSRF Vulnerability (12:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145620",
+          "title": "Hydra Bruteforce Attack Example 1 (10:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145619",
+          "title": "Hydra Bruteforce Attack Example 2 (7:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25145595",
+          "title": "Burpsuite Intruder (7:34)"
+        }
+      ]
+    },
+    {
+      "title": "Python Coding Project #3 - Login Bruteforce, Directory Discovery",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25177694",
+          "title": "Creating 2 Programs (1:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25186351",
+          "title": "Bruteforcer In Python (27:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25177693",
+          "title": "Hidden Directory Discovery (12:10)"
+        }
+      ]
+    },
+    {
+      "title": "Man In The Middle - MITM",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25177691",
+          "title": "Theory - Man In The Middle Attack (8:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25177692",
+          "title": "Bettercap ARP Spoofing (11:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25186350",
+          "title": "Ettercap Password Sniffing (8:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25154861",
+          "title": "Manually Poisoning Targets ARP Cache With Scapy (12:21)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus - Wireless Access Point Cracking",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25154862",
+          "title": "Wireless Cracking Theory (5:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25154866",
+          "title": "Putting Wireless Card In Monitor Mode (3:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25154858",
+          "title": "Deauthenticating Devices & Grabbing Password (11:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25154865",
+          "title": "Aircrack Password Cracking (7:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25158698",
+          "title": "Hashcat Password Cracking (9:42)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: Gaining Access To An Android Device",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/27005420",
+          "title": "Android Hacking Theory (3:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/27005423",
+          "title": "Android VM Install (5:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/27005421",
+          "title": "Gaining Access With Android Meterpreter (10:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/27005424",
+          "title": "Evil Droid (7:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/27005419",
+          "title": "Is it Flappy Bird or Malware (12:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/27005422",
+          "title": "Hack Any Device On Any Network With Ngrok (11:47)"
+        }
+      ]
+    },
+    {
+      "title": "Extra: Introduction To Anonymity",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/36124825",
+          "title": "Anonymity Theory (4:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/36125126",
+          "title": "Tor Browser (8:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/36125128",
+          "title": "Proxychains With Nmap (7:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/36125133",
+          "title": "Installing VPN in Kali Linux (5:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/36125136",
+          "title": "Whoami Anonymity Tool (8:41)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/37422474",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25164504",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25164505",
+          "title": "Endorsements On LinkedIn"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25158697",
+          "title": "What's Next? (2:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25164506",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163386",
+          "title": "Practice"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25163387",
+          "title": "Bug Bounty"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25164418",
+          "title": "Coding For Hackers"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25164421",
+          "title": "Exploit Development"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25164509",
+          "title": "Python Monthly"
+        }
+      ]
+    },
+    {
+      "title": "Learn Python Basics",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24413511",
+          "title": "What is a Programming Language? (6:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25013323",
+          "title": "Python Interpreter (7:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25013322",
+          "title": "How To Run Python Code (4:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24413509",
+          "title": "Our First Python Program (7:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25051902",
+          "title": "Latest Version Of Python (1:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/25013321",
+          "title": "Python 2 vs Python 3 (6:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24413508",
+          "title": "Exercise: How Does Python Work? (2:09)"
+        }
+      ]
+    },
+    {
+      "title": "Learn Python Intermediate",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24415481",
+          "title": "Learning Python (2:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24415483",
+          "title": "Python Data Types (4:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24496515",
+          "title": "How To Succeed"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24415474",
+          "title": "Numbers (11:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24415479",
+          "title": "Math Functions (4:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24413514",
+          "title": "DEVELOPER FUNDAMENTALS: I (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24415478",
+          "title": "Operator Precedence (3:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24496523",
+          "title": "Exercise: Operator Precedence"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24415484",
+          "title": "Optional: bin() and complex (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24415477",
+          "title": "Variables (13:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24415475",
+          "title": "Expressions vs Statements (1:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24415472",
+          "title": "Augmented Assignment Operator (2:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24415482",
+          "title": "Strings (5:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24415473",
+          "title": "String Concatenation (1:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24415480",
+          "title": "Type Conversion (3:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24415476",
+          "title": "Escape Sequences (4:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416062",
+          "title": "Formatted Strings (8:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416070",
+          "title": "String Indexes (8:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416055",
+          "title": "Immutability (3:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416066",
+          "title": "Built-In Functions + Methods (10:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416064",
+          "title": "Booleans (3:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416061",
+          "title": "Exercise: Type Conversion (8:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416067",
+          "title": "DEVELOPER FUNDAMENTALS: II (4:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416057",
+          "title": "Exercise: Password Checker (7:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416065",
+          "title": "Lists (5:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416068",
+          "title": "List Slicing (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416056",
+          "title": "Matrix (4:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416060",
+          "title": "List Methods (10:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416059",
+          "title": "List Methods 2 (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416063",
+          "title": "List Methods 3 (4:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416058",
+          "title": "Common List Patterns (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416071",
+          "title": "List Unpacking (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416054",
+          "title": "None (1:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24416069",
+          "title": "Dictionaries (6:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419833",
+          "title": "DEVELOPER FUNDAMENTALS: III (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419847",
+          "title": "Dictionary Keys (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419837",
+          "title": "Dictionary Methods (4:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419842",
+          "title": "Dictionary Methods 2 (7:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419850",
+          "title": "Tuples (4:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419844",
+          "title": "Tuples 2 (3:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419845",
+          "title": "Sets (7:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419831",
+          "title": "Sets 2 (8:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419841",
+          "title": "Breaking The Flow (2:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419838",
+          "title": "Conditional Logic (13:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419849",
+          "title": "Indentation In Python (4:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419840",
+          "title": "Truthy vs Falsey (5:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419846",
+          "title": "Ternary Operator (4:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419839",
+          "title": "Short Circuiting (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419834",
+          "title": "Logical Operators (6:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419848",
+          "title": "Exercise: Logical Operators (7:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419843",
+          "title": "is vs == (7:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419832",
+          "title": "For Loops (7:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419836",
+          "title": "Iterables (6:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24419835",
+          "title": "Exercise: Tricky Counter (3:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420468",
+          "title": "range() (5:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420469",
+          "title": "enumerate() (4:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420470",
+          "title": "While Loops (6:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420467",
+          "title": "While Loops 2 (5:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420476",
+          "title": "break, continue, pass (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420478",
+          "title": "Our First GUI (8:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420480",
+          "title": "DEVELOPER FUNDAMENTALS: IV (6:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420482",
+          "title": "Exercise: Find Duplicates (3:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420485",
+          "title": "Functions (7:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420475",
+          "title": "Parameters and Arguments (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420474",
+          "title": "Default Parameters and Keyword Arguments (5:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420472",
+          "title": "return (13:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420479",
+          "title": "Methods vs Functions (4:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420487",
+          "title": "Docstrings (3:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420471",
+          "title": "Clean Code (4:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420483",
+          "title": "*args and **kwargs (7:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420486",
+          "title": "Exercise: Functions (4:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420484",
+          "title": "Scope (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420473",
+          "title": "Scope Rules (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420477",
+          "title": "global Keyword (6:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420481",
+          "title": "nonlocal Keyword (3:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24420488",
+          "title": "Why Do We Need Scope? (3:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517234",
+          "title": "Modules in Python (11:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24519052",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517235",
+          "title": "Optional: PyCharm (8:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517239",
+          "title": "Packages in Python (10:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517232",
+          "title": "Different Ways To Import (7:03)"
+        }
+      ]
+    },
+    {
+      "title": "Learn Python 3: Error Handling",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517236",
+          "title": "Errors in Python (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517238",
+          "title": "Error Handling (8:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517230",
+          "title": "Error Handling 2 (6:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517237",
+          "title": "Exercises: Error Handling (4:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517227",
+          "title": "Error Handling 3 (3:06)"
+        }
+      ]
+    },
+    {
+      "title": "Learn Python 4: File I/O",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517228",
+          "title": "Working With Files In Python (8:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517231",
+          "title": "Read, Write, Append (7:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517229",
+          "title": "File Paths (6:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517233",
+          "title": "File IO Errors (2:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24517240",
+          "title": "Exercise: Translator (9:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1134428/lectures/24519164",
+          "title": "Next Steps"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1610 @@
+{
+  "title": "Complete Machine Learning and Data Science: Zero to Mastery",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/700485",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "ML, DS"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/13654780",
+          "title": "Complete Machine Learning and Data Science: Zero to Mastery (4:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005977",
+          "title": "Course Outline (5:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123576",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005983",
+          "title": "Your First Day (3:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14085410",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning 101",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005996",
+          "title": "What Is Machine Learning? (6:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005988",
+          "title": "AI/Machine Learning/Data Science (4:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005989",
+          "title": "Exercise: Machine Learning Playground (6:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005984",
+          "title": "How Did We Get Here? (6:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005994",
+          "title": "Exercise: YouTube Recommendation Engine (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005978",
+          "title": "Types of Machine Learning (4:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123484",
+          "title": "Are You Getting It Yet?"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12692383",
+          "title": "What Is Machine Learning? Round 2 (4:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005982",
+          "title": "Section Review (1:48)"
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning and Data Science Framework",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005992",
+          "title": "Section Overview (3:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12692384",
+          "title": "Introducing Our Framework (2:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12692381",
+          "title": "6 Step Machine Learning Framework (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12692379",
+          "title": "Types of Machine Learning Problems (10:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12692391",
+          "title": "Types of Data (4:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12692385",
+          "title": "Types of Evaluation (3:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12692382",
+          "title": "Features In Data (5:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12692380",
+          "title": "Modelling - Splitting Data (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12692389",
+          "title": "Modelling - Picking the Model (4:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12692388",
+          "title": "Modelling - Tuning (3:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12692386",
+          "title": "Modelling - Comparison (9:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14563766",
+          "title": "Overfitting and Underfitting Definitions"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12692387",
+          "title": "Experimentation (3:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12692390",
+          "title": "Tools We Will Use (3:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123447",
+          "title": "Optional: Elements of AI"
+        }
+      ]
+    },
+    {
+      "title": "The 2 Paths",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005980",
+          "title": "The 2 Paths (3:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123400",
+          "title": "Python + Machine Learning Monthly"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/23003700",
+          "title": "Endorsements On LinkedIn"
+        }
+      ]
+    },
+    {
+      "title": "Data Science Environment Setup",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005979",
+          "title": "Section Overview (1:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693098",
+          "title": "Introducing Our Tools (3:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693095",
+          "title": "What is Conda? (2:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693103",
+          "title": "Conda Environments (4:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693102",
+          "title": "Mac Environment Setup (17:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693101",
+          "title": "Mac Environment Setup 2 (14:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693096",
+          "title": "Windows Environment Setup (5:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693099",
+          "title": "Windows Environment Setup 2 (23:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123370",
+          "title": "Linux Environment Setup"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14228276",
+          "title": "Sharing your Conda Environment"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693097",
+          "title": "Jupyter Notebook Walkthrough (10:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693100",
+          "title": "Jupyter Notebook Walkthrough 2 (16:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693104",
+          "title": "Jupyter Notebook Walkthrough 3 (8:10)"
+        }
+      ]
+    },
+    {
+      "title": "Pandas: Data Analysis",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005987",
+          "title": "Section Overview (2:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123353",
+          "title": "Downloading Workbooks and Assignments"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693718",
+          "title": "Pandas Introduction (4:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693721",
+          "title": "Series, Data Frames and CSVs (13:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123274",
+          "title": "Data from URLs"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693716",
+          "title": "Describing Data with Pandas (9:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693714",
+          "title": "Selecting and Viewing Data with Pandas (11:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693717",
+          "title": "Selecting and Viewing Data with Pandas Part 2 (13:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693715",
+          "title": "Manipulating Data (13:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693719",
+          "title": "Manipulating Data 2 (9:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12693720",
+          "title": "Manipulating Data 3 (10:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123261",
+          "title": "Assignment: Pandas Practice"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14016881",
+          "title": "How To Download The Course Assignments (7:43)"
+        }
+      ]
+    },
+    {
+      "title": "NumPy",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005995",
+          "title": "Section Overview (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694336",
+          "title": "NumPy Introduction (5:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123223",
+          "title": "Quick Note: Correction In Next Video"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694331",
+          "title": "NumPy DataTypes and Attributes (14:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694334",
+          "title": "Creating NumPy Arrays (9:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694332",
+          "title": "NumPy Random Seed (7:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694333",
+          "title": "Viewing Arrays and Matrices (9:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694327",
+          "title": "Manipulating Arrays (11:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694329",
+          "title": "Manipulating Arrays 2 (9:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694325",
+          "title": "Standard Deviation and Variance (7:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694330",
+          "title": "Reshape and Transpose (7:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694338",
+          "title": "Dot Product vs Element Wise (11:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694337",
+          "title": "Exercise: Nut Butter Store Sales (13:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694328",
+          "title": "Comparison Operators (3:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694335",
+          "title": "Sorting Arrays (6:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12694326",
+          "title": "Turn Images Into NumPy Arrays (7:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123200",
+          "title": "Assignment: NumPy Practice"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123215",
+          "title": "Optional: Extra NumPy resources"
+        }
+      ]
+    },
+    {
+      "title": "Matplotlib: Plotting and Data Visualization",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005991",
+          "title": "Section Overview (1:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/13996368",
+          "title": "Matplotlib Introduction (5:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/13999140",
+          "title": "Importing And Using Matplotlib (11:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/13999843",
+          "title": "Anatomy Of A Matplotlib Figure (9:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/13996369",
+          "title": "Scatter Plot And Bar Plot (10:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/13999847",
+          "title": "Histograms And Subplots (8:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/13999851",
+          "title": "Subplots Option 2 (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14016483",
+          "title": "Quick Tip: Data Visualizations (1:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/13999845",
+          "title": "Plotting From Pandas DataFrames (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123146",
+          "title": "Quick Note: Regular Expressions"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/13999849",
+          "title": "Plotting From Pandas DataFrames 2 (10:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/13999846",
+          "title": "Plotting from Pandas DataFrames 3 (8:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/13999850",
+          "title": "Plotting from Pandas DataFrames 4 (6:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14000344",
+          "title": "Plotting from Pandas DataFrames 5 (8:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14000345",
+          "title": "Plotting from Pandas DataFrames 6 (8:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14000346",
+          "title": "Plotting from Pandas DataFrames 7 (11:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14000348",
+          "title": "Customizing Your Plots (10:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14000343",
+          "title": "Customizing Your Plots 2 (9:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14000347",
+          "title": "Saving And Sharing Your Plots (4:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123140",
+          "title": "Assignment: Matplotlib Practice"
+        }
+      ]
+    },
+    {
+      "title": "Scikit-learn: Creating Machine Learning Models",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005986",
+          "title": "Section Overview (2:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004552",
+          "title": "Scikit-learn Introduction (6:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123111",
+          "title": "Quick Note: Upcoming Video"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14016480",
+          "title": "Refresher: What Is Machine Learning? (5:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14123070",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004547",
+          "title": "Scikit-learn Cheatsheet (6:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004520",
+          "title": "Typical scikit-learn Workflow (23:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004524",
+          "title": "Optional: Debugging Warnings In Jupyter (18:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004545",
+          "title": "Getting Your Data Ready: Splitting Your Data (8:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14016485",
+          "title": "Quick Tip: Clean, Transform, Reduce (5:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004522",
+          "title": "Getting Your Data Ready: Convert Data To Numbers (16:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/32245104",
+          "title": "Note: Update to next video (OneHotEncoder can handle NaN/None values)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004533",
+          "title": "Getting Your Data Ready: Handling Missing Values With Pandas (12:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/16453333",
+          "title": "Extension: Feature Scaling"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14393860",
+          "title": "Note: Correction in the upcoming video"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004521",
+          "title": "Getting Your Data Ready: Handling Missing Values With Scikit-learn (17:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/35871965",
+          "title": "NEW: Choosing The Right Model For Your Data (20:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/35851089",
+          "title": "NEW: Choosing The Right Model For Your Data 2 (Regression) (11:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112973",
+          "title": "Quick Note: Decision Trees"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14016479",
+          "title": "Quick Tip: How ML Algorithms Work (1:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004540",
+          "title": "Choosing The Right Model For Your Data 3 (Classification) (12:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004523",
+          "title": "Fitting A Model To The Data (6:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004535",
+          "title": "Making Predictions With Our Model (8:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004526",
+          "title": "predict() vs predict_proba() (8:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/35851090",
+          "title": "NEW: Making Predictions With Our Model (Regression) (8:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/35851091",
+          "title": "NEW: Evaluating A Machine Learning Model (Score) Part 1 (9:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/35851093",
+          "title": "NEW: Evaluating A Machine Learning Model (Score) Part 2 (6:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004538",
+          "title": "Evaluating A Machine Learning Model 2 (Cross Validation) (13:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004531",
+          "title": "Evaluating A Classification Model 1 (Accuracy) (4:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004532",
+          "title": "Evaluating A Classification Model 2 (ROC Curve) (9:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004527",
+          "title": "Evaluating A Classification Model 3 (ROC Curve) (7:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/17430994",
+          "title": "Reading Extension: ROC Curve + AUC"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004518",
+          "title": "Evaluating A Classification Model 4 (Confusion Matrix) (11:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/35896731",
+          "title": "NEW: Evaluating A Classification Model 5 (Confusion Matrix) (14:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004541",
+          "title": "Evaluating A Classification Model 6 (Classification Report) (10:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/35851094",
+          "title": "NEW: Evaluating A Regression Model 1 (R2 Score) (9:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/35851096",
+          "title": "NEW: Evaluating A Regression Model 2 (MAE) (7:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/35851097",
+          "title": "NEW: Evaluating A Regression Model 3 (MSE) (9:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112961",
+          "title": "Machine Learning Model Evaluation"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/35851098",
+          "title": "NEW: Evaluating A Model With Cross Validation and Scoring Parameter (25:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/35851099",
+          "title": "NEW: Evaluating A Model With Scikit-learn Functions (14:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004537",
+          "title": "Improving A Machine Learning Model (11:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/15982571",
+          "title": "Tuning Hyperparameters (23:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004543",
+          "title": "Tuning Hyperparameters 2 (14:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004550",
+          "title": "Tuning Hyperparameters 3 (14:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/15696383",
+          "title": "Note: Metric Comparison Improvement"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14016484",
+          "title": "Quick Tip: Correlation Analysis (2:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004542",
+          "title": "Saving And Loading A Model (7:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004528",
+          "title": "Saving And Loading A Model 2 (6:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/17726606",
+          "title": "Putting It All Together (20:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14004536",
+          "title": "Putting It All Together 2 (11:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112959",
+          "title": "Scikit-Learn Practice"
+        }
+      ]
+    },
+    {
+      "title": "Supervised Learning: Classification + Regression",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112948",
+          "title": "Milestone Projects!"
+        }
+      ]
+    },
+    {
+      "title": "Milestone Project 1: Supervised Learning (Classification)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005985",
+          "title": "Section Overview (2:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007760",
+          "title": "Project Overview (6:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007769",
+          "title": "Project Environment Setup (10:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007761",
+          "title": "Step 1~4 Framework Setup (12:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007773",
+          "title": "Getting Our Tools Ready (9:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007768",
+          "title": "Exploring Our Data (8:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007771",
+          "title": "Finding Patterns (10:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007765",
+          "title": "Finding Patterns 2 (16:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007759",
+          "title": "Finding Patterns 3 (13:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007766",
+          "title": "Preparing Our Data For Machine Learning (8:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007767",
+          "title": "Choosing The Right Models (10:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007772",
+          "title": "Experimenting With Machine Learning Models (6:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007763",
+          "title": "Tuning/Improving Our Model (13:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007762",
+          "title": "Tuning Hyperparameters (11:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007755",
+          "title": "Tuning Hyperparameters 2 (11:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007764",
+          "title": "Tuning Hyperparameters 3 (7:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/27763335",
+          "title": "Quick Note: Confusion Matrix Labels"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007758",
+          "title": "Evaluating Our Model (10:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007770",
+          "title": "Evaluating Our Model 2 (5:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007754",
+          "title": "Evaluating Our Model 3 (8:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007756",
+          "title": "Finding The Most Important Features (16:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14007757",
+          "title": "Reviewing The Project (9:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/37420085",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Milestone Project 2: Supervised Learning (Time Series Data)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005981",
+          "title": "Section Overview (1:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015983",
+          "title": "Project Overview (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/17139244",
+          "title": "Downloading the data for the next two projects"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015973",
+          "title": "Project Environment Setup (10:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015972",
+          "title": "Step 1~4 Framework Setup (8:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015980",
+          "title": "Exploring Our Data (14:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015979",
+          "title": "Exploring Our Data 2 (6:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015981",
+          "title": "Feature Engineering (15:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015977",
+          "title": "Turning Data Into Numbers (15:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015987",
+          "title": "Filling Missing Numerical Values (12:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015971",
+          "title": "Filling Missing Categorical Values (8:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015975",
+          "title": "Fitting A Machine Learning Model (7:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015988",
+          "title": "Splitting Data (10:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14801113",
+          "title": "Challenge: What's wrong with splitting data after filling it?"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015976",
+          "title": "Custom Evaluation Function (11:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015984",
+          "title": "Reducing Data (10:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015986",
+          "title": "RandomizedSearchCV (9:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015985",
+          "title": "Improving Hyperparameters (8:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015978",
+          "title": "Preproccessing Our Data (13:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015982",
+          "title": "Making Predictions (9:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14015974",
+          "title": "Feature Importance (13:50)"
+        }
+      ]
+    },
+    {
+      "title": "Data Engineering",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14006222",
+          "title": "Data Engineering Introduction (3:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14006226",
+          "title": "What Is Data? (6:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14006230",
+          "title": "What is a Data Engineer? (4:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14006231",
+          "title": "What is A Data Engineer 2? (5:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14006227",
+          "title": "What is a Data Engineer 3? (5:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14006225",
+          "title": "What is a Data Engineer 4? (3:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14006224",
+          "title": "Types of Databases (6:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112896",
+          "title": "Quick Note: Upcoming Video"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14017050",
+          "title": "Optional: OLTP Databases (10:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112881",
+          "title": "Optional: Learn SQL"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14006229",
+          "title": "Hadoop, HDFS and MapReduce (4:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14006228",
+          "title": "Apache Spark and Apache Flink (2:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14006223",
+          "title": "Kafka and Stream Processing (4:33)"
+        }
+      ]
+    },
+    {
+      "title": "Neural Networks: Deep Learning, Transfer Learning and TensorFlow 2",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005993",
+          "title": "Section Overview (2:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059573",
+          "title": "Deep Learning and Unstructured Data (13:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112853",
+          "title": "Setting Up With Google"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059556",
+          "title": "Setting Up Google Colab (7:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059546",
+          "title": "Google Colab Workspace (4:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059576",
+          "title": "Uploading Project Data (6:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059579",
+          "title": "Setting Up Our Data (4:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059580",
+          "title": "Setting Up Our Data 2 (1:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059550",
+          "title": "Importing TensorFlow 2 (12:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059569",
+          "title": "Optional: TensorFlow 2.0 Default Issue (3:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059558",
+          "title": "Using A GPU (8:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059555",
+          "title": "Optional: GPU and Google Colab (4:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059578",
+          "title": "Optional: Reloading Colab Notebook (6:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059564",
+          "title": "Loading Our Data Labels (12:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059581",
+          "title": "Preparing The Images (12:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059571",
+          "title": "Turning Data Labels Into Numbers (12:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059568",
+          "title": "Creating Our Own Validation Set (9:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059543",
+          "title": "Preprocess Images (10:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059552",
+          "title": "Preprocess Images 2 (11:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059574",
+          "title": "Turning Data Into Batches (9:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059551",
+          "title": "Turning Data Into Batches 2 (17:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059565",
+          "title": "Visualizing Our Data (12:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059563",
+          "title": "Preparing Our Inputs and Outputs (6:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112847",
+          "title": "Optional: How machines learn and what's going on behind the scenes?"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059553",
+          "title": "Building A Deep Learning Model (11:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059549",
+          "title": "Building A Deep Learning Model 2 (10:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059548",
+          "title": "Building A Deep Learning Model 3 (9:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059577",
+          "title": "Building A Deep Learning Model 4 (9:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059570",
+          "title": "Summarizing Our Model (4:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059544",
+          "title": "Evaluating Our Model (9:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059561",
+          "title": "Preventing Overfitting (4:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059554",
+          "title": "Training Your Deep Neural Network (19:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059557",
+          "title": "Evaluating Performance With TensorBoard (7:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059566",
+          "title": "Make And Transform Predictions (15:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059547",
+          "title": "Transform Predictions To Text (15:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059582",
+          "title": "Visualizing Model Predictions (14:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059545",
+          "title": "Visualizing And Evaluate Model Predictions 2 (15:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059559",
+          "title": "Visualizing And Evaluate Model Predictions 3 (10:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059567",
+          "title": "Saving And Loading A Trained Model (13:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059572",
+          "title": "Training Model On Full Dataset (15:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059575",
+          "title": "Making Predictions On Test Images (16:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059562",
+          "title": "Submitting Model to Kaggle (14:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14059560",
+          "title": "Making Predictions On Our Images (15:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112839",
+          "title": "Finishing Dog Vision: Where to next?"
+        }
+      ]
+    },
+    {
+      "title": "Storytelling + Communication: How To Present Your Projects",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14005990",
+          "title": "Section Overview (2:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14151535",
+          "title": "Communicating Your Work (3:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14151533",
+          "title": "Communicating With Managers (2:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14151532",
+          "title": "Communicating With Co-Workers (3:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14151530",
+          "title": "Weekend Project Principle (6:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14151534",
+          "title": "Communicating With Outside World (3:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14151531",
+          "title": "Storytelling (3:05)"
+        }
+      ]
+    },
+    {
+      "title": "Career Advice + Extra Bits",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112579",
+          "title": "Endorsements On LinkedIn"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112635",
+          "title": "Quick Note: Upcoming Video"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14018533",
+          "title": "What If I Don't Have Enough Experience? (15:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112647",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112727",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14018531",
+          "title": "JTS: Learn to Learn (1:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14018530",
+          "title": "JTS: Start With Why (2:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112736",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14018527",
+          "title": "CWD: Git + Github (17:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14018532",
+          "title": "CWD: Git + Github 2 (16:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14018529",
+          "title": "Contributing To Open Source (14:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14018528",
+          "title": "Contributing To Open Source 2 (9:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112789",
+          "title": "Exercise: Contribute To Open Source"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112788",
+          "title": "Coding Challenges"
+        }
+      ]
+    },
+    {
+      "title": "Learn Python",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721827",
+          "title": "What Is A Programming Language (6:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/25013028",
+          "title": "Python Interpreter (7:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/25013027",
+          "title": "How To Run Python Code (4:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721849",
+          "title": "Our First Python Program (7:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/25051594",
+          "title": "Latest Version Of Python (1:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/25013026",
+          "title": "Python 2 vs Python 3 (6:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721844",
+          "title": "Exercise: How Does Python Work? (2:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721859",
+          "title": "Learning Python (2:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721825",
+          "title": "Python Data Types (4:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112571",
+          "title": "How To Succeed"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721845",
+          "title": "Numbers (11:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721833",
+          "title": "Math Functions (4:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721818",
+          "title": "DEVELOPER FUNDAMENTALS: I (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721857",
+          "title": "Operator Precedence (3:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112468",
+          "title": "Exercise: Operator Precedence"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721832",
+          "title": "Optional: bin() and complex (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721851",
+          "title": "Variables (13:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721856",
+          "title": "Expressions vs Statements (1:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721853",
+          "title": "Augmented Assignment Operator (2:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721831",
+          "title": "Strings (5:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721835",
+          "title": "String Concatenation (1:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721822",
+          "title": "Type Conversion (3:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721847",
+          "title": "Escape Sequences (4:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721858",
+          "title": "Formatted Strings (8:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721852",
+          "title": "String Indexes (8:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721820",
+          "title": "Immutability (3:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721829",
+          "title": "Built-In Functions + Methods (10:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721843",
+          "title": "Booleans (3:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14092048",
+          "title": "Exercise: Type Conversion (8:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721850",
+          "title": "DEVELOPER FUNDAMENTALS: II (4:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721842",
+          "title": "Exercise: Password Checker (7:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721841",
+          "title": "Lists (5:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721836",
+          "title": "List Slicing (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721860",
+          "title": "Matrix (4:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721821",
+          "title": "List Methods (10:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721817",
+          "title": "List Methods 2 (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721848",
+          "title": "List Methods 3 (4:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721813",
+          "title": "Common List Patterns (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721826",
+          "title": "List Unpacking (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721830",
+          "title": "None (1:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721838",
+          "title": "Dictionaries (6:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721837",
+          "title": "DEVELOPER FUNDAMENTALS: III (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721828",
+          "title": "Dictionary Keys (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721840",
+          "title": "Dictionary Methods (4:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721814",
+          "title": "Dictionary Methods 2 (7:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721854",
+          "title": "Tuples (4:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721824",
+          "title": "Tuples 2 (3:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721819",
+          "title": "Sets (7:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12721855",
+          "title": "Sets 2 (8:45)"
+        }
+      ]
+    },
+    {
+      "title": "Learn Python Part 2",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729266",
+          "title": "Breaking The Flow (2:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729280",
+          "title": "Conditional Logic (13:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729265",
+          "title": "Indentation In Python (4:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729282",
+          "title": "Truthy vs Falsey (5:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729272",
+          "title": "Ternary Operator (4:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729273",
+          "title": "Short Circuiting (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729261",
+          "title": "Logical Operators (6:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729263",
+          "title": "Exercise: Logical Operators (7:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729260",
+          "title": "is vs == (7:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729258",
+          "title": "For Loops (7:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729256",
+          "title": "Iterables (6:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729271",
+          "title": "Exercise: Tricky Counter (3:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729283",
+          "title": "range() (5:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729269",
+          "title": "enumerate() (4:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729259",
+          "title": "While Loops (6:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729279",
+          "title": "While Loops 2 (5:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729267",
+          "title": "break, continue, pass (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729275",
+          "title": "Our First GUI (8:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729288",
+          "title": "DEVELOPER FUNDAMENTALS: IV (6:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729262",
+          "title": "Exercise: Find Duplicates (3:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729284",
+          "title": "Functions (7:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729278",
+          "title": "Parameters and Arguments (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729268",
+          "title": "Default Parameters and Keyword Arguments (5:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729286",
+          "title": "return (13:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112197",
+          "title": "Exercise: Tesla"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729285",
+          "title": "Methods vs Functions (4:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729270",
+          "title": "Docstrings (3:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729274",
+          "title": "Clean Code (4:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729257",
+          "title": "*args and **kwargs (7:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729264",
+          "title": "Exercise: Functions (4:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729289",
+          "title": "Scope (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729281",
+          "title": "Scope Rules (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729287",
+          "title": "global Keyword (6:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729276",
+          "title": "nonlocal Keyword (3:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12729277",
+          "title": "Why Do We Need Scope? (3:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14017632",
+          "title": "Pure Functions (9:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14017635",
+          "title": "map() (6:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14017637",
+          "title": "filter() (4:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14017636",
+          "title": "zip() (3:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14017633",
+          "title": "reduce() (7:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14017634",
+          "title": "List Comprehensions (8:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14017630",
+          "title": "Set Comprehensions (6:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14017631",
+          "title": "Exercise: Comprehensions (4:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112199",
+          "title": "Python Exam: Testing Your Understanding"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14016481",
+          "title": "Modules in Python (10:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112203",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12730245",
+          "title": "Optional: PyCharm (8:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12730254",
+          "title": "Packages in Python (10:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/12730252",
+          "title": "Different Ways To Import (7:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112204",
+          "title": "Next Steps"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: Learn Advanced Statistics and Mathematics for FREE!",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112178",
+          "title": "Statistics and Mathematics"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14112055",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/14016482",
+          "title": "Thank You (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/37576590",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700485/lectures/19984984",
+          "title": "Become a ZTM Ambassador ➡ Refer new students. Earn cash."
+        }
+      ]
+    }
+  ]
+}

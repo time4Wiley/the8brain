@@ -1,0 +1,1092 @@
+{
+  "title": "JavaScript Web Projects: 20 Projects to Build Your Portfolio",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1007166",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "JSWP,Projects"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20458293",
+          "title": "JavaScript Web Projects (2:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21201445",
+          "title": "Course Outline (9:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21149452",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134532",
+          "title": "The Purpose Of JavaScript (4:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21149458",
+          "title": "How To Get The Most Out Of The Course"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/25202621",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "Developer Setup",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21198558",
+          "title": "Setting Up For The Course"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153151",
+          "title": "OPTIONAL: MAC/LINUX Setup (4:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153155",
+          "title": "OPTIONAL: WINDOWS Setup (6:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153164",
+          "title": "Our Visual Studio Code Setup + Templates (12:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153163",
+          "title": "Developer Tools + Github Pages (7:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/30662977",
+          "title": "Bonus resource: Advanced JavaScript Cheatsheet"
+        }
+      ]
+    },
+    {
+      "title": "Quote Generator",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20643929",
+          "title": "Quote Generator Project Overview (2:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20643927",
+          "title": "Setting Up Our Project (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20643930",
+          "title": "Styling and HTML Elements (14:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20643932",
+          "title": "Creating Beautiful Buttons (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/24246133",
+          "title": "[NEW] Fetching Data With JavaScript (17:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/24246134",
+          "title": "[NEW] Manipulating DOM With JavaScript (15:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/24246132",
+          "title": "[NEW] Creating A Loader With JavaScript (8:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/23279064",
+          "title": "Sharing Your Projects"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/30796598",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20643931",
+          "title": "[OPTIONAL] Fetching Data With JavaScript (8:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/23354564",
+          "title": "[OPTIONAL] 429 Error"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21197347",
+          "title": "[OPTIONAL] Build Your Own Proxy Server"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20643926",
+          "title": "[OPTIONAL] Manipulating DOM With JavaScript (12:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20643928",
+          "title": "[OPTIONAL] Creating A Loader With JavaScript (5:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134540",
+          "title": "Code Review (7:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21951949",
+          "title": "Manipulating The DOM"
+        }
+      ]
+    },
+    {
+      "title": "Infinity Scroll",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20678679",
+          "title": "Infinity Scroll Project Overview (2:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20678674",
+          "title": "Loader SVG (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20678678",
+          "title": "Centering Elements On The Page (11:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20678676",
+          "title": "Responsive Layout (6:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20678673",
+          "title": "Fetching Data (11:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20678671",
+          "title": "JavaScript To Display Data (14:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20678675",
+          "title": "Infinite Scroll With JavaScript (8:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20678672",
+          "title": "Infinite Scroll With JavaScript 2 (11:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134533",
+          "title": "Code Review (6:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21150037",
+          "title": "Exercises: Cleaning Up The Code"
+        }
+      ]
+    },
+    {
+      "title": "Picture in Picture",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20650909",
+          "title": "Picture In Picture Project Overview (8:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20650910",
+          "title": "Setting Up Our Project (6:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20650911",
+          "title": "Styling and HTML Elements (10:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20650912",
+          "title": "Adding Functionality With JavaScript (11:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134530",
+          "title": "Code Review (7:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/23003741",
+          "title": "Endorsements On LinkedIn"
+        }
+      ]
+    },
+    {
+      "title": "Joke Teller",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20658367",
+          "title": "Joke Teller Project Overview (1:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20658365",
+          "title": "Styling and HTML Elements (8:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20658366",
+          "title": "Responsive Layout and Styling (9:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20658363",
+          "title": "JavaScript In The Project (13:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20658361",
+          "title": "JavaScript In The Project 2 (15:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20658364",
+          "title": "JavaScript In The Project 3 (7:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20658362",
+          "title": "Finishing Up The Project (9:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134537",
+          "title": "Code Review (8:19)"
+        }
+      ]
+    },
+    {
+      "title": "Light &amp; Dark Mode",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20686865",
+          "title": "Light Dark Mode Project Overview (1:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/23686015",
+          "title": "HTML and CSS Setup (13:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20686863",
+          "title": "Content In Our Project (13:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20686862",
+          "title": "Toggle Theme With JavaScript (11:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20686867",
+          "title": "Toggle Theme With JavaScript 2 (12:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20686864",
+          "title": "LocalStorage To Save User Data (7:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134543",
+          "title": "Code Review (7:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21150374",
+          "title": "Exercise: Making Code More Readable"
+        }
+      ]
+    },
+    {
+      "title": "Animated Template",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20697687",
+          "title": "Animated Template Project Overview (1:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20697690",
+          "title": "Setting Up Our Template (6:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20697688",
+          "title": "Setting Up Our Content (9:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20697689",
+          "title": "JavaScript Inside of HTML (8:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20697686",
+          "title": "Animation On Scroll (14:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134542",
+          "title": "Code Review (19:47)"
+        }
+      ]
+    },
+    {
+      "title": "Navigation Nation",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134535",
+          "title": "Navigation Nation Project Overview (1:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20700602",
+          "title": "Setting Up Our HTML and CSS (7:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20886583",
+          "title": "Navigation UI (13:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20888055",
+          "title": "Animating Menu With JavaScript (13:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20889136",
+          "title": "Animations CSS (10:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20890028",
+          "title": "Cleaning Up Our JavaScript (11:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134538",
+          "title": "Code Review (4:40)"
+        }
+      ]
+    },
+    {
+      "title": "Music Player",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20707788",
+          "title": "Music Player Project Overview (1:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20707784",
+          "title": "Setting Up Our HTML and CSS (15:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20707783",
+          "title": "Coding Our Responsive UI (8:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20707786",
+          "title": "JavaScript To Play Audio (8:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20707785",
+          "title": "Music Player With JavaScript (14:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20707790",
+          "title": "Progress Bar (8:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20707789",
+          "title": "Progress Bar 2 (10:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20707787",
+          "title": "Progress Bar 3 (11:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134541",
+          "title": "Code Review (7:24)"
+        }
+      ]
+    },
+    {
+      "title": "Custom Countdown",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134529",
+          "title": "Custom Countdown Project Overview (2:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20857084",
+          "title": "Video Background (9:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20857083",
+          "title": "Building Our UI Components (11:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/20857081",
+          "title": "Building Our UI Components 2 (10:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21159503",
+          "title": "JavaScript Dates (9:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21159504",
+          "title": "Form Values (6:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21159500",
+          "title": "Populate Countdown UI (15:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21159505",
+          "title": "setInterval And clearInterval (9:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21159502",
+          "title": "Finishing Up The UI (6:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21159501",
+          "title": "Caching With LocalStorage (10:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134531",
+          "title": "Code Review (6:18)"
+        }
+      ]
+    },
+    {
+      "title": "Book Keeper",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134544",
+          "title": "Book Keeper Project Overview (1:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153154",
+          "title": "Building Our UI (8:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153162",
+          "title": "Building Our UI 2 (13:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153156",
+          "title": "Building Our Modal (16:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153153",
+          "title": "Modals With JavaScript (10:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153160",
+          "title": "Form Validation (15:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153158",
+          "title": "localStorage And Fetch (11:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153150",
+          "title": "Building The Bookmarks (11:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153157",
+          "title": "Deleting The Bookmarks (7:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134539",
+          "title": "Code Review (5:33)"
+        }
+      ]
+    },
+    {
+      "title": "Video Player",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21829885",
+          "title": "Video Player Project Overview (1:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21829884",
+          "title": "Build UI - Player, Video, Mobile Responsive (8:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22157278",
+          "title": "Build UI - Controls HTML, Show Controls on Hover (14:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21829889",
+          "title": "Build UI - Progress Bar: Width, Hover (4:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21829886",
+          "title": "Build UI - Selection, Show CSS Variables (4:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21829887",
+          "title": "JS - Video Play/Pause (13:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22157276",
+          "title": "JS - Progress Bar (Dynamic Width) (6:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22157280",
+          "title": "JS - Populate Current Time / Duration (7:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22157279",
+          "title": "JS - Progress Bar (Seek) (7:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22157274",
+          "title": "JS - Volume (Slider) (11:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22157273",
+          "title": "JS - Volume (Mute/Unmute) (8:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22157275",
+          "title": "JS - Playback Seed (4:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22157277",
+          "title": "JS - Fullscreen (7:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22317663",
+          "title": "Code Review (6:22)"
+        }
+      ]
+    },
+    {
+      "title": "Form Validator",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22141680",
+          "title": "Form Validator Project Overview (3:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22141682",
+          "title": "Build UI - HTML Forms, Input, Labels (12:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22141681",
+          "title": "Build UI - CSS (Body, Container), Google Fonts (7:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22141683",
+          "title": "Build UI - Form CSS (10:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22141679",
+          "title": "HTML Form Validation (13:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22313175",
+          "title": "JS - Validate Form (11:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22313176",
+          "title": "JS - Validate Passwords, Store Data (14:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22317662",
+          "title": "Code Review (6:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22369295",
+          "title": "How to Store User Passwords"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/37421874",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Spok Rock Game",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22325321",
+          "title": "Spock Rock Project Overview (2:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22325318",
+          "title": "Build UI - Player Containers, FontAwesome (9:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22325317",
+          "title": "Build UI - CSS, Google Fonts (15:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22325315",
+          "title": "JS - Setup, Player Selection (13:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22325330",
+          "title": "JS - Computer Selection (9:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22325320",
+          "title": "JS - Check Results (12:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22325316",
+          "title": "JS - Reset All (5:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22325319",
+          "title": "JS - Confetti Functionality (9:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22325322",
+          "title": "JS - Module Refactoring (12:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22317660",
+          "title": "Code Review (13:16)"
+        }
+      ]
+    },
+    {
+      "title": "NASA APOD",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22820118",
+          "title": "NASA APOD Project Overview (2:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22537310",
+          "title": "Asset - Custom Loading Animation (7:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22537317",
+          "title": "Build UI - Navigation (11:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22537309",
+          "title": "Build UI - Card with Image (13:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22537315",
+          "title": "JS - NASA API Documentation/Fetch (10:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22537316",
+          "title": "JS - Create DOM Elements (21:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22537313",
+          "title": "JS - Save Favourites (15:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22537314",
+          "title": "JS - Favorites DOM Elements (10:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22537318",
+          "title": "JS - Delete Favorites (7:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22537311",
+          "title": "JS - Navigation, Loader (12:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22909546",
+          "title": "Code Review (7:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22909825",
+          "title": "Optional: Declarative vs Imperative (6:18)"
+        }
+      ]
+    },
+    {
+      "title": "Math Sprint Game",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22820116",
+          "title": "Math Sprint Game Project Overview (2:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22881695",
+          "title": "Build UI - Splash Page, Countdown (12:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22881696",
+          "title": "Build UI - Game Page, Score Page (8:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22881692",
+          "title": "JS - Radio Selection & Functionality (15:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22881694",
+          "title": "JS - Countdown Page (6:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22884017",
+          "title": "JS - Generate Random Equations (13:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22891009",
+          "title": "JS - Equations to DOM (7:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22891010",
+          "title": "JS - Automatic Scrolling & Player Input (8:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22937485",
+          "title": "JS - Check Score with Timing Events (16:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22937484",
+          "title": "JS - Score Page (13:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22937483",
+          "title": "JS - Best Scores in Local Storage (18:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22909385",
+          "title": "Code Review (12:19)"
+        }
+      ]
+    },
+    {
+      "title": "Drag n' Drop",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22885808",
+          "title": "Drag n' Drop Project Overview (2:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22885810",
+          "title": "Build UI - Flexbox, Custom Scrollbar (12:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22885807",
+          "title": "JS - localStorage (9:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22885809",
+          "title": "JS - Update DOM (9:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22885811",
+          "title": "JS - Drag and Drop API (16:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22940658",
+          "title": "JS - Rebuild Arrays (10:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22940659",
+          "title": "JS - Add Item (13:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22940657",
+          "title": "JS - Delete Item (16:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22940656",
+          "title": "JS - Update Item (7:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22909386",
+          "title": "Code Review (9:09)"
+        }
+      ]
+    },
+    {
+      "title": "Calculator",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22335644",
+          "title": "Calculator Project Overview (1:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22517789",
+          "title": "Build UI - Calculator, Display, Buttons (8:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22517792",
+          "title": "Build UI - Display CSS (11:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22517794",
+          "title": "Build UI - CSS Grid (5:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22517795",
+          "title": "Build UI - Button CSS (9:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22517790",
+          "title": "JS - Adding Event Listeners (12:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22517796",
+          "title": "JS - Reset Value, Add Decimal (5:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22517791",
+          "title": "JS - Operator Functionality (12:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22517793",
+          "title": "JS - Calculation (12:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22317664",
+          "title": "Code Review (4:49)"
+        }
+      ]
+    },
+    {
+      "title": "Splash Page",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22335643",
+          "title": "Splash Page Project Overview (1:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22529799",
+          "title": "Initial Setup - Figma (12:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22529803",
+          "title": "Build UI - Adding Image Assets (9:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22529802",
+          "title": "Build UI - Styling Image Assets (9:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22529801",
+          "title": "Build UI - Adding Custom Backgrounds (9:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22529800",
+          "title": "JS - Background Controls (11:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22317661",
+          "title": "Code Review (8:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22560179",
+          "title": "Exercise: Memory Leaks And Heap Snapshots"
+        }
+      ]
+    },
+    {
+      "title": "Paint Clone",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22960245",
+          "title": "Paint Clone Project Overview (2:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22964612",
+          "title": "Build UI - Custom Slider, JSColor, Mobile Message (9:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22964610",
+          "title": "JS - Canvas Setup (12:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22964611",
+          "title": "JS - Color/Range Inputs (14:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22964614",
+          "title": "JS - Drawing on Canvas (11:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22964609",
+          "title": "JS - Store Drawing Data (6:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22964608",
+          "title": "JS - localStorage & Downloading an Image (12:02)"
+        }
+      ]
+    },
+    {
+      "title": "Pong",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22945472",
+          "title": "Pong Project Overview (2:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22964981",
+          "title": "JS - Create Canvas (15:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22964979",
+          "title": "JS - RequestAnimationFrame (17:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/22964980",
+          "title": "JS - Game Over (13:14)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21149235",
+          "title": "Sharing Your Projects"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21134534",
+          "title": "JavaScript And Beyond (10:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/37421875",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/37576723",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21731264",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21731299",
+          "title": "LinkedIn Endorsements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21731352",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21731356",
+          "title": "Coding Challenges"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/23660695",
+          "title": "Become a ZTM Ambassador ➡ Refer new students. Earn cash."
+        }
+      ]
+    },
+    {
+      "title": "Appendix: How JavaScript Works",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21012560",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002969",
+          "title": "JavaScript Engine (5:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002976",
+          "title": "Exercise: Javascript Engine (0:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002981",
+          "title": "Inside the Engine (4:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002982",
+          "title": "Exercise: JS Engine For All (2:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002974",
+          "title": "Interpreters and Compilers (6:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002983",
+          "title": "Inside the V8 Engine (8:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002986",
+          "title": "Comparing Other Languages (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002979",
+          "title": "Writing Optimized Code (8:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002971",
+          "title": "WebAssembly (3:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002978",
+          "title": "Call Stack and Memory Heap (14:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002973",
+          "title": "Stack Overflow (3:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002977",
+          "title": "Garbage Collection (4:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002968",
+          "title": "Memory Leaks (6:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002984",
+          "title": "Single Threaded (1:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002980",
+          "title": "Exercise: Issue With Single Thread (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002970",
+          "title": "Javascript Runtime (14:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21002972",
+          "title": "Node.js (6:27)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Git, Github, Open Source and Building a Portfolio",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21200610",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21004556",
+          "title": "Git + Github Part 1 (17:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/24851533",
+          "title": "Github Update: Master --> Main"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21004555",
+          "title": "Git + Github Part 2 (16:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153152",
+          "title": "Setting Up Github (9:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21004554",
+          "title": "Contributing To Open Source (14:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21004557",
+          "title": "Contributing To Open Source 2 (9:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21014545",
+          "title": "Exercise: Contribute To Our Open Source"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21013578",
+          "title": "Installing Node"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21006187",
+          "title": "Create A Portfolio (15:10)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: CORS Issues",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1007166/lectures/21153159",
+          "title": "Solving CORS Issues With Heroku Server (10:46)"
+        }
+      ]
+    }
+  ]
+}

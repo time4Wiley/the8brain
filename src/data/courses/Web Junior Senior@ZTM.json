@@ -1,0 +1,1862 @@
+{
+  "title": "The Complete Junior to Senior Web Developer Roadmap (2022)",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/700470",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "Web Junior Senior"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12690154",
+          "title": "Complete Junior to Senior Web Developer Roadmap Introduction (4:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12690152",
+          "title": "Course Outline (11:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808203",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12690153",
+          "title": "First Day Of Work (3:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808212",
+          "title": "Before You Get Started"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808249",
+          "title": "Don't Be A Junior Developer"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/14106780",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "SSH",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12599004",
+          "title": "Bruno's Request (0:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12599009",
+          "title": "Introduction to SSH (5:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12599002",
+          "title": "SSH Command (7:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/32594338",
+          "title": "Quick Note: SSH Key In Previous Video"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808384",
+          "title": "Resources: SSH Command"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12599011",
+          "title": "Saving The Day Through SSH (6:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808391",
+          "title": "Optional: Digital Ocean Set Up"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808396",
+          "title": "Optional: Digital Ocean Server"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12599010",
+          "title": "How SSH Works (1:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12599008",
+          "title": "Symmetric Encryption (4:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12599013",
+          "title": "Asymmetric Encryption (6:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808401",
+          "title": "Resources: Asymmetric Encryption"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12599012",
+          "title": "Hashing (6:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12599003",
+          "title": "Passwords Or SSH? (3:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12599007",
+          "title": "SSH Into A Server (13:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808404",
+          "title": "Quick Note: SSH Into A Server"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808410",
+          "title": "Resources: SSH Into A Server"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12599001",
+          "title": "Exercise: Set Up SSH on Github (3:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808413",
+          "title": "Extra Solution: Set Up SSH on Github"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12599006",
+          "title": "Solution: Set Up SSH on Github (4:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808415",
+          "title": "Optional: Contributing To Open Source Projects"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12599005",
+          "title": "Section Summary (2:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13562885",
+          "title": "Web Developer Monthly"
+        }
+      ]
+    },
+    {
+      "title": "Performance Part 1",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604204",
+          "title": "Bruno's Request (1:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604201",
+          "title": "Introduction to Performance Part 1 (3:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604203",
+          "title": "3 Keys To Performance (4:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604210",
+          "title": "Network Performance (4:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604202",
+          "title": "Image File Formats (4:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808549",
+          "title": "Resources: Image File Formats"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604208",
+          "title": "Image Optimizations (7:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604205",
+          "title": "Image Optimizations 2 (12:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808552",
+          "title": "Exercise: #1 - Media Queries"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604216",
+          "title": "Delivery Optimizations (4:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808553",
+          "title": "Resources: Delivery Optimizations"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604215",
+          "title": "Exercise: #2 - Network Optimizations (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604209",
+          "title": "Solution: #2 - Network Optimizations (5:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604211",
+          "title": "Critical Render Path Introduction (5:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604207",
+          "title": "Critical Render Path 1 (6:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604214",
+          "title": "Critical Render Path 2 (17:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604206",
+          "title": "Critical Render Path 3 (13:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808556",
+          "title": "Resources: Async + Defer"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604200",
+          "title": "Critical Render Path 4 (3:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808595",
+          "title": "Exercise: #3 - Critical Render Path"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604220",
+          "title": "Exercise: #4 - Keiko Corp Website (4:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808617",
+          "title": "Resources: Keiko Corp Website"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604213",
+          "title": "Solution: Keiko Corp Website (9:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808627",
+          "title": "Optional: Resource Prefetching"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808635",
+          "title": "Resources: Performance Tools"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604217",
+          "title": "HTTP/2 (2:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808637",
+          "title": "Resources: HTTP/2"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808638",
+          "title": "HTTP/3"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12604212",
+          "title": "Section Summary (2:03)"
+        }
+      ]
+    },
+    {
+      "title": "OPTIONAL: React + Redux + Module Bundling",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/35654813",
+          "title": "IMPORTANT: Thinking Like A Senior Developer (2:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/35667586",
+          "title": "Optional Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613147",
+          "title": "Bruno's Request (1:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613154",
+          "title": "Section Overview (2:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24820613",
+          "title": "Updated Code For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613145",
+          "title": "Angular vs React vs Vue (6:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808855",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808897",
+          "title": "Quick Note About React"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613140",
+          "title": "CWD: Introduction To React.js (12:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/35657688",
+          "title": "CWD: Create React App (7:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/35657685",
+          "title": "CWD: React App Folder Structure (8:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/35657684",
+          "title": "CWD: React Fundamentals (3:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/35657687",
+          "title": "CWD: React Fundamentals 2 (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/35657686",
+          "title": "CWD: Class vs Functional App.js (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/31923206",
+          "title": "Hooks vs Classes (2:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/35907978",
+          "title": "Quick Note: Service Worker File"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613134",
+          "title": "CWD: Your First React Component (20:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613139",
+          "title": "CWD: Building A React App 1 (16:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808916",
+          "title": "React.Fragment and Semantic HTML"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/35667657",
+          "title": "Exercise: Learn to Read the Docs"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613153",
+          "title": "CWD: Building A React App 2 (9:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613166",
+          "title": "CWD: Building A React App 3 (26:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613161",
+          "title": "CWD: Styling Your React App (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/31964059",
+          "title": "Quick Note: JSON Placeholder"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613157",
+          "title": "CWD: Building A React App 4 (15:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613165",
+          "title": "CWD: Building A React App 5 (8:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613150",
+          "title": "CWD: Building A React App 6 (9:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808920",
+          "title": "Project Files"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613155",
+          "title": "CWD: Keeping Your Projects Up To Date (8:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24906197",
+          "title": "Exercise: React 17"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/25051758",
+          "title": "Solution: React 17 (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613141",
+          "title": "CWD: React Review (2:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613135",
+          "title": "CWD: Error Boundary In React (8:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613152",
+          "title": "CWD: Deploying Our React App (5:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24883381",
+          "title": "CWD: React Hooks (3:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24883379",
+          "title": "CWD: React Hooks 2 (3:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24883383",
+          "title": "CWD: React Hooks 3 (3:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24883378",
+          "title": "CWD: React Hooks 4 (4:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24883385",
+          "title": "CWD: React Hooks 5 (3:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24883380",
+          "title": "CWD: React Hooks 6 (6:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24883384",
+          "title": "CWD: React Hooks 7 (9:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24883382",
+          "title": "CWD: React Hooks 8 (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24903400",
+          "title": "Project Files - Hooks"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24883377",
+          "title": "CWD: React Hooks 9 (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613164",
+          "title": "Introduction To Redux And Webpack (2:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613169",
+          "title": "State Management (7:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613163",
+          "title": "Why Redux? (11:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613159",
+          "title": "Installing Redux (5:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/25051757",
+          "title": "Redux Toolkit (2:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613160",
+          "title": "Redux Actions And Reducers (13:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613142",
+          "title": "Redux Store And Provider (8:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613149",
+          "title": "Redux connect() (16:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613158",
+          "title": "Redux Middleware (8:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613143",
+          "title": "Redux Async Actions (29:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613168",
+          "title": "Redux Project Structures (4:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808922",
+          "title": "Project Files - Redux"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613156",
+          "title": "Popular Tools For React + Redux (7:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613162",
+          "title": "Module Bundlers (6:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613167",
+          "title": "Introduction To Webpack (2:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808925",
+          "title": "Update: Babel 7 + ESlint + Webpack 5"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613146",
+          "title": "Webpack (38:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613151",
+          "title": "Updating Libraries: Babel 7 + ESlint (6:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808927",
+          "title": "Quick Fix: Babel 7 Plugins"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12808928",
+          "title": "Resources: Webpack Configurator"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613144",
+          "title": "Parcel (9:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/35622423",
+          "title": "Parcel v2!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12613138",
+          "title": "Section Summary (5:20)"
+        }
+      ]
+    },
+    {
+      "title": "Performance Part 2",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676734",
+          "title": "Bruno's Request (1:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676736",
+          "title": "Section Overview (2:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24820760",
+          "title": "Updated Code For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676729",
+          "title": "Optimizing Code (12:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676725",
+          "title": "Code Splitting Introduction (5:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814455",
+          "title": "Exercise: #1 - Code Splitting"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676735",
+          "title": "Code Splitting Part 1 (14:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24871971",
+          "title": "ES2020: Dynamic import()"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676719",
+          "title": "Code Splitting Part 2 (12:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676727",
+          "title": "Code Splitting Part 3 (13:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676721",
+          "title": "Code Splitting Part 4 (2:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814457",
+          "title": "Exercise: #2 - Code Splitting"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676726",
+          "title": "Solution: React.lazy() Code Splitting (13:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676737",
+          "title": "React Performance Optimizations (10:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814461",
+          "title": "Resources: React Performance"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676731",
+          "title": "React Performance Optimizations 2 (19:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814462",
+          "title": "Resources: React Performance 2"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676724",
+          "title": "Optimizing Code Review (3:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814465",
+          "title": "Resources: Tree Shaking 101"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676730",
+          "title": "Progressive Web Apps (12:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/35602630",
+          "title": "Opt-In Service Worker in CRA"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814467",
+          "title": "Resources: Progressive Web Apps"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676733",
+          "title": "Progressive Web Apps Examples (6:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676720",
+          "title": "PWA - HTTPS (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814470",
+          "title": "Resources: PWA - HTTPS"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676722",
+          "title": "PWA - App Manifest (6:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814480",
+          "title": "Resources: PWA - App Manifest"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676718",
+          "title": "PWA - Service Workers (13:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/35603366",
+          "title": "Update for CRA v4 and React 17+"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814485",
+          "title": "Resources: PWA - Service Workers"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676739",
+          "title": "PWA - Final Thoughts (2:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814490",
+          "title": "Exercise: #3 - PWA"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814493",
+          "title": "Quick Note: Upcoming Video"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676728",
+          "title": "Deploying Our React App (10:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814418",
+          "title": "Service Worker Update (6:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676717",
+          "title": "Solution Part 1 - PWA (8:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676723",
+          "title": "Solution Part 2 - PWA (10:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814494",
+          "title": "Solution Files - PWA"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12676732",
+          "title": "Section Summary (2:36)"
+        }
+      ]
+    },
+    {
+      "title": "Testing",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606620",
+          "title": "Bruno's Request (1:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606599",
+          "title": "Section Overview (6:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24820761",
+          "title": "Updated Code For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606600",
+          "title": "Types of Tests (2:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606597",
+          "title": "Testing Libraries (15:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814559",
+          "title": "Note: The Next Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606619",
+          "title": "Unit Tests (2:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606611",
+          "title": "Integration Tests (2:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606601",
+          "title": "Automation Testing (4:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606605",
+          "title": "Final Note On Testing (2:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24934453",
+          "title": "Setting Up Jest (11:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606608",
+          "title": "Our First Tests (11:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606598",
+          "title": "Writing Tests (5:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/15799274",
+          "title": "Quick Note: Upcoming API Endpoint + ES6 Modules"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606618",
+          "title": "Asynchronous Tests (10:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606613",
+          "title": "Asynchronous Tests 2 (11:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814562",
+          "title": "Resources: Jest Cheat Sheet"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606607",
+          "title": "Mocks and Spies (12:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814563",
+          "title": "Exercise: #1 - Testing With Jest"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814567",
+          "title": "Note: Testing React Apps"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/31241400",
+          "title": "Enzyme vs React Testing Library"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606614",
+          "title": "Introduction To Enzyme (14:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814577",
+          "title": "Resources: Enzyme"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24943909",
+          "title": "Quick Note: Empty Snapshots"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606603",
+          "title": "Snapshot Testing (9:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606606",
+          "title": "Snapshot Testing + Code Coverage (4:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814581",
+          "title": "Exercise: #2 - Testing Stateful Components"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606617",
+          "title": "Testing Stateful Components (11:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606610",
+          "title": "Quick Recap (2:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814593",
+          "title": "Exercise: #3 - Testing Connected Components"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606609",
+          "title": "Testing Connected Components (23:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606616",
+          "title": "Testing Connected Components 2 (3:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814596",
+          "title": "Exercise #4 - Testing All Components"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606612",
+          "title": "Testing Reducers (14:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606604",
+          "title": "Testing Actions (18:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814598",
+          "title": "Exercise: #5 - Final Tests"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12814600",
+          "title": "Note: What Test is Best?"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12606615",
+          "title": "Section Summary (4:11)"
+        }
+      ]
+    },
+    {
+      "title": "TypeScript",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647645",
+          "title": "Bruno's Request (1:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647653",
+          "title": "Section Overview (1:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24820830",
+          "title": "Updated Code For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647655",
+          "title": "Dynamic vs Static Typing (11:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647649",
+          "title": "Weakly vs Strongly Typed (3:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647658",
+          "title": "Static Typing in Javascript (9:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24934452",
+          "title": "Typescript Compiler (3:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13139502",
+          "title": "Resources: Installing Node.js"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13141140",
+          "title": "Resources: Installing TypeScript Compiler"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13139815",
+          "title": "TypeScript (11:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218486",
+          "title": "Resources: TypeScript In Your Editor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647654",
+          "title": "TypeScript 2 (3:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647660",
+          "title": "TypeScript 3 (7:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218499",
+          "title": "Resources: TypeScript Types"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647651",
+          "title": "TypeScript 4 (5:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647662",
+          "title": "TypeScript 5 (6:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647644",
+          "title": "TypeScript 6 (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218514",
+          "title": "Resources: Type Vs Interface"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647650",
+          "title": "TypeScript 7 (3:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218530",
+          "title": "Resources: Type Assertion"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647652",
+          "title": "TypeScript 8 (6:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647661",
+          "title": "TypeScript 9 (1:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647646",
+          "title": "TypeScript 10 (1:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647647",
+          "title": "DefinitelyTyped (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13137839",
+          "title": "Update: Create React App with TypeScript (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647659",
+          "title": "Exercise: #1 - TypeScript In Robofriends (7:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218542",
+          "title": "Resources: TypeScript In Robofriends"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647648",
+          "title": "Solution: #1 - TypeScript In Robofriends (14:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218578",
+          "title": "Solution Files - TypeScript In Robofriends"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647656",
+          "title": "A Little Joke (0:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12647663",
+          "title": "Section Summary (3:27)"
+        }
+      ]
+    },
+    {
+      "title": "SPA vs Server Side Rendering",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664272",
+          "title": "Bruno's Request (0:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664281",
+          "title": "Section Overview (7:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664271",
+          "title": "CSR vs SSR (5:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664269",
+          "title": "Server Side Rendering React (10:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218699",
+          "title": "Note: SSR In React"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664280",
+          "title": "CSR vs SSR Part 2 (11:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664274",
+          "title": "SSR React Libraries (3:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/25051759",
+          "title": "Static vs SSR vs CSR: Gatsby.js vs Next.js vs React.js (7:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218695",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664283",
+          "title": "Setting Up Next.js (7:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664282",
+          "title": "Next.js Pages (7:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664273",
+          "title": "Client Side Routing (2:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218690",
+          "title": "Exercise: #1 - Client Side vs Server Side Routing"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664276",
+          "title": "Shared Components (2:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664270",
+          "title": "Dynamic Apps with Next.js (15:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/27279778",
+          "title": "Exercise: #2 - Updated Next.js Features"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664285",
+          "title": "Deploying Next.js Apps (0:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664279",
+          "title": "Updating To Latest Version Of Next.js (3:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218677",
+          "title": "Exercise: #3 - SSR Robofriends"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218671",
+          "title": "Understand JavaScript SEO"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12664277",
+          "title": "Section Summary (7:42)"
+        }
+      ]
+    },
+    {
+      "title": "Security",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678236",
+          "title": "Bruno's Request (1:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678239",
+          "title": "Section Overview (4:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678245",
+          "title": "Star Of Security (1:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/37419317",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678243",
+          "title": "Injections (19:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219113",
+          "title": "Exercise: #1 - Injections"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219104",
+          "title": "Exercise: #2 - Security Files"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219039",
+          "title": "Resources: Installing PostgreSQL"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219012",
+          "title": "Note: NPM Built In Audit"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24934454",
+          "title": "3rd Party Libraries (10:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678237",
+          "title": "Logging (14:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678241",
+          "title": "HTTPS Everywhere (6:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678244",
+          "title": "XSS + CSRF (20:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219009",
+          "title": "Exercise: #3 - XSS + CSRF"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218983",
+          "title": "Resources: XSS + CSRF"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678238",
+          "title": "Code Secrets (9:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678247",
+          "title": "Secure Headers (5:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218975",
+          "title": "Resources: Secure Headers"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678240",
+          "title": "Access Control (6:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678246",
+          "title": "Data Management (10:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218879",
+          "title": "Resources: Storing Passwords"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678250",
+          "title": "Don't Trust Anyone (2:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678242",
+          "title": "Authentication (3:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218876",
+          "title": "Exercise: #4 - Optional Hacking"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13218872",
+          "title": "Resources: Personal Security"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12678248",
+          "title": "Section Summary (3:23)"
+        }
+      ]
+    },
+    {
+      "title": "Code Analysis",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12679530",
+          "title": "Bruno's Request (1:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12679529",
+          "title": "Section Overview (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/20404086",
+          "title": "Quick Note: Windows Users"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24820952",
+          "title": "Quick Note: Updated API"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12679532",
+          "title": "Setting Up Your Environment (27:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219217",
+          "title": "Exercise: #1 - SmartBrain App"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12679533",
+          "title": "Optional: CWD - Installing PostgreSQL (6:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12679535",
+          "title": "How To Analyze Code (16:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219196",
+          "title": "Exercise: #2 - Analyze Code"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219168",
+          "title": "Exercise: #3 - Multiple Face Detection"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219162",
+          "title": "Resources: New Feature Commit"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12679534",
+          "title": "Solution: #3 - Multiple Face Detection (17:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12679531",
+          "title": "Section Summary (1:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/31843886",
+          "title": "Customizing Your App"
+        }
+      ]
+    },
+    {
+      "title": "Docker",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671370",
+          "title": "Bruno's Request (1:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671366",
+          "title": "Section Overview (4:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24821031",
+          "title": "Updated Code For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671358",
+          "title": "Docker Containers (10:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671364",
+          "title": "Installing Docker (2:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219454",
+          "title": "Resources: Installing Docker"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671371",
+          "title": "Dockerfile (8:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219448",
+          "title": "Resources: Dockerfile"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671359",
+          "title": "Docker Commands (5:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671360",
+          "title": "Dockerfile 2 (8:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219436",
+          "title": "Exercise: #1 - Your First Docker Container"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219421",
+          "title": "Quick Note: Docker Compose"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671362",
+          "title": "Docker Compose (13:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219414",
+          "title": "Resources: Docker Compose Commands"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671372",
+          "title": "Docker Compose 2 (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219411",
+          "title": "Resources: Docker Volumes"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671361",
+          "title": "Docker Compose 3 (1:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671363",
+          "title": "Docker Compose 4 (13:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219382",
+          "title": "Resources: PostgreSQL With Docker"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671365",
+          "title": "Docker Compose 5 (2:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671367",
+          "title": "Docker Compose 6 (12:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219366",
+          "title": "Resources: init.db File"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671369",
+          "title": "Docker Compose 7 (5:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219348",
+          "title": "Exercise: #2 - Dockerize SmartBrain App"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219340",
+          "title": "Project Files - Docker"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219314",
+          "title": "Update: Docker Networks"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12671368",
+          "title": "Section Summary (4:32)"
+        }
+      ]
+    },
+    {
+      "title": "Redis",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12680968",
+          "title": "Bruno's Request (1:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12680967",
+          "title": "Section Overview (6:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219533",
+          "title": "Quick Note About Next Video"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12680973",
+          "title": "Introduction To Databases (10:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/36828689",
+          "title": "Redis Version Updates"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12680976",
+          "title": "Installing Redis (4:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219523",
+          "title": "Resources: Installing Redis"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12680970",
+          "title": "Redis Commands (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12680969",
+          "title": "Redis Data Types (1:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12680972",
+          "title": "Redis Hashes (2:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12680975",
+          "title": "Redis Lists (3:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12680971",
+          "title": "Redis Sets + Sorted Sets (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12680974",
+          "title": "Section Summary (3:00)"
+        }
+      ]
+    },
+    {
+      "title": "Sessions + JWT",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635751",
+          "title": "Section Overview (2:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635747",
+          "title": "Cookies vs Tokens (11:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219751",
+          "title": "Resources: Cookies vs Tokens"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635727",
+          "title": "What We Are Building (4:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635734",
+          "title": "JWT (3:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219725",
+          "title": "Exercise: #1 - JWT"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635743",
+          "title": "Project Goals (5:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219682",
+          "title": "Exercise: #2 - Code Along"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635755",
+          "title": "Profile Icon (13:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219675",
+          "title": "Resources: Profile Icon"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635742",
+          "title": "Profile Dropdown (12:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219667",
+          "title": "Resources: setState() Callback"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635746",
+          "title": "Profile Styling (11:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635739",
+          "title": "Profile Modal 1 (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635738",
+          "title": "Profile Modal 2 (22:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635748",
+          "title": "Profile Modal 3 (12:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635741",
+          "title": "Profile Modal 4 (7:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219651",
+          "title": "Resources: HTML Entities"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635736",
+          "title": "Updating Profile 1 (9:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219646",
+          "title": "Resources: Updating Profile"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635732",
+          "title": "Updating Profile 2 (10:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635728",
+          "title": "Updating Profile 3 (8:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635731",
+          "title": "User Authentication (15:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635735",
+          "title": "Sending The JWT Token (16:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/37104456",
+          "title": "Quick Note: NPM Redis"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635753",
+          "title": "Adding Redis (6:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219640",
+          "title": "Exercise: #3 - Adding Redis to Docker Compose"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635745",
+          "title": "Solution: #3 - Adding Redis To Docker Compose (5:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635733",
+          "title": "Storing JWT Tokens (8:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635729",
+          "title": "Retrieving Auth Token (7:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635730",
+          "title": "Client Session Management (14:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219636",
+          "title": "Resources: Bearer Token"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635749",
+          "title": "Session Sign In (10:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635740",
+          "title": "Authorization Middleware (14:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635737",
+          "title": "Fixing A Bug (2:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635744",
+          "title": "Reviewing Our Code (2:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13138712",
+          "title": "Updating Our App (4:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13138713",
+          "title": "Optional: Why bcrypt-nodejs? (1:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12635752",
+          "title": "Section Summary (7:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219598",
+          "title": "Exercise: #4 - Improving SmartBrain"
+        }
+      ]
+    },
+    {
+      "title": "AWS",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662332",
+          "title": "Bruno's Request (1:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662338",
+          "title": "Section Overview (6:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24821129",
+          "title": "Updated Code For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662334",
+          "title": "Amazon Web Services (11:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662331",
+          "title": "Monolithic vs Micro Services (2:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662335",
+          "title": "Amazon Lambda (6:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662333",
+          "title": "Amazon Lambda Dashboard (5:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219855",
+          "title": "Quick Note: AWS Lambda"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662343",
+          "title": "Serverless (5:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662340",
+          "title": "Serverless 2 (5:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662341",
+          "title": "IAM (4:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219848",
+          "title": "Resources: IAM"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662347",
+          "title": "Deploying A Function (11:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662336",
+          "title": "Deploying A Function 2 (7:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662339",
+          "title": "Deploying A Function 3 (13:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662342",
+          "title": "Quick Bug Fix (1:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12662345",
+          "title": "Section Summary (3:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219842",
+          "title": "Exercise: Your Own Lambda Function"
+        }
+      ]
+    },
+    {
+      "title": "Performance Part 3",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681458",
+          "title": "Bruno's Request (1:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681457",
+          "title": "Section Overview (0:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681460",
+          "title": "CDNs (6:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681455",
+          "title": "GZIP (5:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681465",
+          "title": "Database Scaling (11:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681454",
+          "title": "Caching 1 (6:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681461",
+          "title": "Caching 2 (8:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681463",
+          "title": "Caching 3 (11:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13220199",
+          "title": "Resources: Caching"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681462",
+          "title": "Load Balancing (6:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681464",
+          "title": "Nginx 1 (6:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13220188",
+          "title": "Exercise: Load Testing Your Load Balancer"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681456",
+          "title": "Nginx 2 (15:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13219973",
+          "title": "Resources: Nginx"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681459",
+          "title": "Section Summary (5:16)"
+        }
+      ]
+    },
+    {
+      "title": "CI/CD",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681512",
+          "title": "Bruno's Request (1:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681515",
+          "title": "Section Overview (1:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/24821415",
+          "title": "Updated Code For This Section"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681517",
+          "title": "Continuous Integration, Delivery, Deployment (10:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681513",
+          "title": "Building Great Software (7:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13220246",
+          "title": "Resources: CI Tools"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681516",
+          "title": "CircleCI (16:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681511",
+          "title": "Continuous Integration 1 (10:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681510",
+          "title": "Continuous Integration 2 (9:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13220239",
+          "title": "Exercise: Your Own CI Flow"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681514",
+          "title": "Building Great Software 2 (6:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681509",
+          "title": "Section Summary (1:54)"
+        }
+      ]
+    },
+    {
+      "title": "Extra Bits",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681652",
+          "title": "Section Overview (1:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681650",
+          "title": "Complexity vs Simplicity (3:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681653",
+          "title": "NPM Is Not Your Friend (2:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681654",
+          "title": "Learn To Learn (1:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681651",
+          "title": "Start With Why (2:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13220309",
+          "title": "Endorsements On LinkedIn"
+        }
+      ]
+    },
+    {
+      "title": "The Final Video",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13220445",
+          "title": "Become an Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13220414",
+          "title": "Coding Challenges"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12681695",
+          "title": "The One You Have Been Waiting For (2:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/13220336",
+          "title": "Thank You"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/37576449",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/19984096",
+          "title": "Become a ZTM Ambassador ➡ Refer new students. Earn cash."
+        }
+      ]
+    },
+    {
+      "title": "Extras: For Windows Users",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12683133",
+          "title": "Introduction From Wolfgang (1:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/36058289",
+          "title": "Git for Windows (6:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/36058291",
+          "title": "Install NodeJS for Windows (2:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/36058290",
+          "title": "Install PostgreSQL for Windows (6:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/36058292",
+          "title": "Using PSQL and PGADMIN (8:07)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: AMA Video!",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/700470/lectures/12683131",
+          "title": "AMA - 100,000 Students!! (38:30)"
+        }
+      ]
+    }
+  ]
+}

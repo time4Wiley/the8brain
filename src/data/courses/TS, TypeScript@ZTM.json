@@ -1,0 +1,1228 @@
+{
+  "title": "Typescript: The Complete Developer's Guide",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1316943",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "TS, TypeScript"
+  },
+  "sections": [
+    {
+      "title": "Getting Started with Typescript",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30375164",
+          "title": "TypeScript: The Complete Developer's Guide (1:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30370908",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279027",
+          "title": "Typescript Overview (6:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279033",
+          "title": "Environment Setup (7:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279025",
+          "title": "A First App (4:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279024",
+          "title": "Executing Typescript Code (5:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279032",
+          "title": "One Quick Change (3:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279029",
+          "title": "Catching Errors with Typescript (7:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279030",
+          "title": "Catching More Errors! (5:15)"
+        }
+      ]
+    },
+    {
+      "title": "What is a Type System?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279368",
+          "title": "Do Not Skip - Course Overview (3:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279369",
+          "title": "Types (5:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279367",
+          "title": "More on Types (5:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279370",
+          "title": "Examples of Types (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279371",
+          "title": "Where Do We Use Types? (0:49)"
+        }
+      ]
+    },
+    {
+      "title": "Type Annotations in Action",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279737",
+          "title": "Type Annotations and Inference (2:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279746",
+          "title": "Annotations with Variables (4:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279748",
+          "title": "Object Literal Annotations (6:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279745",
+          "title": "Annotations Around Functions (5:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279751",
+          "title": "Understanding Inference (3:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279738",
+          "title": "The 'Any' Type (7:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279741",
+          "title": "Fixing the 'Any' Type (1:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279743",
+          "title": "Delayed Initialization (3:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279739",
+          "title": "When Inference Doesn't Work (4:36)"
+        }
+      ]
+    },
+    {
+      "title": "Annotations With Functions and Objects",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279744",
+          "title": "More on Annotations around Functions (4:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279747",
+          "title": "Inference Around Functions (6:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279742",
+          "title": "Annotations for Anonymous Functions (1:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279750",
+          "title": "Void and Never (2:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279740",
+          "title": "Destructuring with Annotations (3:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279749",
+          "title": "Annotations Around Objects (7:05)"
+        }
+      ]
+    },
+    {
+      "title": "Mastering Typed Arrays",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279856",
+          "title": "Arrays in Typescript (5:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279857",
+          "title": "Why Typed Arrays? (4:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279855",
+          "title": "Multiple Types in Arrays (2:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279854",
+          "title": "When to Use Typed Arrays (0:53)"
+        }
+      ]
+    },
+    {
+      "title": "Tuples in Typescript",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279916",
+          "title": "Tuples in Typescript (4:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279915",
+          "title": "Tuples in Action (5:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30279914",
+          "title": "Why Tuples? (3:20)"
+        }
+      ]
+    },
+    {
+      "title": "The All-Important Interface",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30283060",
+          "title": "Interfaces (1:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30283063",
+          "title": "Long Type Annotations (4:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30283061",
+          "title": "Fixing Long Annotations with Interfaces (4:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30283065",
+          "title": "Syntax Around Interfaces (3:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30283062",
+          "title": "Functions in Interfaces (4:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30283059",
+          "title": "Code Reuse with Interfaces (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30283064",
+          "title": "General Plan with Interfaces (3:11)"
+        }
+      ]
+    },
+    {
+      "title": "Building Functionality with Classes",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284012",
+          "title": "Classes (3:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284014",
+          "title": "Basic Inheritance (3:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284010",
+          "title": "Instance Method Modifiers (6:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284013",
+          "title": "Fields in Classes (6:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284011",
+          "title": "Fields with Inheritance (4:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284009",
+          "title": "Where to Use Classes (1:09)"
+        }
+      ]
+    },
+    {
+      "title": "Design Patterns with Typescript",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284771",
+          "title": "App Overview (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284768",
+          "title": "Bundling with Parcel (4:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284762",
+          "title": "Project Structure (3:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284774",
+          "title": "Generating Random Data (5:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284755",
+          "title": "Type Definition Files (5:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284765",
+          "title": "Using Type Definition Files (6:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284763",
+          "title": "Export Statements in Typescript (5:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284769",
+          "title": "Defining a Company (4:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30371004",
+          "title": "Note on Generating an API Key"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284773",
+          "title": "Adding Google Maps Support (7:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284756",
+          "title": "Google Maps Integration (4:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284758",
+          "title": "Exploring Type Definition Files (12:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284767",
+          "title": "Hiding Functionality (6:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284760",
+          "title": "Why Use Private Modifiers? Here's Why (8:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284761",
+          "title": "Adding Markers (9:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284766",
+          "title": "Duplicate Code (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284770",
+          "title": "One Possible Solution (6:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284754",
+          "title": "Restricting Access with Interfaces (5:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284772",
+          "title": "Implicit Type Checks (3:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284764",
+          "title": "Showing Popup Windows (6:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284759",
+          "title": "Updating Interface Definitions (7:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284753",
+          "title": "Optional Implements Clauses (6:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30284757",
+          "title": "App Wrapup (8:07)"
+        }
+      ]
+    },
+    {
+      "title": "More on Design Patterns",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285759",
+          "title": "App Overview (1:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285752",
+          "title": "Configuring the TS Compiler (7:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285760",
+          "title": "Concurrent Compilation and Execution (5:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285749",
+          "title": "A Simple Sorting Algorithm (4:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285755",
+          "title": "Sorter Scaffolding (3:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285747",
+          "title": "Sorting Implementation (5:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285768",
+          "title": "Two Huge Issues (7:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285757",
+          "title": "Typescript Is Really Smart (9:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285764",
+          "title": "Type Guards (9:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285762",
+          "title": "Why is This Bad? (2:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285765",
+          "title": "Extracting Key Logic (7:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285750",
+          "title": "Separating Swapping and Comparison (13:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285748",
+          "title": "The Big Reveal (4:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285766",
+          "title": "Interface Definition (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285763",
+          "title": "Sorting Arbitrary Collections (11:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285754",
+          "title": "Linked List Implementation (24:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30371013",
+          "title": "Completed Linked List Code"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285761",
+          "title": "Just...One...More...Fix... (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285751",
+          "title": "Integrating the Sort Method (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285769",
+          "title": "Issues with Inheritance (6:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285767",
+          "title": "Abstract Classes (6:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285758",
+          "title": "Why Use Abstract Classes? (4:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285753",
+          "title": "Solving All Issues with Abstract Classes (3:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30285756",
+          "title": "Interfaces vs Abstract Classes (3:22)"
+        }
+      ]
+    },
+    {
+      "title": "Reusable Code",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288541",
+          "title": "Project Overview (1:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288560",
+          "title": "Project Setup (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30371037",
+          "title": "CSV Data"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288559",
+          "title": "Type Definition Files - Again! (6:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288551",
+          "title": "Reading CSV Files (5:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288550",
+          "title": "Running an Analysis (4:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288546",
+          "title": "Losing Dataset Context (5:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288555",
+          "title": "Using Enums (6:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288539",
+          "title": "When to Use Enums (7:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288556",
+          "title": "Extracting CSV Reading (8:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288543",
+          "title": "Data Types (2:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288542",
+          "title": "Converting Date Strings to Dates (5:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288540",
+          "title": "Converting Row Values (3:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288549",
+          "title": "Type Assertions (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288548",
+          "title": "Describing a Row with a Tuple (7:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288544",
+          "title": "Not Done with FileReader Yet! (3:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288558",
+          "title": "Understanding Refactor #1 (4:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288553",
+          "title": "Creating Abstract Classes (4:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288554",
+          "title": "Variable Types with Generics (11:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288552",
+          "title": "Applying a Type to a Generic Class (4:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288557",
+          "title": "Alternate Refactor (4:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288547",
+          "title": "Interface-Based Approach (2:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288545",
+          "title": "Extracting Match References - Again! (2:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288734",
+          "title": "Transforming Data (2:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288735",
+          "title": "Updating Reader References (3:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288728",
+          "title": "Inheritance vs Composition (3:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288724",
+          "title": "More on Inheritance vs Composition (7:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288726",
+          "title": "A Huge Misconception Around Composition (14:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288725",
+          "title": "Goal Moving Forward (5:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288729",
+          "title": "A Composition-Based Approach (6:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288730",
+          "title": "Implementing an Analyzer Class (7:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288727",
+          "title": "Building the Reporter (5:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288731",
+          "title": "Putting It All Together (3:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288732",
+          "title": "Generating HTML Reports (5:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288723",
+          "title": "One Last Thing! (5:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288733",
+          "title": "Oops, My Bad! (3:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288736",
+          "title": "App Wrapup (3:33)"
+        }
+      ]
+    },
+    {
+      "title": "Advanced Generics",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288766",
+          "title": "More on Generics (5:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288764",
+          "title": "Type Inference with Generics (2:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288767",
+          "title": "Function Generics (6:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30288765",
+          "title": "Generic Constraints (5:50)"
+        }
+      ]
+    },
+    {
+      "title": "Let's Build a Web Framework",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289084",
+          "title": "App Overview (2:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289481",
+          "title": "Parcel Setup (2:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289898",
+          "title": "Framework Structure (8:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289880",
+          "title": "Designing the User (2:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289081",
+          "title": "Retrieving User Properties (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289887",
+          "title": "Optional Interface Properties (6:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289472",
+          "title": "An Eventing System (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289082",
+          "title": "Listener Support (4:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289471",
+          "title": "Storing Event Listeners (5:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289485",
+          "title": "Dynamic Array Creation (5:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289073",
+          "title": "Triggering Event Callbacks (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289900",
+          "title": "Adding JSON Server (7:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289488",
+          "title": "Understanding REST Conventions (8:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289491",
+          "title": "Adding Fetch Functionality (5:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289095",
+          "title": "Successfully Fetching Model Data (4:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289092",
+          "title": "Saving User Data (8:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289089",
+          "title": "Refactoring with Composition (3:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289083",
+          "title": "Re-Integrating Eventing (12:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289080",
+          "title": "Composition with Nested Objects (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289470",
+          "title": "A More Complicated Extraction (2:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289881",
+          "title": "Options for Adapting Sync (9:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289878",
+          "title": "Refactoring Sync (10:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289483",
+          "title": "Generic Constraints Around Sync (3:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289892",
+          "title": "Connecting Sync Back to User (4:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289079",
+          "title": "Optional Properties (7:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289489",
+          "title": "Extracting an Attributes Class (3:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289888",
+          "title": "The Get Method's Shortcoming (6:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289093",
+          "title": "Two Important Rules (7:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289879",
+          "title": "An Advanced Generic Constraint (9:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289088",
+          "title": "Re-Integrating Attributes (3:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289480",
+          "title": "Composition is Delegation (4:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289891",
+          "title": "Reminder on Accessors (5:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289078",
+          "title": "Passthrough Methods (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289883",
+          "title": "A Context Issue (8:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289885",
+          "title": "Setting Data While Triggering (3:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289890",
+          "title": "Fetching User Data (6:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289487",
+          "title": "Saving Data (5:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289884",
+          "title": "Composition vs Inheritance...Again! (9:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289477",
+          "title": "Extracting a Model Class (7:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289482",
+          "title": "Extending the User (5:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289076",
+          "title": "Final User Refactor (3:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289478",
+          "title": "Model Wrapup (3:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289893",
+          "title": "Shortened Passthrough Methods (5:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289077",
+          "title": "Users Collection (3:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289474",
+          "title": "Implementing a Users Collection (3:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289877",
+          "title": "Parsing User JSON (7:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289895",
+          "title": "Generic User Collection (6:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289091",
+          "title": "A Class Method for Collections (2:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289475",
+          "title": "View Classes (4:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289484",
+          "title": "Building the UserForm (4:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289889",
+          "title": "The UserForm's Render Method (3:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289094",
+          "title": "Rendering HTML (2:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289074",
+          "title": "Defining an Events Map (6:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289075",
+          "title": "Binding Event Handlers (7:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289493",
+          "title": "Adding Model Properties (4:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289085",
+          "title": "Binding Events on Class Name (5:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289479",
+          "title": "Adding Methods to the User (4:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289473",
+          "title": "Re-Rendering on Model Change (4:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289090",
+          "title": "Reading Input Text (4:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289096",
+          "title": "Strict Null Checks (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289490",
+          "title": "Reusable View Logic (12:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289476",
+          "title": "Extracting a View Class (4:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289901",
+          "title": "Extending with Generic Constraints (12:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289086",
+          "title": "Saving Data From a View (3:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289886",
+          "title": "UserEdit and UserShow (6:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289882",
+          "title": "Nesting with Regions (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289894",
+          "title": "Mapping Regions (5:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289896",
+          "title": "Testing Region Mapping (4:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289087",
+          "title": "View Nesting (6:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289899",
+          "title": "Collection Views (2:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30289486",
+          "title": "CollectionView Implementation (16:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291515",
+          "title": "App Wrapup (3:35)"
+        }
+      ]
+    },
+    {
+      "title": "Express + Typescript Integration",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291512",
+          "title": "Typescript with JS Libraries (5:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291513",
+          "title": "App Overview (3:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291511",
+          "title": "Project Setup (3:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291514",
+          "title": "Basic Routes with Express (6:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291669",
+          "title": "Using an Express Router (3:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291668",
+          "title": "Parsing Form Bodies (5:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291670",
+          "title": "Why Doesn't Express Play Nicely with TS? (13:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291667",
+          "title": "Issues with Type Definition Files (10:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291666",
+          "title": "Dealing with Poor Type Defs (6:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291733",
+          "title": "Wiring Up Sessions (8:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291731",
+          "title": "Checking Login Status (3:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291736",
+          "title": "Logging Out (1:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291738",
+          "title": "Protecting Routes (4:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291734",
+          "title": "A Closer Integration (6:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291739",
+          "title": "The Refactoring Process (3:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291737",
+          "title": "Prototypes Reminder (8:43)"
+        }
+      ]
+    },
+    {
+      "title": "Decorators",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291732",
+          "title": "Decorators in Typescript (6:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291740",
+          "title": "Details on Decorators (7:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30291735",
+          "title": "Property Descriptors (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292262",
+          "title": "Wrapping Methods with Descriptors (2:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292255",
+          "title": "Decorator Factories (2:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292259",
+          "title": "Decorators Around Properties (3:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292260",
+          "title": "More on Decorators (7:31)"
+        }
+      ]
+    },
+    {
+      "title": "Advanced Express and TS Integration",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292258",
+          "title": "A Quick Disclaimer (0:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292261",
+          "title": "Project Overview (8:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292256",
+          "title": "Why is This Hard? (7:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292264",
+          "title": "Solution Overview (5:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292257",
+          "title": "Basics of Metadata (8:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292263",
+          "title": "Practical Metadata (11:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292418",
+          "title": "Let's Refactor! (4:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292416",
+          "title": "The 'Get' Decorator (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292413",
+          "title": "The Controller Decorator (4:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292415",
+          "title": "Proof of Concept (5:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292417",
+          "title": "A Few Fixups (8:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292412",
+          "title": "Defining a RouteBinder (5:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292419",
+          "title": "Closed Method Sets with Enums (7:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292414",
+          "title": "Metadata Keys (3:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292584",
+          "title": "The 'Use' Decorator (8:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292588",
+          "title": "Testing Use (3:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292582",
+          "title": "Body Validators (5:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292585",
+          "title": "Automated Validation (3:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292583",
+          "title": "Testing Automated Validation (5:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292589",
+          "title": "Fixing Routes (6:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292587",
+          "title": "Using Property Descriptors for Type Checking (5:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292586",
+          "title": "App Wrapup (1:22)"
+        }
+      ]
+    },
+    {
+      "title": "React and Redux with Typescript",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292808",
+          "title": "React and Redux Overview (6:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292805",
+          "title": "App Overview (2:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292809",
+          "title": "Generating the App (1:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292802",
+          "title": "Simple Components (3:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292803",
+          "title": "Interfaces with Props (3:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292811",
+          "title": "Handling Component State (2:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292812",
+          "title": "Confusing Component State! (10:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292806",
+          "title": "Functional Components (3:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292810",
+          "title": "Redux Setup (7:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292807",
+          "title": "Action Creators with Typescript (6:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292804",
+          "title": "Action Types Enum (4:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292813",
+          "title": "The Generic Dispatch Function (4:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292929",
+          "title": "A Reducer with Enums (6:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292922",
+          "title": "Validating Store Structure (5:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292931",
+          "title": "Connecting a Component to Redux (6:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292927",
+          "title": "Rendering a List (4:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292926",
+          "title": "Adding in Delete Functionality (2:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292921",
+          "title": "Breaking Out Action Creators (3:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292923",
+          "title": "Expressing Actions as Type Union (4:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292925",
+          "title": "Type Guards in Reducers (2:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30371099",
+          "title": "Wiring up deleteToDo Action"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292930",
+          "title": "Again, Type Definition Files (3:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292928",
+          "title": "Tracking Loading with Component State (4:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30292924",
+          "title": "App Wrapup (3:37)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here ?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30370943",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30370944",
+          "title": "Endorsements On LinkedIN"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30370950",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1316943/lectures/30370951",
+          "title": "Web Developer Monthly"
+        }
+      ]
+    }
+  ]
+}

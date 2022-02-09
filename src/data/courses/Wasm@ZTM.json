@@ -1,0 +1,157 @@
+{
+  "title": "WebAssembly: A Practical Guide",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1545967",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "Wasm"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35815734",
+          "title": "Byte Sized Learning"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35731074",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35975643",
+          "title": "Course Resources + Code"
+        }
+      ]
+    },
+    {
+      "title": "WebAssembly: Everything You Need to Know",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737794",
+          "title": "What is WebAssembly? (8:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737814",
+          "title": "Getting Started with Rust (6:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737815",
+          "title": "Exploring the Starter Project (6:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737818",
+          "title": "Variables (5:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737821",
+          "title": "Data Types (6:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737822",
+          "title": "Debugging with Macros (6:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737824",
+          "title": "Control Flow (4:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737825",
+          "title": "Match Expressions (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737826",
+          "title": "Arrays (2:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737827",
+          "title": "Vectors (5:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737828",
+          "title": "Structures (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737829",
+          "title": "Ownership (6:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737830",
+          "title": "Results (8:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737831",
+          "title": "Preparing the Project (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737832",
+          "title": "Installing Webpack (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737833",
+          "title": "Configuring Webpack (10:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737834",
+          "title": "Reading Files (8:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737835",
+          "title": "Compiling Rust with Webpack (4:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737836",
+          "title": "Importing Web Assembly (5:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737838",
+          "title": "Logging Files (9:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737840",
+          "title": "Base64 Decoding (3:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737841",
+          "title": "Loading an Image from Memory (2:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737842",
+          "title": "Grayscaling an Image (2:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737843",
+          "title": "Buffering an Image (4:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737846",
+          "title": "Encoding an Image (5:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35737848",
+          "title": "App Deployment (4:04)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35731055",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35731063",
+          "title": "Endorsements On LinkedIn"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/35815725",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1545967/lectures/37576865",
+          "title": "Review This Course!"
+        }
+      ]
+    }
+  ]
+}

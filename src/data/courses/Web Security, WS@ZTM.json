@@ -1,0 +1,495 @@
+{
+  "title": "Web Security & Bug Bounty: Learn Penetration Testing in 2022",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1412032",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "Web Security, WS"
+  },
+  "sections": [
+    {
+      "title": "Introduction To Bug Bounty",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/33225343",
+          "title": "Web Security & Bug Bounty (1:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/33140813",
+          "title": "Course Outline (6:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32963133",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32432905",
+          "title": "What is Penetration Testing? (5:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32432914",
+          "title": "What is a Bug Bounty? (6:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32991840",
+          "title": "Course Resources + Guide"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/34188528",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "Our Virtual Lab Setup",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433074",
+          "title": "Virtual Box, Kali Linux Download (11:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32808527",
+          "title": "Important- New Kali Linux Categories (1:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433075",
+          "title": "Kali Linux Installation (12:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433076",
+          "title": "OWASPBWA Installation (8:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433077",
+          "title": "Creating TryHackMe Account (2:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433078",
+          "title": "2 Paths (2:05)"
+        }
+      ]
+    },
+    {
+      "title": "Website Enumeration &amp; Information Gathering",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433082",
+          "title": "Website Enumeration - Theory (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433084",
+          "title": "Google Dorks (11:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433085",
+          "title": "Ping, Host, Nslookup ... (7:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433088",
+          "title": "Whatweb (8:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433089",
+          "title": "Dirb (6:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433090",
+          "title": "Nmap (11:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433091",
+          "title": "Nikto (6:32)"
+        }
+      ]
+    },
+    {
+      "title": "Introduction To Burpsuite",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433094",
+          "title": "Burpsuite Configuration (7:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433095",
+          "title": "Burpsuite Intercept (7:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433097",
+          "title": "Burpsuite Repeater (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433098",
+          "title": "Burpsuite Intruder (9:20)"
+        }
+      ]
+    },
+    {
+      "title": "HTML Injection",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433102",
+          "title": "HTML Injection - Theory (3:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433103",
+          "title": "HTML Injection 1 on TryHackMe (9:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433104",
+          "title": "HTML Injection 2 - Injecting User-Agent Header (3:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433107",
+          "title": "Injecting Cookie Field and Redirecting The Page (5:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433109",
+          "title": "Advance Example of HTML Injection (13:18)"
+        }
+      ]
+    },
+    {
+      "title": "Command Injection/Execution",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433121",
+          "title": "Command Injection Theory (4:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433122",
+          "title": "Command Injection On TryHackMe and Blind Command Injection (9:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433123",
+          "title": "Solving Challenges With Command Injection (9:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433124",
+          "title": "Running PHP Reverse Shell With Command Execution Vulnerability (7:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433126",
+          "title": "Bypassing Input Filter And Executing Command (7:24)"
+        }
+      ]
+    },
+    {
+      "title": "Broken Authentication",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433141",
+          "title": "Broken Authentication Theory (4:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433142",
+          "title": "Broken Authentication On TryHackMe (6:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433144",
+          "title": "Broken Authentication Via Cookie (4:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433148",
+          "title": "Basic Authorization in HTTP Request (6:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433196",
+          "title": "Forgot Password Challenge (8:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433197",
+          "title": "Session Fixation Challenge (5:09)"
+        }
+      ]
+    },
+    {
+      "title": "Bruteforce Attacks",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433203",
+          "title": "Cluster Bomb Bruteforce (6:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433204",
+          "title": "Hydra Bwapp Form Bruteforce (12:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433206",
+          "title": "Hydra Post Request Form Bruteforce (5:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433207",
+          "title": "Bonus - Hydra SSH Attack (4:14)"
+        }
+      ]
+    },
+    {
+      "title": "Sensitive Data Exposure",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433215",
+          "title": "Sensitive Data Exposure Example (10:11)"
+        }
+      ]
+    },
+    {
+      "title": "Broken Access Control",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433268",
+          "title": "Broken Access Control - Theory (6:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433270",
+          "title": "Accessing passwd With BAC (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433314",
+          "title": "Ticket Price IDOR (6:33)"
+        }
+      ]
+    },
+    {
+      "title": "Security Misconfiguration",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433320",
+          "title": "Security Misconfiguration - Default App Credentials (4:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/37425189",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Cross Site Scripting - XSS",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433340",
+          "title": "XSS Theory (6:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433343",
+          "title": "Changing Page Content With XSS (10:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433345",
+          "title": "Bypassing Simple Filter (3:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433346",
+          "title": "Downloading a File With XSS Vulnerability (9:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433347",
+          "title": "DOM XSS Password Generator (5:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433348",
+          "title": "JSON XSS (8:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433349",
+          "title": "Old Vulnerable Real Applications (4:11)"
+        }
+      ]
+    },
+    {
+      "title": "SQL Injection",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433355",
+          "title": "SQL Injection Theory (4:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433357",
+          "title": "Guide To Exploiting SQL Injection (8:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433358",
+          "title": "Getting Entire Database (5:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433359",
+          "title": "Extracting Passwords From Database (19:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433360",
+          "title": "Bypassing Filter In SQL Query (6:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433361",
+          "title": "Blind SQL Injection (11:38)"
+        }
+      ]
+    },
+    {
+      "title": "XML, XPath Injection, XXE",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433368",
+          "title": "XPath Injection (6:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433369",
+          "title": "XPath Injection 2 (3:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433370",
+          "title": "XXE (7:22)"
+        }
+      ]
+    },
+    {
+      "title": "Components With Known Vulnerabilities",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433373",
+          "title": "Components With Known Vulnerabilities (10:06)"
+        }
+      ]
+    },
+    {
+      "title": "Insufficient Logging And Monitoring",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433380",
+          "title": "Insufficient Logging And Monitoring Example (4:01)"
+        }
+      ]
+    },
+    {
+      "title": "Monetizing Bug Hunting",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433429",
+          "title": "What's Next & How To Earn Money By Finding Vulnerabilities? (11:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/33205103",
+          "title": "Unique and Interesting Bugs Discovered"
+        }
+      ]
+    },
+    {
+      "title": "Bonus - Web Developer Fundamentals",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852777",
+          "title": "Browsing the Web (6:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852776",
+          "title": "Breaking Google (2:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852775",
+          "title": "The Internet Backbone (5:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852778",
+          "title": "Traceroute (2:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852773",
+          "title": "HTML, CSS, Javascript (5:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852780",
+          "title": "Build Your First Website (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852768",
+          "title": "HTML Tags (8:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852767",
+          "title": "Your First CSS (13:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852772",
+          "title": "What Is Javascript? (5:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852779",
+          "title": "Your First Javascript (11:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852770",
+          "title": "Javascript On Our Webpage (9:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852769",
+          "title": "HTTP/HTTPS (19:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852771",
+          "title": "Introduction To Databases (10:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852766",
+          "title": "SQL: Create Table (5:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32852774",
+          "title": "SQL: Insert Into + Select (4:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32851067",
+          "title": "What is PHP? (5:16)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus - Linux Terminal",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433437",
+          "title": "Linux 1 - ls, cd, pwd, touch... (13:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32433439",
+          "title": "Linux 2 - sudo, nano, clear ... (7:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32823033",
+          "title": "Linux 3 - ifconfig, nslookup, host ... (7:34)"
+        }
+      ]
+    },
+    {
+      "title": "Bonus - Networking",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32861395",
+          "title": "Networking Cheatsheet"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/33006581",
+          "title": "Thank You (1:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/37576794",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32963168",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32963169",
+          "title": "Endorsements On LinkedIn"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1412032/lectures/32963170",
+          "title": "Learning Guideline"
+        }
+      ]
+    }
+  ]
+}

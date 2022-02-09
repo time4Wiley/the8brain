@@ -1,0 +1,1387 @@
+{
+  "title": "Master the Coding Interview: Big Tech (FAANG) Interviews",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1132099",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "Big Tech Interview"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24290373",
+          "title": "Master The Coding Interview: Big Tech (FAANG) Interview (2:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24655459",
+          "title": "Course Breakdown (11:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24655467",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24655468",
+          "title": "Download All Code + Solutions"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/26956965",
+          "title": "How-to's: Speed up videos, Downloading videos"
+        }
+      ]
+    },
+    {
+      "title": "Arrays  - Question #1  Google Interview Question Two Sum (Easy)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27303033",
+          "title": "Interview Question #1 Two Sum (7:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27303036",
+          "title": "How To Approach Our Problem (11:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27303035",
+          "title": "Writing Our Brute Force Solution (6:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27303038",
+          "title": "Testing Our Solution With Our Test Cases (9:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27303037",
+          "title": "Submitting To Leetcode (1:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27303034",
+          "title": "Analyzing Space and Time Complexity (10:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27365916",
+          "title": "Optimizing Our Solution (8:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27365918",
+          "title": "Coding Our Optimal Solution (5:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27365915",
+          "title": "Testing Our Optimal Solution With Our Test Cases (8:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27365917",
+          "title": "Checking Performance On LeetCode (3:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27946958",
+          "title": "Solution In Other Languages"
+        }
+      ]
+    },
+    {
+      "title": "Arrays - Questions #2 - Container With Most Water (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301576",
+          "title": "Interview Question #2 - Container With Most Water (4:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301561",
+          "title": "Coming Up With Test Cases (4:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301584",
+          "title": "Thinking Through A Logical Brute Force Solution (12:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301558",
+          "title": "Coding Out Our Brute Force Solution (7:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301565",
+          "title": "Stepping Through Our Code (4:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301566",
+          "title": "Thinking About Our Optimal Solution (13:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301563",
+          "title": "Coding Our Optimal Solution And Testing On LeetCode (9:50)"
+        }
+      ]
+    },
+    {
+      "title": "Arrays - Questions #3 - Trapping Rainwater (Hard)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301578",
+          "title": "Interview Question #3 - Trapping Rainwater (7:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301586",
+          "title": "Thinking About A Logical Solution (12:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301583",
+          "title": "Coding Our Brute Force Solution (8:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301588",
+          "title": "Figuring Out Our Optimization Strategy (24:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27045660",
+          "title": "Coding Our Optimal Solution (13:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301559",
+          "title": "Optimal Code And Testing On LeetCode (2:09)"
+        }
+      ]
+    },
+    {
+      "title": "Strings - Question #4 - Typed Out Strings (Easy)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301577",
+          "title": "Interview Question #4 -Typed Out Strings (7:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301582",
+          "title": "Logic Of Our Brute Force Solution (8:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301581",
+          "title": "Coding Our Brute Force Solution (9:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301585",
+          "title": "Space And Time Complexity (7:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301567",
+          "title": "Coming Up With Optimal Solution (11:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301570",
+          "title": "Coding Our Optimal Solution (12:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301579",
+          "title": "Submitting To LeetCode (5:51)"
+        }
+      ]
+    },
+    {
+      "title": "Strings - Question #5 - Longest Substring Without Repeating Characters (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301575",
+          "title": "Interview Question #5 - Longest Substring Without Repeating Characters (6:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301587",
+          "title": "Coming Up With A Brute Force Approach (6:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24291137",
+          "title": "Coding Our Brute Force Solution (9:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24291133",
+          "title": "Space And Time Complexity (3:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24291141",
+          "title": "Sliding Window Technique (5:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24291139",
+          "title": "Hints For Optimizing Our Solution (2:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24291132",
+          "title": "Thinking About Optimal Solution (9:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24291135",
+          "title": "Coding Our Optimal Solution (8:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27724041",
+          "title": "Note: Correction for explanation of +1"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24291138",
+          "title": "Optimal Code And Testing On LeetCode (3:18)"
+        }
+      ]
+    },
+    {
+      "title": "Strings - Question #6 - Valid Palindrome &amp; Almost Palindrome",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24291136",
+          "title": "Intro To Palindromes (9:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24291134",
+          "title": "Interview Question #6 - Valid Palindrome (8:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24291140",
+          "title": "Almost A Palindrome (10:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24294167",
+          "title": "Figuring Out Our Solution (6:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24294164",
+          "title": "Coding Our Solution (9:46)"
+        }
+      ]
+    },
+    {
+      "title": "Introducing Linked Lists - Basics and Reverse A Linked List",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24294169",
+          "title": "Linked List Introduction (3:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24294166",
+          "title": "Basic Algorithm: Reverse a Linked List (8:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24294170",
+          "title": "Thinking About Our Solution (10:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24294171",
+          "title": "Coding Reverse A Linked List Solution (7:07)"
+        }
+      ]
+    },
+    {
+      "title": "Linked List - Question #7 - M, N Reversals (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24294168",
+          "title": "Interview Question #7 - M, N Reversals (6:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24294163",
+          "title": "Coming Up With A Logical Solution (16:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24294165",
+          "title": "Coding Our Solution (15:38)"
+        }
+      ]
+    },
+    {
+      "title": "Linked List - Question #8 - Merge Multi-Level Doubly Linked List (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24296602",
+          "title": "Interview Question #8 - Merge Multi-Level Doubly Linked List (8:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24296601",
+          "title": "Figuring Out Our Test Cases (8:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24296599",
+          "title": "Thinking About Our Approach (16:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24296603",
+          "title": "Coding Out Our Solution (14:37)"
+        }
+      ]
+    },
+    {
+      "title": "Linked List - Question #9 - Cycle Detection (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24296607",
+          "title": "Interview Question #9 - Cycle Detection (11:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301568",
+          "title": "Floyd's Tortoise And Hare (3:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301564",
+          "title": "Coding Floyd's Algorithm (8:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24301573",
+          "title": "Optional: Proof Of How Floyd's Algorithm Works (25:51)"
+        }
+      ]
+    },
+    {
+      "title": "Stacks - Question #10 - Valid Parentheses (Easy)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24421356",
+          "title": "Intro to Stacks and Queues (3:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24421362",
+          "title": "Interview Question #10 - Valid Parentheses (9:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24421355",
+          "title": "Walking Through Our Problem - Identifying The Need For A Stack (8:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24421359",
+          "title": "Coding Our Solution With A Stack (9:18)"
+        }
+      ]
+    },
+    {
+      "title": "Stacks - Question #11 - Minimum Brackets To Remove (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24421354",
+          "title": "Interview Question #11 - Minimum Brackets To Remove (7:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24421361",
+          "title": "Thinking About Our Solution (12:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24421357",
+          "title": "Coding Our Solution (10:53)"
+        }
+      ]
+    },
+    {
+      "title": "Queues - Question #12 - Implement Queue With Stacks (Easy)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24421358",
+          "title": "Question #12 - Implement Queue With Stacks (4:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24421360",
+          "title": "Figuring Out Our Solution (10:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24421353",
+          "title": "Coding Our Solution (8:27)"
+        }
+      ]
+    },
+    {
+      "title": "Recursion (Sorting and Hoare's QuickSelect) - Question #13 - Kth Largest Element",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465714",
+          "title": "Introducing Recursion (3:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24296606",
+          "title": "Optional: Tail Recursion (19:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24296600",
+          "title": "Sorting (2:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24296604",
+          "title": "Interview Question #13 - Kth Largest Element (6:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24296598",
+          "title": "Insights From Quick Sort (12:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24296605",
+          "title": "Understanding Divide And Conquer (8:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24391709",
+          "title": "Coding Quicksort Into Our Solution (14:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24391705",
+          "title": "Understanding Hoare's Quickselect Algorithm (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24391708",
+          "title": "Coding Our Solution With Quickselect (11:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/29503952",
+          "title": "Correction About Time Complexity!"
+        }
+      ]
+    },
+    {
+      "title": "Recursion (Binary Search) - Question #14 - Start And End Of Target (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24391707",
+          "title": "Understanding Binary Search (9:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24391704",
+          "title": "How To Code Binary Search (6:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24391706",
+          "title": "Question #14 - Start And End Of Target In A Sorted Array (5:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465725",
+          "title": "Walking Through Our Solution (10:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465728",
+          "title": "Coding Our Solution (12:55)"
+        }
+      ]
+    },
+    {
+      "title": "Binary Trees - Question #15 - Maximum Depth Of Binary Tree (Easy)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465719",
+          "title": "Intro to Binary Trees (1:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465717",
+          "title": "Question #15 - Maximum Depth of Binary Tree (6:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465723",
+          "title": "Learning The Process For Solving Binary Tree Problems (19:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465727",
+          "title": "Coding Our Solution (6:11)"
+        }
+      ]
+    },
+    {
+      "title": "Binary Trees - Question #16 - Level Order Of Binary Tree (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465729",
+          "title": "Question #16 - Level Order Of Binary Tree (5:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465716",
+          "title": "Walking Through Our Solution (17:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465720",
+          "title": "Coding Out Level Order Traversal (11:38)"
+        }
+      ]
+    },
+    {
+      "title": "Binary Trees - Question #17 - Right Side View of Tree (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465715",
+          "title": "Question #17 - Right Side View of Tree (6:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465724",
+          "title": "Understanding The Breadth First Search Approach (8:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465722",
+          "title": "Understanding The Depth First Search Approach (9:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465730",
+          "title": "Thinking About Pre-Order, In-Order, and Post-Order Traversals For Our Solution (12:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465718",
+          "title": "Completing Our DFS Solution (7:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465721",
+          "title": "Coding Our Final DFS Solution (11:55)"
+        }
+      ]
+    },
+    {
+      "title": "Full &amp; Complete Binary Trees - Question #18 - Number Of Nodes In Complete Tree",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465712",
+          "title": "Question #18 - Number Of Nodes In Complete Tree (8:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24515877",
+          "title": "Thinking Deeply About A Full Binary Tree (10:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24515875",
+          "title": "Figuring Out Number Of Nodes At Last Level (15:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24550952",
+          "title": "Coding Out Our Full Solution (20:39)"
+        }
+      ]
+    },
+    {
+      "title": "Binary Search Tree - Question #19 - Validate Binary Search Tree (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24550957",
+          "title": "Question #19 - Validate Binary Search Tree (8:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465711",
+          "title": "Thinking About Our Logical Solution (15:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465726",
+          "title": "Figuring Out Our Boundaries (6:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24465713",
+          "title": "Coding Our Our Full Solution (7:58)"
+        }
+      ]
+    },
+    {
+      "title": "Heaps &amp; Priority Queues",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24483446",
+          "title": "Introducing Heaps (8:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24483445",
+          "title": "Insertion In Heaps - Understanding Sift Up (7:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24483447",
+          "title": "Deletion In Heaps - Understanding Sift Down (10:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24483449",
+          "title": "Starting To Code Our Priority Queue Class (10:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24483448",
+          "title": "Coding Our Insertion And Sift Up Methods (5:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24515876",
+          "title": "Coding Our Deletion And Sift Down Methods (13:00)"
+        }
+      ]
+    },
+    {
+      "title": "Intro To 2D-Arrays - Basics &amp; Traversal Algorithms",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24696385",
+          "title": "Introducing 2D Arrays - What Are They? (7:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687921",
+          "title": "Depth First Search In 2D-Arrays (7:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687890",
+          "title": "Coding DFS - Setting Up For DFS (9:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687925",
+          "title": "Coding DFS - Implementing Recursive DFS (8:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687889",
+          "title": "Breadth First Search In 2D-Arrays (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687907",
+          "title": "Coding BFS (10:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/37419797",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "2D-Arrays - Question #20 Number Of Islands (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687895",
+          "title": "A General Approach To Thinking About Most Graph Questions (9:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687900",
+          "title": "Question #20 Number Of Islands (7:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687899",
+          "title": "Approaching Our Problem - Thinking Deeply About The Values (16:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687904",
+          "title": "Approaching Our Problem - Thinking About Traversals (8:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27702144",
+          "title": "Coding Our Solution (19:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27702145",
+          "title": "Thinking About Space And Time Complexity (14:38)"
+        }
+      ]
+    },
+    {
+      "title": "2D-Arrays - Question #21 Rotting Oranges (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24550954",
+          "title": "Question #21 Rotting Oranges (6:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24550956",
+          "title": "Figuring Out Our Initial Logic (11:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24550955",
+          "title": "Figuring Out The Rest Of Our Solution (14:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24550958",
+          "title": "Coding Out Our Solution (14:47)"
+        }
+      ]
+    },
+    {
+      "title": "2D-Arrays - Question #22 - Walls And Gates (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24550953",
+          "title": "Question #22 - Walls And Gates (6:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24573048",
+          "title": "Figuring Out Our Logical Solution (12:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24573046",
+          "title": "Coding Out Our Solution (11:45)"
+        }
+      ]
+    },
+    {
+      "title": "Intro to Graphs - Representation &amp; Traversal Algorithms",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24573047",
+          "title": "Introduction To The Types Of Graphs (11:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687898",
+          "title": "Representing Our Graphs - Adjacency List & Adjacency Matrix (7:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687920",
+          "title": "Breadth First Search In Graphs (4:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687922",
+          "title": "Coding BFS (7:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687901",
+          "title": "Depth First Search In Graphs (3:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687913",
+          "title": "Coding DFS (7:03)"
+        }
+      ]
+    },
+    {
+      "title": "Graphs - Question #23 - Time Needed to Inform All Employees (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687903",
+          "title": "Question #23 - Time Needed to Inform All Employees (12:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687906",
+          "title": "Verifying Our Constraints And Thinking About Test Cases (8:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687915",
+          "title": "How To Represent Our Graph As An Adjacency List (9:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687926",
+          "title": "Solving Our Problem Logically Using DFS Traversal (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687893",
+          "title": "Coding Our DFS Solution (10:01)"
+        }
+      ]
+    },
+    {
+      "title": "Graphs - Question #24 - Course Scheduler (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687894",
+          "title": "Question #24 - Course Scheduler (10:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24696382",
+          "title": "Thinking About Our Initial Solution - BFS (7:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687892",
+          "title": "Coding Out Our Initial BFS Solution (15:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687916",
+          "title": "What is Topological Sort? (7:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687912",
+          "title": "Thinking About A Solution With Topological Sort (4:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687897",
+          "title": "Coding Our Final Solution (15:47)"
+        }
+      ]
+    },
+    {
+      "title": "Graphs - Question #25 - Network Time Delay (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687909",
+          "title": "Question #25 - Network Time Delay (12:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687902",
+          "title": "Thinking About How To Approach The Problem (8:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687911",
+          "title": "Greedy Method & What Is Dijkstra's Algorithm? (15:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687891",
+          "title": "Thinking About A Solution With Dijkstra's Algorithm (8:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687924",
+          "title": "Coding Our Solution With Dijkstra (17:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27894951",
+          "title": "Time And Space Complexity Of Our Solution (13:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/27894950",
+          "title": "Thinking About Negative Weights (7:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687905",
+          "title": "What is The Bellman-Ford Algorithm? - Conceptualizing Dynamic Programming (16:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687896",
+          "title": "What is The Bellman-Ford Algorithm? - The Algorithm Itself (16:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687918",
+          "title": "Coding Our Solution With Bellman-Ford (9:19)"
+        }
+      ]
+    },
+    {
+      "title": "Dynamic Programming - Question #26 - Minimum Cost Of Climbing Stairs (Easy)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24696384",
+          "title": "Question #26 - Minimum Cost Of Climbing Stairs & How To Approach DP (9:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24696381",
+          "title": "Understanding & Identifying Recurrence Relation (15:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24696380",
+          "title": "First Step - Recursive Solution From Recurrence Relation (5:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24836337",
+          "title": "Second Step - Memoizing Our Redundant Recursive Calls (7:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24836336",
+          "title": "Coding Our Memoization Optimization (7:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24696386",
+          "title": "Understanding The Bottom Up Approach (Tabulation) (6:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24696383",
+          "title": "Third Step - Bottom Up Tabulation (5:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687917",
+          "title": "Fourth Step - Bottom Up Optimization (6:52)"
+        }
+      ]
+    },
+    {
+      "title": "Dynamic Programming - Question #27 - Knight Probability In Chessboard (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687908",
+          "title": "Question #27 - Knight Probability In Chessboard (10:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24687914",
+          "title": "Thinking About Test Cases To Help Us (3:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24739033",
+          "title": "Identifying The Recurrence Relation (15:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24739030",
+          "title": "First Step - Recursive Solution From Recurrence Relation (5:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24739032",
+          "title": "Second Step - Memoizing Our Redundant Recursive Calls (14:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24836335",
+          "title": "Figuring Out The Logic For Our Bottom Up Solution (13:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24739029",
+          "title": "Third Step - Bottom Up Tabulation (8:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24739028",
+          "title": "Fourth Step - Bottom Up Optimization (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/30095192",
+          "title": "Dynamic Programming Question List"
+        }
+      ]
+    },
+    {
+      "title": "Backtracking - Question #28 - Sudoku Solver (Hard)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24763783",
+          "title": "Understanding The Basics Of Backtracking (7:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24763782",
+          "title": "Question #28 - Sudoku Solver (4:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24763787",
+          "title": "Learning The Backtracking Template (11:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24836334",
+          "title": "Applying Our Backtracking Template To Sudoku Solver Logic (6:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24763781",
+          "title": "Coding How To Get Box ID (7:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24770149",
+          "title": "Setting Up Our Solution Code (7:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24770148",
+          "title": "Coding The Recursive Backtracking Portion Of Our Solution (19:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24770147",
+          "title": "Thinking About The Space And Time Complexity (6:58)"
+        }
+      ]
+    },
+    {
+      "title": "Interface Design - Question #29 - Monarchy",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24770146",
+          "title": "Understanding Interface Design & Question #29 - Monarchy (10:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24770153",
+          "title": "Figuring Out Our Test Cases (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24770150",
+          "title": "Thinking About The Logical Of The Monarchy (9:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/29456866",
+          "title": "Coding Our Monarchy Solution (14:57)"
+        }
+      ]
+    },
+    {
+      "title": "Tries - Question #30 - Implement Prefix Trie (Medium)",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24763785",
+          "title": "Introducing Tries (1:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24763786",
+          "title": "Question #30 - Implement Prefix Trie (9:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24763784",
+          "title": "Understanding The Logic For Our Methods (3:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24763807",
+          "title": "Implementing Our Prefix Trie Data Structure Solution (15:15)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/37419796",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/37576492",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24704247",
+          "title": "LinkedIn Endorsements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24704293",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24704295",
+          "title": "Coding Challenges"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/37619318",
+          "title": "Learning Guideline"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Big O",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24703155",
+          "title": "Note About Appendix Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455981",
+          "title": "Section Overview (2:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455997",
+          "title": "What Is Good Code? (6:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455996",
+          "title": "Big O and Scalability (11:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455983",
+          "title": "O(n) (5:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455991",
+          "title": "O(1) (6:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/26662301",
+          "title": "Exercise: Big O Calculation"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455987",
+          "title": "Solution: Big O Calculation (5:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/26662303",
+          "title": "Exercise: Big O Calculation 2"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24456002",
+          "title": "Solution: Big O Calculation 2 (2:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455998",
+          "title": "Simplifying Big O (1:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455992",
+          "title": "Big O Rule 1 (4:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455999",
+          "title": "Big O Rule 2 (6:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455989",
+          "title": "Big O Rule 3 (3:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455986",
+          "title": "O(n^2) (7:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455993",
+          "title": "Big O Rule 4 (6:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455990",
+          "title": "Big O Cheat Sheet (3:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455984",
+          "title": "What Does This All Mean? (5:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24456001",
+          "title": "O(n!) (1:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455988",
+          "title": "3 Pillars Of Programming (3:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455985",
+          "title": "Space Complexity (2:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24456000",
+          "title": "Exercise: Space Complexity (6:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455982",
+          "title": "Exercise: Twitter (7:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24455994",
+          "title": "Section Summary (4:43)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Arrays",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24456558",
+          "title": "Arrays Introduction (13:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24456553",
+          "title": "Static vs Dynamic Arrays (6:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24456554",
+          "title": "Optional: Implementing An Array (17:19)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Hash Tables",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24457622",
+          "title": "Hash Tables Introduction (4:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24457617",
+          "title": "Hash Function (5:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24457625",
+          "title": "Hash Collisions (9:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24457626",
+          "title": "Hash Tables VS Arrays (2:01)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Linked Lists",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460266",
+          "title": "Linked Lists Introduction (2:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460275",
+          "title": "What Is A Linked List? (4:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460280",
+          "title": "Exercise: Why Linked Lists? (2:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460276",
+          "title": "Solution: Why Linked Lists? (5:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460281",
+          "title": "What Is A Pointer? (5:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460279",
+          "title": "Doubly Linked Lists (3:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460278",
+          "title": "Singly VS Doubly Linked Lists (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460270",
+          "title": "Linked Lists Review (5:07)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Stacks + Queues",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460923",
+          "title": "Stacks + Queues Introduction (2:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460924",
+          "title": "Stacks (3:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460918",
+          "title": "Queues (3:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460925",
+          "title": "Exercise: Stacks VS Queues (3:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460917",
+          "title": "Solution: Stacks VS Queues (3:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24460915",
+          "title": "Stacks + Queues Review (2:19)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Trees",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463941",
+          "title": "Trees Introduction (6:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463945",
+          "title": "Binary Trees (5:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463947",
+          "title": "O(log n) (7:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24494252",
+          "title": "Binary Search Tree (6:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463938",
+          "title": "Balanced VS Unbalanced BST (3:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463946",
+          "title": "BST Pros and Cons (2:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24803485",
+          "title": "Trie (3:16)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Searching + BFS + DFS",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24464405",
+          "title": "Graph + Tree Traversals (3:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24464401",
+          "title": "BFS Introduction (2:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24464406",
+          "title": "DFS Introduction (3:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24464409",
+          "title": "BFS vs DFS (3:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24464407",
+          "title": "Exercise: BFS vs DFS (0:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24464404",
+          "title": "Solution: BFS vs DFS (3:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/31189534",
+          "title": "breadthFirstSearch() (9:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/31164215",
+          "title": "PreOrder, InOrder, PostOrder (5:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/31164216",
+          "title": "depthFirstSearch() (12:03)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Recursion",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463064",
+          "title": "Recursion Introduction (5:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463061",
+          "title": "Stack Overflow (6:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463059",
+          "title": "Anatomy Of Recursion (10:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463058",
+          "title": "Recursive VS Iterative (4:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463065",
+          "title": "When To Use Recursion (4:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463060",
+          "title": "Recursion Review (2:47)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Sorting",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463463",
+          "title": "Sorting Introduction (7:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463457",
+          "title": "The Issue With sort() (6:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463455",
+          "title": "Sorting Algorithms (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463465",
+          "title": "Bubble Sort (3:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24494924",
+          "title": "Exercise: Bubble Sort"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463462",
+          "title": "Solution: Bubble Sort (5:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463464",
+          "title": "Selection Sort (2:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24494939",
+          "title": "Exercise: Selection Sort"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463458",
+          "title": "Solution: Selection Sort (2:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463461",
+          "title": "Dancing Algorithms (1:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24494950",
+          "title": "Exercise: Insertion Sort"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463456",
+          "title": "Insertion Sort (2:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463460",
+          "title": "Solution: Insertion Sort (2:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463466",
+          "title": "Merge Sort and O(n log n) (8:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24494963",
+          "title": "Exercise: Merge Sort"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463459",
+          "title": "Solution: Merge Sort (4:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1132099/lectures/24463454",
+          "title": "Quick Sort (7:40)"
+        }
+      ]
+    }
+  ]
+}

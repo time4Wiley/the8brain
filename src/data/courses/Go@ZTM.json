@@ -1,0 +1,475 @@
+{
+  "title": "Go Programming (Golang): The Complete Developer's Guide",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1600953",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "Go"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/37565053",
+          "title": "Go Programming (Golang): The Complete Developer's Guide (2:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/37295897",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/37295898",
+          "title": "Course Projects + Code + Slides"
+        }
+      ]
+    },
+    {
+      "title": "Introduction to Go (Golang) Programming",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36625790",
+          "title": "So You Want To Learn Go? (2:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36604808",
+          "title": "Install Golang (2:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36625792",
+          "title": "Packages & Modules (3:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36625794",
+          "title": "Data Types (5:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632402",
+          "title": "Strings / Runes (7:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36625791",
+          "title": "Go CLI (1:46)"
+        }
+      ]
+    },
+    {
+      "title": "Go Programming Fundamentals",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36624666",
+          "title": "Variables (10:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36605130",
+          "title": "Demo: Variables (9:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36624662",
+          "title": "Exercise: Variables (4:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36625793",
+          "title": "Basic Functions (5:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36624663",
+          "title": "Demo: Functions (4:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36624664",
+          "title": "Exercise: Functions (4:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36624665",
+          "title": "Operators (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632446",
+          "title": "if..else (8:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632447",
+          "title": "Demo: if..else (2:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632451",
+          "title": "Exercise: if..else (5:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632452",
+          "title": "switch (4:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632453",
+          "title": "Demo: switch (3:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632454",
+          "title": "Exercise: switch (3:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632455",
+          "title": "Looping (5:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632456",
+          "title": "Demo: Looping (3:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632457",
+          "title": "Exercise: Looping (3:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632477",
+          "title": "Section Review: Dice Roller (9:52)"
+        }
+      ]
+    },
+    {
+      "title": "Go Programming: Types",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632785",
+          "title": "Structures (6:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632786",
+          "title": "Demo: Structures (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632787",
+          "title": "Exercise: Structures (5:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632789",
+          "title": "Arrays (9:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632792",
+          "title": "Demo: Arrays (4:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632797",
+          "title": "Exercise: Arrays (5:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632799",
+          "title": "Slices (12:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632800",
+          "title": "Demo: Slices (4:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632801",
+          "title": "Exercise: Slices (3:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632802",
+          "title": "Ranges (4:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632803",
+          "title": "Maps (6:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632804",
+          "title": "Demo: Maps (7:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632805",
+          "title": "Exercise: Maps (7:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632806",
+          "title": "Pointers (5:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632807",
+          "title": "Demo: Pointers (6:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632808",
+          "title": "Exercise: Pointers (5:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632809",
+          "title": "Section Review: Library (17:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/37426942",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        }
+      ]
+    },
+    {
+      "title": "Idiomatic Go",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632813",
+          "title": "Receiver Functions (4:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632814",
+          "title": "Demo: Receiver Functions (4:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632815",
+          "title": "Exercise: Receiver Functions (6:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632816",
+          "title": "iota (6:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632817",
+          "title": "Exercise: iota (4:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632818",
+          "title": "Variadics (4:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632820",
+          "title": "Text Formatting: fmt (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632821",
+          "title": "Packages (9:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632822",
+          "title": "Init Function (2:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632823",
+          "title": "Testing (7:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632824",
+          "title": "Demo: Testing (8:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632825",
+          "title": "Exercise: Testing (6:55)"
+        }
+      ]
+    },
+    {
+      "title": "Interfaces in Go",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632868",
+          "title": "Interfaces (9:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632870",
+          "title": "Demo: Interfaces (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632871",
+          "title": "Exercise: Interfaces (6:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632873",
+          "title": "Error Handling (7:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632874",
+          "title": "Demo: Error Handling (2:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632876",
+          "title": "Exercise: Error Handling (8:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632877",
+          "title": "Readers & Writers (9:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632878",
+          "title": "Demo Readers (5:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632879",
+          "title": "Exercise: Readers (4:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632880",
+          "title": "Type Embedding (5:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632881",
+          "title": "Demo: Type Embedding (5:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632882",
+          "title": "Exercise: Type Embedding (5:19)"
+        }
+      ]
+    },
+    {
+      "title": "Concurrent Programming with Go",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632886",
+          "title": "Function Literals (6:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632888",
+          "title": "Demo: Function Literals (5:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632890",
+          "title": "Exercise: Function Literals (5:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632893",
+          "title": "Defer (3:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632894",
+          "title": "Concurrent Programming (4:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632895",
+          "title": "Goroutines (4:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632896",
+          "title": "Demo: Goroutines (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632897",
+          "title": "Exercise: Goroutines (5:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632898",
+          "title": "Channels (12:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632901",
+          "title": "Demo: Channels (9:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632903",
+          "title": "Exercise: Channels (4:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632904",
+          "title": "Synchronization (8:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632908",
+          "title": "Demo: WaitGroups (4:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632909",
+          "title": "Demo: Mutexes (5:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632910",
+          "title": "Exercise: Synchronization (5:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632911",
+          "title": "Section Review: Multithreaded grep (27:31)"
+        }
+      ]
+    },
+    {
+      "title": "Final Milestone Project: Pixl",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36910875",
+          "title": "gcc Installation (4:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36632918",
+          "title": "Intro & Project Setup (3:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36830484",
+          "title": "Canvas Overview & State (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36830488",
+          "title": "Creating a Swatch (13:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36830491",
+          "title": "Swatch Layout & First Run (10:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36830493",
+          "title": "Color Picker & App Layout (4:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36830495",
+          "title": "Pixel Canvas Structure (8:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36830497",
+          "title": "Pixel Canvas Renderer (14:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36830498",
+          "title": "Pixel Canvas Layout (3:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36833275",
+          "title": "Panning & Zooming (10:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36910864",
+          "title": "Painting Pixels (9:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36910866",
+          "title": "Cursor Display (8:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36910868",
+          "title": "Creating New Images (11:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36910869",
+          "title": "Saving Images (6:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/36910872",
+          "title": "Loading Images (5:38)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/37426943",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/37576883",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/37296111",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/37296112",
+          "title": "Learning Guideline"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/37296113",
+          "title": "LinkedIn Endorsements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1600953/lectures/37296114",
+          "title": "Coding Challenges"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1784 @@
+{
+  "title": "TensorFlow Developer Certificate in 2022: Zero to Mastery",
+  "url": "https://academy.zerotomastery.io/courses/enrolled/1240775",
+  "meta": {
+    "brand": "ZTM",
+    "abbrev": "TF, TensorFlow"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30635969",
+          "title": "Tensorflow Developer Certificate Zero to Mastery (2:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30635971",
+          "title": "Course Outline (5:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30630908",
+          "title": "Exercise: Meet Your Classmates and Instructor"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30630910",
+          "title": "All Course Resources + Notebooks"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30630976",
+          "title": "Python + Machine Learning Monthly"
+        }
+      ]
+    },
+    {
+      "title": "Deep Learning and TensorFlow Fundamentals",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30635970",
+          "title": "What is deep learning? (4:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/27661758",
+          "title": "Why use deep learning? (9:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/27701499",
+          "title": "What are neural networks? (10:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/29890464",
+          "title": "What is deep learning already being used for? (8:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/29890467",
+          "title": "What is and why use TensorFlow? (7:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/29890463",
+          "title": "What is a Tensor? (3:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/29890466",
+          "title": "What we're going to cover throughout the course (4:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/29890465",
+          "title": "How to approach this course (5:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30630956",
+          "title": "Need A Refresher?"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30262122",
+          "title": "Creating your first tensors with TensorFlow and tf.constant() (18:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30181144",
+          "title": "Creating tensors with TensorFlow and tf.Variable() (7:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30181145",
+          "title": "Creating random tensors with TensorFlow (9:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30189172",
+          "title": "Shuffling the order of tensors (9:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30235060",
+          "title": "Creating tensors from NumPy arrays (11:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30283138",
+          "title": "Getting information from your tensors (tensor attributes) (11:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30303202",
+          "title": "Indexing and expanding tensors (12:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30361266",
+          "title": "Manipulating tensors with basic operations (5:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30413617",
+          "title": "Matrix multiplication with tensors part 1 (11:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30413618",
+          "title": "Matrix multiplication with tensors part 2 (13:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30444766",
+          "title": "Matrix multiplication with tensors part 3 (10:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30313932",
+          "title": "Changing the datatype of tensors (6:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30314399",
+          "title": "Tensor aggregation (finding the min, max, mean & more) (9:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/27701498",
+          "title": "Tensor troubleshooting example (updating tensor datatypes) (6:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30314540",
+          "title": "Finding the positional minimum and maximum of a tensor (argmin and argmax) (9:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30314610",
+          "title": "Squeezing a tensor (removing all 1-dimension axes) (2:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30314656",
+          "title": "One-hot encoding tensors (5:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30314685",
+          "title": "Trying out more tensor math operations (4:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30314860",
+          "title": "Exploring TensorFlow and NumPy's compatibility (5:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30323286",
+          "title": "Making sure our tensor operations run really fast on GPUs (10:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30578445",
+          "title": "TensorFlow Fundamentals challenge, exercises & extra-curriculum"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30630978",
+          "title": "Endorsements On LinkedIn"
+        }
+      ]
+    },
+    {
+      "title": "Neural network regression with TensorFlow",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30303809",
+          "title": "Introduction to Neural Network Regression with TensorFlow (7:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30303810",
+          "title": "Inputs and outputs of a neural network regression model (8:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30304151",
+          "title": "Anatomy and architecture of a neural network regression model (7:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30304152",
+          "title": "Creating sample regression data (so we can model it) (12:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/36125964",
+          "title": "Note: Code update for upcoming lecture(s) for TensorFlow 2.7.0+ fix"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30362501",
+          "title": "The major steps in modelling with TensorFlow (40:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30362843",
+          "title": "Steps in improving a model with TensorFlow part 1 (6:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31016108",
+          "title": "Steps in improving a model with TensorFlow part 2 (9:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30445046",
+          "title": "Steps in improving a model with TensorFlow part 3 (12:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30450986",
+          "title": "Evaluating a TensorFlow model part 1 (\"visualise, visualise, visualise\") (7:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30315626",
+          "title": "Evaluating a TensorFlow model part 2 (the three datasets) (11:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30323379",
+          "title": "Evaluating a TensorFlow model part 3 (getting a model summary) (17:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30323840",
+          "title": "Evaluating a TensorFlow model part 4 (visualising a model's layers) (7:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30324411",
+          "title": "Evaluating a TensorFlow model part 5 (visualising a model's predictions) (9:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30324410",
+          "title": "Evaluating a TensorFlow model part 6 (common regression evaluation metrics) (8:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30324412",
+          "title": "Evaluating a TensorFlow regression model part 7 (mean absolute error) (5:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30329304",
+          "title": "Evaluating a TensorFlow regression model part 7 (mean square error) (3:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30329305",
+          "title": "Setting up TensorFlow modelling experiments part 1 (start with a simple model) (13:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30329949",
+          "title": "Setting up TensorFlow modelling experiments part 2 (increasing complexity) (11:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30332093",
+          "title": "Comparing and tracking your TensorFlow modelling experiments (10:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30326564",
+          "title": "How to save a TensorFlow model (8:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30326561",
+          "title": "How to load and use a saved TensorFlow model (10:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30326563",
+          "title": "(Optional) How to save and download files from Google Colab (6:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30326562",
+          "title": "Putting together what we've learned part 1 (preparing a dataset) (13:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30326560",
+          "title": "Putting together what we've learned part 2 (building a regression model) (13:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30332103",
+          "title": "Putting together what we've learned part 3 (improving our regression model) (15:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30332108",
+          "title": "Preprocessing data with feature scaling part 1 (what is feature scaling?) (9:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30332120",
+          "title": "Preprocessing data with feature scaling part 2 (normalising our data) (10:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30332124",
+          "title": "Preprocessing data with feature scaling part 3 (fitting a model on scaled data) (7:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30578569",
+          "title": "TensorFlow Regression challenge, exercises & extra-curriculum"
+        }
+      ]
+    },
+    {
+      "title": "Neural network classification in TensorFlow",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30336234",
+          "title": "Introduction to neural network classification in TensorFlow (8:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30336233",
+          "title": "Example classification problems (and their inputs and outputs) (6:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30363487",
+          "title": "Input and output tensors of classification problems (6:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30363486",
+          "title": "Typical architecture of neural network classification models with TensorFlow (9:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30363864",
+          "title": "Creating and viewing classification data to model (11:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30372985",
+          "title": "Checking the input and output shapes of our classification data (4:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30372986",
+          "title": "Building a not very good classification model with TensorFlow (12:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30372987",
+          "title": "Trying to improve our not very good classification model (9:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30414259",
+          "title": "Creating a function to view our model's not so good predictions (15:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/36716063",
+          "title": "Note: Updates for TensorFlow 2.7.0"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30380694",
+          "title": "Make our poor classification model work for a regression dataset (24:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30415686",
+          "title": "Non-linearity part 1: Straight lines and non-straight lines (9:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30428480",
+          "title": "Non-linearity part 2: Building our first neural network with non-linearity (5:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30428482",
+          "title": "Non-linearity part 3: Upgrading our non-linear model with more layers (10:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30428484",
+          "title": "Non-linearity part 4: Modelling our non-linear data once and for all (8:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30448006",
+          "title": "Non-linearity part 5: Replicating non-linear activation functions from scratch (14:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30450107",
+          "title": "Getting great results in less time by tweaking the learning rate (14:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30450292",
+          "title": "Using the TensorFlow History object to plot a model's loss curves (6:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30458712",
+          "title": "Using callbacks to find a model's ideal learning rate (17:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30450429",
+          "title": "Training and evaluating a model with an ideal learning rate (9:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30450617",
+          "title": "Introducing more classification evaluation methods (6:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30450647",
+          "title": "Finding the accuracy of our classification model (4:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30469790",
+          "title": "Creating our first confusion matrix (to see where our model is getting confused) (8:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30469789",
+          "title": "Making our confusion matrix prettier (14:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30490893",
+          "title": "Putting things together with multi-class classification part 1: Getting the data (10:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30491105",
+          "title": "Multi-class classification part 2: Becoming one with the data (7:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30492062",
+          "title": "Multi-class classification part 3: Building a multi-class classification model (15:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30531421",
+          "title": "Multi-class classification part 4: Improving performance with normalisation (12:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30531424",
+          "title": "Multi-class classification part 5: Comparing normalised and non-normalised data (4:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30531423",
+          "title": "Multi-class classification part 6: Finding the ideal learning rate (10:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30531422",
+          "title": "Multi-class classification part 7: Evaluating our model (13:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30531566",
+          "title": "Multi-class classification part 8: Creating a confusion matrix (4:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30531565",
+          "title": "Multi-class classification part 9: Visualising random model predictions (10:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30536418",
+          "title": "What \"patterns\" is our model learning? (15:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30578646",
+          "title": "TensorFlow classification challenge, exercises & extra-curriculum"
+        }
+      ]
+    },
+    {
+      "title": "Computer Vision and Convolutional Neural Networks in TensorFlow",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30503825",
+          "title": "Introduction to Computer Vision with TensorFlow (9:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30504239",
+          "title": "Introduction to Convolutional Neural Networks (CNNs) with TensorFlow (7:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30588795",
+          "title": "Downloading an image dataset for our first Food Vision model (8:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30615037",
+          "title": "Becoming One With Data (5:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30615040",
+          "title": "Becoming One With Data Part 2 (12:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30615042",
+          "title": "Becoming One With Data Part 3 (4:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30615045",
+          "title": "Building an end to end CNN Model (18:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30612037",
+          "title": "Using a GPU to run our CNN model 5x faster (9:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30610542",
+          "title": "Trying a non-CNN model on our image data (8:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30611567",
+          "title": "Improving our non-CNN model by adding more layers (9:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30471772",
+          "title": "Breaking our CNN model down part 1: Becoming one with the data (9:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30471834",
+          "title": "Breaking our CNN model down part 2: Preparing to load our data (11:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30484305",
+          "title": "Breaking our CNN model down part 3: Loading our data with ImageDataGenerator (9:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30484675",
+          "title": "Breaking our CNN model down part 4: Building a baseline CNN model (8:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30511475",
+          "title": "Breaking our CNN model down part 5: Looking inside a Conv2D layer (15:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30485792",
+          "title": "Breaking our CNN model down part 6: Compiling and fitting our baseline CNN (7:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30504003",
+          "title": "Breaking our CNN model down part 7: Evaluating our CNN's training curves (11:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30504062",
+          "title": "Breaking our CNN model down part 8: Reducing overfitting with Max Pooling (13:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30503609",
+          "title": "Breaking our CNN model down part 9: Reducing overfitting with data augmentation (6:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30532158",
+          "title": "Breaking our CNN model down part 10: Visualizing our augmented data (15:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30532272",
+          "title": "Breaking our CNN model down part 11: Training a CNN model on augmented data (8:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30533266",
+          "title": "Breaking our CNN model down part 12: Discovering the power of shuffling data (10:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30535916",
+          "title": "Breaking our CNN model down part 13: Exploring options to improve our model (5:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30541824",
+          "title": "Downloading a custom image to make predictions on (4:54)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30541893",
+          "title": "Writing a helper function to load and preprocessing custom images (10:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30547849",
+          "title": "Making a prediction on a custom image with our trained CNN (10:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30552935",
+          "title": "Multi-class CNN's part 1: Becoming one with the data (14:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30564739",
+          "title": "Multi-class CNN's part 2: Preparing our data (turning it into tensors) (6:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30564918",
+          "title": "Multi-class CNN's part 3: Building a multi-class CNN model (7:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30565145",
+          "title": "Multi-class CNN's part 4: Fitting a multi-class CNN model to the data (6:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30565274",
+          "title": "Multi-class CNN's part 5: Evaluating our multi-class CNN model (4:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30579373",
+          "title": "Multi-class CNN's part 6: Trying to fix overfitting by removing layers (12:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30580884",
+          "title": "Multi-class CNN's part 7: Trying to fix overfitting with data augmentation (11:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30581431",
+          "title": "Multi-class CNN's part 8: Things you could do to improve your CNN model (4:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30582523",
+          "title": "Multi-class CNN's part 9: Making predictions with our model on custom images (9:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30582745",
+          "title": "Saving and loading our trained CNN model (6:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30610931",
+          "title": "TensorFlow computer vision and CNNs challenge, exercises & extra-curriculum"
+        }
+      ]
+    },
+    {
+      "title": "Transfer Learning in TensorFlow Part 1: Feature extraction",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30564027",
+          "title": "What is and why use transfer learning? (10:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30564028",
+          "title": "Downloading and preparing data for our first transfer learning model (14:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30564030",
+          "title": "Introducing Callbacks in TensorFlow and making a callback to track our models (10:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30564032",
+          "title": "Exploring the TensorFlow Hub website for pretrained models (9:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30564033",
+          "title": "Building and compiling a TensorFlow Hub feature extraction model (14:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30564036",
+          "title": "Blowing our previous models out of the water with transfer learning (9:13)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30564740",
+          "title": "Plotting the loss curves of our ResNet feature extraction model (7:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30612084",
+          "title": "Building and training a pre-trained EfficientNet model on our data (9:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30615079",
+          "title": "Different Types of Transfer Learning (11:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30617426",
+          "title": "Comparing Our Model's Results (15:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30611080",
+          "title": "TensorFlow Transfer Learning Part 1 challenge, exercises & extra-curriculum"
+        }
+      ]
+    },
+    {
+      "title": "Transfer Learning in TensorFlow Part 2: Fine tuning",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30588870",
+          "title": "Introduction to Transfer Learning in TensorFlow Part 2: Fine-tuning (6:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30605976",
+          "title": "Importing a script full of helper functions (and saving lots of space) (7:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/37423953",
+          "title": "Exercise: Imposter Syndrome (2:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30606383",
+          "title": "Downloading and turning our images into a TensorFlow BatchDataset (15:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30611060",
+          "title": "Discussing the four (actually five) modelling experiments we're running (2:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30611069",
+          "title": "Comparing the TensorFlow Keras Sequential API versus the Functional API (2:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30624389",
+          "title": "Creating our first model with the TensorFlow Keras Functional API (11:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30624391",
+          "title": "Compiling and fitting our first Functional API model (10:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30626874",
+          "title": "Getting a feature vector from our trained model (13:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30611430",
+          "title": "Drilling into the concept of a feature vector (a learned representation) (3:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30627672",
+          "title": "Downloading and preparing the data for Model 1 (1 percent of training data) (9:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30638274",
+          "title": "Building a data augmentation layer to use inside our model (12:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30639320",
+          "title": "Visualising what happens when images pass through our data augmentation layer (10:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30671311",
+          "title": "Building Model 1 (with a data augmentation layer and 1% of training data) (15:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30712071",
+          "title": "Building Model 2 (with a data augmentation layer and 10% of training data) (16:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30712605",
+          "title": "Creating a ModelCheckpoint to save our model's weights during training (7:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30691948",
+          "title": "Fitting and evaluating Model 2 (and saving its weights using ModelCheckpoint) (7:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30703550",
+          "title": "Loading and comparing saved weights to our existing trained Model 2 (7:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30700011",
+          "title": "Preparing Model 3 (our first fine-tuned model) (20:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30703552",
+          "title": "Fitting and evaluating Model 3 (our first fine-tuned model) (7:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30704119",
+          "title": "Comparing our model's results before and after fine-tuning (10:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30639537",
+          "title": "Downloading and preparing data for our biggest experiment yet (Model 4) (6:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30705250",
+          "title": "Preparing our final modelling experiment (Model 4) (12:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30710113",
+          "title": "Fine-tuning Model 4 on 100% of the training data and evaluating its results (10:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30715883",
+          "title": "Comparing our modelling experiment results in TensorBoard (10:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30716554",
+          "title": "How to view and delete previous TensorBoard experiments (2:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30653389",
+          "title": "Transfer Learning in TensorFlow Part 2 challenge, exercises and extra-curriculum"
+        }
+      ]
+    },
+    {
+      "title": "Transfer Learning with TensorFlow Part 3: Scaling Up",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30722079",
+          "title": "Introduction to Transfer Learning Part 3: Scaling Up (6:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30817257",
+          "title": "Getting helper functions ready and downloading data to model (13:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30722081",
+          "title": "Outlining the model we're going to build and building a ModelCheckpoint callback (5:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30722080",
+          "title": "Creating a data augmentation layer to use with our model (4:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30722082",
+          "title": "Creating a headless EfficientNetB0 model with data augmentation built in (8:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30732460",
+          "title": "Fitting and evaluating our biggest transfer learning model yet (7:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30743203",
+          "title": "Unfreezing some layers in our base model to prepare for fine-tuning (11:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30736302",
+          "title": "Fine-tuning our feature extraction model and evaluating its performance (8:23)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30740840",
+          "title": "Saving and loading our trained model (6:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30752303",
+          "title": "Downloading a pretrained model to make and evaluate predictions with (6:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30722281",
+          "title": "Making predictions with our trained model on 25,250 test samples (12:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30722232",
+          "title": "Unravelling our test dataset for comparing ground truth labels to predictions (6:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30733796",
+          "title": "Confirming our model's predictions are in the same order as the test labels (5:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30817391",
+          "title": "Creating a confusion matrix for our model's 101 different classes (12:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30817393",
+          "title": "Evaluating every individual class in our dataset (14:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30762406",
+          "title": "Plotting our model's F1-scores for each separate class (7:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30790348",
+          "title": "Creating a function to load and prepare images for making predictions (12:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30840195",
+          "title": "Making predictions on our test images and evaluating them (16:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30840199",
+          "title": "Discussing the benefits of finding your model's most wrong predictions (6:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30844937",
+          "title": "Writing code to uncover our model's most wrong predictions (11:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30844079",
+          "title": "Plotting and visualizing the samples our model got most wrong (10:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30845109",
+          "title": "Making predictions on and plotting our own custom images (9:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30817416",
+          "title": "Transfer Learning in TensorFlow Part 3 challenge, exercises and extra-curriculum"
+        }
+      ]
+    },
+    {
+      "title": "Milestone Project 1: Food Vision Big™",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31434731",
+          "title": "Introduction to Milestone Project 1: Food Vision Big™ (5:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31434730",
+          "title": "Making sure we have access to the right GPU for mixed precision training (10:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31434729",
+          "title": "Getting helper functions ready (3:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31434732",
+          "title": "Introduction to TensorFlow Datasets (TFDS) (12:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31453012",
+          "title": "Exploring and becoming one with the data (Food101 from TensorFlow Datasets) (15:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31453014",
+          "title": "Creating a preprocessing function to prepare our data for modelling (15:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31584658",
+          "title": "Batching and preparing our datasets (to make them run fast) (13:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31584661",
+          "title": "Exploring what happens when we batch and prefetch our data (6:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31584659",
+          "title": "Creating modelling callbacks for our feature extraction model (7:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32693682",
+          "title": "Note: Mixed Precision producing errors for TensorFlow 2.5+"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31584660",
+          "title": "Turning on mixed precision training with TensorFlow (10:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31584662",
+          "title": "Creating a feature extraction model capable of using mixed precision training (12:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31585710",
+          "title": "Checking to see if our model is using mixed precision training layer by layer (7:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31585711",
+          "title": "Training and evaluating a feature extraction model (Food Vision Big™) (10:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31586420",
+          "title": "Introducing your Milestone Project 1 challenge: build a model to beat DeepFood (7:47)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31646387",
+          "title": "Milestone Project 1: Food Vision Big™, exercises and extra-curriculum"
+        }
+      ]
+    },
+    {
+      "title": "NLP Fundamentals in TensorFlow",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32275282",
+          "title": "Welcome to natural language processing with TensorFlow!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32087734",
+          "title": "Introduction to Natural Language Processing (NLP) and Sequence Problems (12:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32087735",
+          "title": "Example NLP inputs and outputs (7:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32087737",
+          "title": "The typical architecture of a Recurrent Neural Network (RNN) (9:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32087738",
+          "title": "Preparing a notebook for our first NLP with TensorFlow project (8:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32087739",
+          "title": "Becoming one with the data and visualizing a text dataset (16:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32087740",
+          "title": "Splitting data into training and validation sets (6:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32089671",
+          "title": "Converting text data to numbers using tokenisation and embeddings (overview) (9:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32102737",
+          "title": "Setting up a TensorFlow TextVectorization layer to convert text to numbers (17:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32165576",
+          "title": "Mapping the TextVectorization layer to text data and turning it into numbers (11:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32172387",
+          "title": "Creating an Embedding layer to turn tokenised text into embedding vectors (12:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32172388",
+          "title": "Discussing the various modelling experiments we're going to run (8:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32172385",
+          "title": "Model 0: Building a baseline model to try and improve upon (9:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32179923",
+          "title": "Creating a function to track and evaluate our model's results (12:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32197595",
+          "title": "Model 1: Building, fitting and evaluating our first deep model on text data (20:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32225539",
+          "title": "Visualizing our model's learned word embeddings with TensorFlow's projector tool (20:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32237881",
+          "title": "High-level overview of Recurrent Neural Networks (RNNs) + where to learn more (9:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32237879",
+          "title": "Model 2: Building, fitting and evaluating our first TensorFlow RNN model (LSTM) (18:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32237882",
+          "title": "Model 3: Building, fitting and evaluating a GRU-cell powered RNN (16:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32260990",
+          "title": "Model 4: Building, fitting and evaluating a bidirectional RNN model (19:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32266052",
+          "title": "Discussing the intuition behind Conv1D neural networks for text and sequences (19:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32266048",
+          "title": "Model 5: Building, fitting and evaluating a 1D CNN for text (9:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32266049",
+          "title": "Using TensorFlow Hub for pretrained word embeddings (transfer learning for NLP) (13:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32109093",
+          "title": "Model 6: Building, training and evaluating a transfer learning model for NLP (10:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32109094",
+          "title": "Preparing subsets of data for model 7 (same as model 6 but 10% of data) (10:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32116416",
+          "title": "Model 7: Building, training and evaluating a transfer learning model on 10% data (10:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32122269",
+          "title": "Fixing our data leakage issue with model 7 and retraining it (13:42)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32109097",
+          "title": "Comparing all our modelling experiments evaluation metrics (13:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32109099",
+          "title": "Uploading our model's training logs to TensorBoard and comparing them (11:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32116417",
+          "title": "Saving and loading in a trained NLP model with TensorFlow (10:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32127154",
+          "title": "Downloading a pretrained model and preparing data to investigate predictions (13:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32127155",
+          "title": "Visualizing our model's most wrong predictions (8:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32127156",
+          "title": "Making and visualizing predictions on the test dataset (8:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32127157",
+          "title": "Understanding the concept of the speed/score tradeoff (15:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32275379",
+          "title": "NLP Fundamentals in TensorFlow challenge, exercises and extra-curriculum"
+        }
+      ]
+    },
+    {
+      "title": "Milestone Project 2: SkimLit",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32147612",
+          "title": "Introduction to Milestone Project 2: SkimLit (14:20)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32147613",
+          "title": "What we're going to cover in Milestone Project 2 (NLP for medical abstracts) (7:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32147615",
+          "title": "SkimLit inputs and outputs (11:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32158536",
+          "title": "Setting up our notebook for Milestone Project 2 (getting the data) (14:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32160531",
+          "title": "Visualizing examples from the dataset (becoming one with the data) (13:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32162047",
+          "title": "Writing a preprocessing function to structure our data for modelling (19:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32160842",
+          "title": "Performing visual data analysis on our preprocessed text (7:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32160979",
+          "title": "Turning our target labels into numbers (ML models require numbers) (13:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32161114",
+          "title": "Model 0: Creating, fitting and evaluating a baseline model for SkimLit (9:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32161191",
+          "title": "Preparing our data for deep sequence models (9:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32161447",
+          "title": "Creating a text vectoriser to map our tokens (text) to numbers (14:07)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32252454",
+          "title": "Creating a custom token embedding layer with TensorFlow (9:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32252458",
+          "title": "Creating fast loading dataset with the TensorFlow tf.data API (9:49)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32282329",
+          "title": "Model 1: Building, fitting and evaluating a Conv1D with token embeddings (17:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32282327",
+          "title": "Preparing a pretrained embedding layer from TensorFlow Hub for Model 2 (10:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32284597",
+          "title": "Model 2: Building, fitting and evaluating a Conv1D model with token embeddings (11:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32284598",
+          "title": "Creating a character-level tokeniser with TensorFlow's TextVectorization layer (23:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32291754",
+          "title": "Creating a character-level embedding layer with tf.keras.layers.Embedding (7:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32291752",
+          "title": "Model 3: Building, fitting and evaluating a Conv1D model on character embeddings (13:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32291753",
+          "title": "Discussing how we're going to build Model 4 (character + token embeddings) (6:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32275395",
+          "title": "Model 4: Building a multi-input model (hybrid token + character embeddings) (15:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32282331",
+          "title": "Model 4: Plotting and visually exploring different data inputs (7:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32282332",
+          "title": "Crafting multi-input fast loading tf.data datasets for Model 4 (8:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32283076",
+          "title": "Model 4: Building, fitting and evaluating a hybrid embedding model (13:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32291756",
+          "title": "Model 5: Adding positional embeddings via feature engineering (overview) (7:18)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32284601",
+          "title": "Encoding the line number feature to used with Model 5 (12:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32284602",
+          "title": "Encoding the total lines feature to be used with Model 5 (7:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32291577",
+          "title": "Model 5: Building the foundations of a tribrid embedding model (9:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32293454",
+          "title": "Model 5: Completing the build of a tribrid embedding model for sequences (14:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32282334",
+          "title": "Visually inspecting the architecture of our tribrid embedding model (10:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32282335",
+          "title": "Creating multi-level data input pipelines for Model 5 with the tf.data API (9:00)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32291776",
+          "title": "Bringing SkimLit to life!!! (fitting and evaluating Model 5) (10:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32293453",
+          "title": "Comparing the performance of all of our modelling experiments (9:36)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32293462",
+          "title": "Saving, loading & testing our best performing model (7:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32294456",
+          "title": "Congratulations and your challenge before heading to the next module (12:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/32294443",
+          "title": "Milestone Project 2 (SkimLit) challenge, exercises and extra-curriculum"
+        }
+      ]
+    },
+    {
+      "title": "Time Series fundamentals in TensorFlow + Milestone Project 3: BitPredict",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33221526",
+          "title": "Welcome to time series fundamentals with TensorFlow + Milestone Project 3!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33212674",
+          "title": "Introduction to Milestone Project 3 (BitPredict) & where you can get help (3:53)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33212752",
+          "title": "What is a time series problem and example forecasting problems at Uber (7:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33227755",
+          "title": "Example forecasting problems in daily life (4:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33227756",
+          "title": "What can be forecast? (7:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33227757",
+          "title": "What we're going to cover (broadly) (2:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33234166",
+          "title": "Time series forecasting inputs and outputs (8:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33234167",
+          "title": "Downloading and inspecting our Bitcoin historical dataset (14:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33234832",
+          "title": "Different kinds of time series patterns & different amounts of feature variables (7:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33234833",
+          "title": "Visualizing our Bitcoin historical data with pandas (4:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33234836",
+          "title": "Reading in our Bitcoin data with Python's CSV module (10:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33234837",
+          "title": "Creating train and test splits for time series (the wrong way) (8:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33370728",
+          "title": "Creating train and test splits for time series (the right way) (7:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33370731",
+          "title": "Creating a plotting function to visualize our time series data (7:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33370761",
+          "title": "Discussing the various modelling experiments were going to be running (9:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33370763",
+          "title": "Model 0: Making and visualizing a naive forecast model (12:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33370766",
+          "title": "Discussing some of the most common time series evaluation metrics (11:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33370769",
+          "title": "Implementing MASE with TensorFlow (9:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33370770",
+          "title": "Creating a function to evaluate our model's forecasts with various metrics (10:11)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33370772",
+          "title": "Discussing other non-TensorFlow kinds of time series forecasting models (5:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33370775",
+          "title": "Formatting data Part 2: Creating a function to label our windowed time series (13:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33362351",
+          "title": "Discussing the use of windows and horizons in time series data (7:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33370778",
+          "title": "Writing a preprocessing function to turn time series data into windows & labels (23:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33370780",
+          "title": "Turning our windowed time series data into training and test sets (10:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33388543",
+          "title": "Creating a modelling checkpoint callback to save our best performing model (7:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33393633",
+          "title": "Model 1: Building, compiling and fitting a deep learning model on Bitcoin data (16:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33393637",
+          "title": "Creating a function to make predictions with our trained models (14:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33408176",
+          "title": "Model 2: Building, fitting and evaluating a deep model with a larger window size-27 (17:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33437372",
+          "title": "Model 3: Building, fitting and evaluating a model with a larger horizon size (13:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33439381",
+          "title": "Adjusting the evaluation function to work for predictions with larger horizons (8:34)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33452291",
+          "title": "Model 3: Visualizing the results (8:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33379307",
+          "title": "Comparing our modelling experiments so far and discussing autocorrelation (9:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33399242",
+          "title": "Preparing data for building a Conv1D model (13:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33414728",
+          "title": "Model 4: Building, fitting and evaluating a Conv1D model on our Bitcoin data (14:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33416825",
+          "title": "Model 5: Building, fitting and evaluating a LSTM (RNN) model on our Bitcoin data (16:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33423933",
+          "title": "Investigating how to turn our univariate time series into multivariate (13:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33478743",
+          "title": "Creating and plotting a multivariate time series with BTC price and block reward (12:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33478754",
+          "title": "Preparing our multivariate time series for a model (13:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33478757",
+          "title": "Model 6: Building, fitting and evaluating a multivariate time series model (9:25)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33478760",
+          "title": "Model 7: Discussing what we're going to be doing with the N-BEATS algorithm (9:39)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33478761",
+          "title": "Model 7: Replicating the N-BEATS basic block with TensorFlow layer subclassing (18:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33471294",
+          "title": "Model 7: Testing our N-BEATS block implementation with dummy data inputs (15:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33472004",
+          "title": "Model 7: Creating a performant data pipeline for the N-BEATS model with tf.data (14:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33478768",
+          "title": "Model 7: Setting up hyperparameters for the N-BEATS algorithm (8:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33485467",
+          "title": "Model 7: Getting ready for residual connections (12:55)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33485469",
+          "title": "Model 7: Outlining the steps we're going to take to build the N-BEATS model (10:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33488396",
+          "title": "Model 7: Putting together the pieces of the puzzle of the N-BEATS model (22:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33485730",
+          "title": "Model 7: Plotting the N-BEATS algorithm we've created and admiring its beauty (6:46)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33488398",
+          "title": "Model 8: Ensemble model overview (4:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33488399",
+          "title": "Model 8: Building, compiling and fitting an ensemble of models (20:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33488401",
+          "title": "Model 8: Making and evaluating predictions with our ensemble model (16:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33488403",
+          "title": "Discussing the importance of prediction intervals in forecasting (12:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33488405",
+          "title": "Getting the upper and lower bounds of our prediction intervals (7:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33499818",
+          "title": "Plotting the prediction intervals of our ensemble model predictions (13:02)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33500375",
+          "title": "(Optional) Discussing the types of uncertainty in machine learning (13:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33500604",
+          "title": "Model 9: Preparing data to create a model capable of predicting into the future (8:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33500719",
+          "title": "Model 9: Building, compiling and fitting a future predictions model (5:01)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33507270",
+          "title": "Model 9: Discussing what's required for our model to make future predictions (8:30)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33507402",
+          "title": "Model 9: Creating a function to make forecasts into the future (12:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33507408",
+          "title": "Model 9: Plotting our model's future forecasts (13:09)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33507412",
+          "title": "Model 10: Introducing the turkey problem and making data for it (14:15)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33507426",
+          "title": "Model 10: Building a model to predict on turkey data (why forecasting is BS) (13:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33512272",
+          "title": "Comparing the results of all of our models and discussing where to go next (12:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33540202",
+          "title": "TensorFlow Time Series Fundamentals Challenge and Extra Resources"
+        }
+      ]
+    },
+    {
+      "title": "Passing the TensorFlow Developer Certificate Exam",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33553172",
+          "title": "Get ready to be TensorFlow Developer Certified!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33530545",
+          "title": "What is the TensorFlow Developer Certification? (5:28)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33530548",
+          "title": "Why the TensorFlow Developer Certification? (6:57)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33530550",
+          "title": "How to prepare (your brain) for the TensorFlow Developer Certification (8:14)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33530560",
+          "title": "How to prepare (your computer) for the TensorFlow Developer Certification (12:43)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/33530566",
+          "title": "What to do after the TensorFlow Developer Certification exam (2:13)"
+        }
+      ]
+    },
+    {
+      "title": "Where To Go From Here?",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/37423954",
+          "title": "Thank You! (1:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/37576762",
+          "title": "Review This Course!"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30631257",
+          "title": "Become An Alumni"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30631258",
+          "title": "LinkedIn Endorsements"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30631260",
+          "title": "TensorFlow Certificate"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/37619346",
+          "title": "Learning Guideline"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Machine Learning Primer",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30631517",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30566287",
+          "title": "What is Machine Learning? (6:52)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30566284",
+          "title": "AI/Machine Learning/Data Science (4:51)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30566283",
+          "title": "Exercise: Machine Learning Playground (6:16)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30566285",
+          "title": "How Did We Get Here? (6:03)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30566288",
+          "title": "Exercise: YouTube Recommendation Engine (4:24)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30566286",
+          "title": "Types of Machine Learning (4:41)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30566312",
+          "title": "Are You Getting It Yet?"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30566313",
+          "title": "What Is Machine Learning? Round 2 (4:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30566282",
+          "title": "Section Review (1:48)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Machine Learning and Data Science Framework",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30631547",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30566340",
+          "title": "Section Overview (3:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567647",
+          "title": "Introducing Our Framework (2:38)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567653",
+          "title": "6 Step Machine Learning Framework (4:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567654",
+          "title": "Types of Machine Learning Problems (10:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567656",
+          "title": "Types of Data (4:50)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567658",
+          "title": "Types of Evaluation (3:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567655",
+          "title": "Features In Data (5:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567649",
+          "title": "Modelling - Splitting Data (5:58)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567650",
+          "title": "Modelling - Picking the Model (4:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567648",
+          "title": "Modelling - Tuning (3:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567652",
+          "title": "Modelling - Comparison (9:32)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567733",
+          "title": "Overfitting and Underfitting Definitions"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567651",
+          "title": "Experimentation (3:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567657",
+          "title": "Tools We Will Use (3:59)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30567738",
+          "title": "Optional: Elements of AI(document)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: Pandas for Data Analysis",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30631546",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568841",
+          "title": "Section Overview (2:27)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568840",
+          "title": "Downloading Workbooks and Assignments"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568826",
+          "title": "Pandas Introduction (4:29)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568823",
+          "title": "Series, Data Frames and CSVs (13:21)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568842",
+          "title": "Data from URLs"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568828",
+          "title": "Describing Data with Pandas (9:48)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568830",
+          "title": "Selecting and Viewing Data with Pandas (11:08)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568825",
+          "title": "Selecting and Viewing Data with Pandas Part 2 (13:06)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568824",
+          "title": "Manipulating Data (13:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568829",
+          "title": "Manipulating Data 2 (9:56)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568827",
+          "title": "Manipulating Data 3 (10:12)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568846",
+          "title": "Assignment: Pandas Practice"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/31214301",
+          "title": "How To Download The Course Assignments (7:43)"
+        }
+      ]
+    },
+    {
+      "title": "Appendix: NumPy",
+      "lectures": [
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30631540",
+          "title": "Quick Note: Upcoming Videos"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568932",
+          "title": "Section Overview (2:40)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569432",
+          "title": "NumPy Introduction (5:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568951",
+          "title": "Quick Note: Correction In Next Video"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569437",
+          "title": "NumPy DataTypes and Attributes (14:05)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569433",
+          "title": "Creating NumPy Arrays (9:22)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569427",
+          "title": "NumPy Random Seed (7:17)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569434",
+          "title": "Viewing Arrays and Matrices (9:35)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569429",
+          "title": "Manipulating Arrays (11:31)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569431",
+          "title": "Manipulating Arrays 2 (9:44)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569440",
+          "title": "Standard Deviation and Variance (7:10)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569438",
+          "title": "Reshape and Transpose (7:26)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569435",
+          "title": "Dot Product vs Element Wise (11:45)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569436",
+          "title": "Exercise: Nut Butter Store Sales (13:04)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569428",
+          "title": "Comparison Operators (3:33)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569430",
+          "title": "Sorting Arrays (6:19)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30569439",
+          "title": "Turn Images Into NumPy Arrays (7:37)"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568952",
+          "title": "Assignment: NumPy Practice"
+        },
+        {
+          "url": "https://academy.zerotomastery.io/courses/1240775/lectures/30568954",
+          "title": "Optional: Extra NumPy resources"
+        }
+      ]
+    }
+  ]
+}
