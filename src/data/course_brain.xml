@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BrainData SYSTEM "http://www.thebrain.com/dtd/BrainData1.dtd">
+<BrainData>
+    <Source>
+        <guid>FF6B0CFD-E88F-74E9-F97E-017BB367829F</guid>
+        <name>course brain</name>
+        <personalBrainVersion>8022</personalBrainVersion>
+        <telepathyVersion>10</telepathyVersion>
+        <fileRoot>C:\Users\wei\Documents\course brain_brain\Files</fileRoot>
+        <generatedDateTime>2022-02-09 23:46:23.455 @+0800</generatedDateTime>
+        <homeThoughtGuid>808C9DD1-F9A3-5A86-B45E-2B97DBA05A6C</homeThoughtGuid>
+        <modificationDateTime>2022-02-09 23:45:38.503 @+0800</modificationDateTime>
+    </Source>
+    <Attributes>
+        <Attribute>
+            <guid>googleCalendarSyncDate</guid>
+            <name>googleCalendarSyncDate</name>
+            <creationDateTime>2022-02-09 23:45:39.002 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:39.002 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>3</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>calendarExclusionHref_Event</guid>
+            <name>calendarExclusionHref_Event</name>
+            <creationDateTime>2022-02-09 23:45:39.002 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:39.002 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>3</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>eventLastEndDate_Event</guid>
+            <name>eventLastEndDate_Event</name>
+            <creationDateTime>2022-02-09 23:45:38.989 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:38.989 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>2</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>percentComplete_Event</guid>
+            <name>percentComplete_Event</name>
+            <creationDateTime>2022-02-09 23:45:38.989 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:38.989 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>1</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>repeatType_Event</guid>
+            <name>repeatType_Event</name>
+            <creationDateTime>2022-02-09 23:45:38.990 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:38.990 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>1</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>priority_Event</guid>
+            <name>priority_Event</name>
+            <creationDateTime>2022-02-09 23:45:38.990 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:38.990 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>1</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>reminderDate_Event</guid>
+            <name>reminderDate_Event</name>
+            <creationDateTime>2022-02-09 23:45:38.991 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:38.991 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>2</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>startDate_Event</guid>
+            <name>startDate_Event</name>
+            <creationDateTime>2022-02-09 23:45:38.991 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:38.991 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>2</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>status_Event</guid>
+            <name>status_Event</name>
+            <creationDateTime>2022-02-09 23:45:38.991 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:38.991 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>1</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>eventRepeatOption_Event</guid>
+            <name>eventRepeatOption_Event</name>
+            <creationDateTime>2022-02-09 23:45:38.992 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:38.992 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>3</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>whereText_Event</guid>
+            <name>whereText_Event</name>
+            <creationDateTime>2022-02-09 23:45:38.999 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:38.999 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>3</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>originalStartDate_Event</guid>
+            <name>originalStartDate_Event</name>
+            <creationDateTime>2022-02-09 23:45:38.999 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:38.999 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>2</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>lengthBasedType_Event</guid>
+            <name>lengthBasedType_Event</name>
+            <creationDateTime>2022-02-09 23:45:39.000 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:39.000 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>3</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>eventReminderType_Event</guid>
+            <name>eventReminderType_Event</name>
+            <creationDateTime>2022-02-09 23:45:39.000 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:39.000 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>1</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>showHintInPlex_Tag</guid>
+            <name>showHintInPlex_Tag</name>
+            <creationDateTime>2022-02-09 23:45:39.000 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:39.000 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>3</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>calendarExclusionDate_Event</guid>
+            <name>calendarExclusionDate_Event</name>
+            <creationDateTime>2022-02-09 23:45:39.001 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:45:39.001 @+0800</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>2</dataType>
+        </Attribute>
+    </Attributes>
+    <Thoughts>
+        <Thought>
+            <guid>808C9DD1-F9A3-5A86-B45E-2B97DBA05A6C</guid>
+            <name>Course Brain</name>
+            <label></label>
+            <creationDateTime>2022-02-09 23:45:38.502 @+0800</creationDateTime>
+            <realModificationDateTime>2022-02-09 23:45:38.502 @+0800</realModificationDateTime>
+            <displayModificationDateTime>2022-02-09 23:46:02.273 @+0800</displayModificationDateTime>
+            <activationDateTime>2022-02-09 23:45:38.502 @+0800</activationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+    </Thoughts>
+    <Links/>
+    <AttributeDatas/>
+    <Entries>
+        <Entry>
+            <guid>4E5AF4CC-CFB3-F571-BA71-EA61C1EBDA85</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>808C9DD1-F9A3-5A86-B45E-2B97DBA05A6C</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body></body>
+            <format>HTML</format>
+            <creationDateTime>2022-02-09 23:46:02.265 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:46:02.265 @+0800</modificationDateTime>
+        </Entry>
+    </Entries>
+    <Attachments>
+        <Attachment>
+            <guid>7B143263-9C26-6129-4967-58AAA5BEEF54</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>4E5AF4CC-CFB3-F571-BA71-EA61C1EBDA85</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>808C9DD1-F9A3-5A86-B45E-2B97DBA05A6C</objectID>
+            <name>baidu</name>
+            <attachmentType>3</attachmentType>
+            <location>http://www.baidu.com</location>
+            <dataLength>0</dataLength>
+            <format>.com</format>
+            <creationDateTime>2022-02-09 23:46:02.270 @+0800</creationDateTime>
+            <modificationDateTime>2022-02-09 23:46:02.270 @+0800</modificationDateTime>
+        </Attachment>
+    </Attachments>
+</BrainData>
