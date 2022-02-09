@@ -13,7 +13,7 @@ import { generateXMLStringFromRootElement } from '../xmlbuilder/xmlBuilderUtil';
 import { Course } from './Course';
 import { checkIsCourseJsonString } from './courseUtils';
 
-function parseCourseFromJSON(courseJsonString: string) {
+export function parseCourseFromJSON(courseJsonString: string) {
   const [isCourse, json] = checkIsCourseJsonString(courseJsonString);
 
   return isCourse ? plainToClass(Course, [json])[0] : null;

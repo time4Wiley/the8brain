@@ -266,4 +266,15 @@ export class TheBrain8 implements IRawParams {
       brainName
     );
   }
+
+  mergeWithBrain(aBrain: TheBrain8) {
+    this.thoughts.push(...aBrain.thoughts);
+    this.attributes.push(...aBrain.attributes);
+    this.links.push(...aBrain.links);
+    this.attributeDatas.push(...aBrain.attributeDatas);
+    this.entries.push(...aBrain.entries);
+    this.entryObjects.push(...aBrain.entryObjects);
+    this.attachments.push(...aBrain.attachments);
+    this.attachmentEntries.push(...aBrain.attachmentEntries);
+  }
 }
