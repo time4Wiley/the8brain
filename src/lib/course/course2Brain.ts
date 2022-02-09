@@ -33,7 +33,7 @@ export function createBrainForCourse(course: Course): TheBrain8 {
 
   const courseThought = brain.addThoughtWithTitleLabelURL(
     course.title,
-    '',
+    'a label',
     course.url
   );
 
@@ -90,7 +90,10 @@ export function fromCourseJsonToBrainXML() {
   const root = brain2XML(brain);
 
   const xmlString = generateXMLStringFromRootElement(root);
-  fs.writeFileSync('generated_again.xml', xmlString);
+  fs.writeFileSync(
+    '/Users/wei/Lobby/the8brain/src/data/generated_again.xml',
+    xmlString
+  );
 }
 
 fromCourseJsonToBrainXML();

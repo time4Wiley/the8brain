@@ -19,6 +19,7 @@ export class Entry implements IChildKeyForArrayProperty {
   private childKeyForArrayProperty: { [key: string]: string } = {
     EntryObjects: 'EntryObject',
   };
+  format: string;
 
   public constructor(props?: Entry) {
     if (props) {

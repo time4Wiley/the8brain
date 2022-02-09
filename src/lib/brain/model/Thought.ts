@@ -80,6 +80,8 @@ export class Thought {
     );
     entry.creationDateTime = getNowInTheBrainStringFormat();
     entry.modificationDateTime = getNowInTheBrainStringFormat();
+    entry.body = '';
+    entry.format = 'HTML';
 
     attachment.AttachmentEntries.push(entry.guid);
 
