@@ -8,5 +8,5 @@ export function pbCopy(data: string) {
 }
 
 export function getNowInTheBrainStringFormat() {
-  return moment(new Date()).format('yyyy-MM-DD HH:mm:ss.SSS') + '  @+0800';
+  return moment(new Date()).format('yyyy-MM-DD HH:mm:ss.SSS') + ' @+0800';
 }
