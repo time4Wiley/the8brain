@@ -1,28 +1,30 @@
 import fs from 'fs';
 
 import { plainToClass } from 'class-transformer';
+import { paste } from 'copy-paste';
 
 import 'reflect-metadata';
 import { brain2XML } from '../brain/converters/brain2XML';
 import { TheBrain8 } from '../brain/model/TheBrain8';
 import { Thought } from '../brain/model/Thought';
 import { sleep } from '../utils';
-// import { Thought } from '../brain/model/Thought';
 import { generateXMLStringFromRootElement } from '../xmlbuilder/xmlBuilderUtil';
 
 import { Course } from './Course';
 
-export function getSampleCourse() {
-  const courseJsonFromChrome = JSON.parse(
-    fs.readFileSync(
-      '/Users/wei/Lobby/the8brain/src/data/ztm.sample.json',
-      'utf-8'
-    )
-  );
+function parseCourseFromJSON(courseJsonString: string) {
+  const courseJsonFromChrome = JSON.parse(courseJsonString);
 
   const courses = plainToClass(Course, [courseJsonFromChrome]);
-  const course = courses[0];
-  return course;
+  return courses[0];
+}
+
+export function getSampleCourse() {
+  const courseJsonString = fs.readFileSync(
+    '/Users/wei/Lobby/the8brain/src/data/ztm.sample.json',
+    'utf-8'
+  );
+  return parseCourseFromJSON(courseJsonString);
 }
 
 const course = getSampleCourse();
@@ -63,13 +65,11 @@ export function createBrainForCourse(course: Course): TheBrain8 {
     for (const lecture of section.lectures) {
       sleep(100);
 
-      const lectureThought = brain.addThoughtWithTitleLabelURL(
+      currentLectureThought = brain.addThoughtWithTitleLabelURL(
         lecture.title,
         '',
         lecture.url
       );
-
-      currentLectureThought = lectureThought;
 
       brain.linkParentToChild(currentSectionThought, currentLectureThought);
 
@@ -84,18 +84,42 @@ export function createBrainForCourse(course: Course): TheBrain8 {
   return brain;
 }
 
-export function fromCourseJsonToBrainXML() {
-  const course = getSampleCourse();
-
+function courseToBrainXMLAtPath(course: Course, path: string) {
   const brain = createBrainForCourse(course);
 
   const root = brain2XML(brain);
 
   const xmlString = generateXMLStringFromRootElement(root);
-  fs.writeFileSync(
-    '/Users/wei/Lobby/the8brain/src/data/generated_again.xml',
-    xmlString
-  );
+  fs.writeFileSync(path, xmlString);
 }
 
-fromCourseJsonToBrainXML();
+export function fromCourseJsonToBrainXML(path: string) {
+  const course = getSampleCourse();
+
+  courseToBrainXMLAtPath(course, path);
+}
+
+// fromCourseJsonToBrainXML();
+function isJsonString(str: string): boolean {
+  try {
+    JSON.parse(str);
+  } catch (e) {
+    return false;
+  }
+  return true;
+}
+
+function fromClipboardJsonToBrainXML(xmlPath: string) {
+  const content = paste();
+
+  if (!isJsonString(content)) {
+    return;
+  }
+
+  const course = parseCourseFromJSON(content);
+
+  courseToBrainXMLAtPath(course, xmlPath);
+}
+
+const xmlPath = '/Users/wei/Lobby/the8brain/src/data/generated_again.xml';
+fromClipboardJsonToBrainXML(xmlPath);
