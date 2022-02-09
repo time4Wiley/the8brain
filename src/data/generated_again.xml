@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE BrainData>
+<BrainData>
+  <Source>
+    <guid>1cf962ad-bb99-45e9-b9dc-5bec8a5634ff</guid>
+    <name>course brain</name>
+    <homeThoughtGuid>fffed353-3439-45d9-b31c-0cf95c23f375</homeThoughtGuid>
+    <generatedDateTime>2022-02-10 00:01:19.498  @+0800</generatedDateTime>
+    <modificationDateTime>2022-02-10 00:01:19.498  @+0800</modificationDateTime>
+    <personalBrainVersion>8022</personalBrainVersion>
+    <telepathyVersion>10</telepathyVersion>
+  </Source>
+  <Attributes/>
+  <Thoughts>
+    <Thought>
+      <name>a ZTM course: L2L</name>
+      <guid>fffed353-3439-45d9-b31c-0cf95c23f375</guid>
+      <creationDateTime>2022-02-10 00:01:19.494  @+0800</creationDateTime>
+      <realModificationDateTime>2022-02-10 00:01:19.497  @+0800</realModificationDateTime>
+      <displayModificationDateTime>2022-02-10 00:01:19.497  @+0800</displayModificationDateTime>
+      <label>dummy label</label>
+    </Thought>
+  </Thoughts>
+  <Links/>
+  <Entries>
+    <Entry>
+      <EntryObjects>
+        <EntryObject>
+          <objectType>0</objectType>
+          <objectID>fffed353-3439-45d9-b31c-0cf95c23f375</objectID>
+        </EntryObject>
+      </EntryObjects>
+      <guid>652c4de9-1491-4475-99d9-ace38739620c</guid>
+      <creationDateTime>2022-02-10 00:01:19.498  @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 00:01:19.498  @+0800</modificationDateTime>
+      <body/>
+      <format>HTML</format>
+    </Entry>
+  </Entries>
+  <Attachments>
+    <Attachment>
+      <AttachmentEntries>
+        <AttachmentEntryID>652c4de9-1491-4475-99d9-ace38739620c</AttachmentEntryID>
+      </AttachmentEntries>
+      <attachmentType>3</attachmentType>
+      <location>http://zerotomastery.io</location>
+      <creationDateTime>2022-02-10 00:01:19.497  @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 00:01:19.497  @+0800</modificationDateTime>
+      <format>.com</format>
+      <guid>87e9de11-dc42-457e-804a-79dcf56cb6e1</guid>
+      <name>attachment name</name>
+      <objectID>fffed353-3439-45d9-b31c-0cf95c23f375</objectID>
+    </Attachment>
+  </Attachments>
+</BrainData>
