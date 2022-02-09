@@ -7,7 +7,7 @@ import 'reflect-metadata';
 import { brain2XML } from '../brain/converters/brain2XML';
 import { TheBrain8 } from '../brain/model/TheBrain8';
 import { Thought } from '../brain/model/Thought';
-import { sleep } from '../utils';
+import { isJsonString, sleep } from '../utils';
 import { generateXMLStringFromRootElement } from '../xmlbuilder/xmlBuilderUtil';
 
 import { Course } from './Course';
@@ -97,16 +97,6 @@ export function fromCourseJsonToBrainXML(path: string) {
   const course = getSampleCourse();
 
   courseToBrainXMLAtPath(course, path);
-}
-
-// fromCourseJsonToBrainXML();
-function isJsonString(str: string): boolean {
-  try {
-    JSON.parse(str);
-  } catch (e) {
-    return false;
-  }
-  return true;
 }
 
 function fromClipboardJsonToBrainXML(xmlPath: string) {

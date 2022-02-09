@@ -1,6 +1,7 @@
 import { spawn } from 'child_process';
 
 import moment from 'moment';
+
 export function pbCopy(data: string) {
   const proc = spawn('pbcopy');
   proc.stdin.write(data);
@@ -18,4 +19,13 @@ export function sleep(milliseconds: number) {
       break;
     }
   }
+}
+
+export function isJsonString(str: string): boolean {
+  try {
+    JSON.parse(str);
+  } catch (e) {
+    return false;
+  }
+  return true;
 }
