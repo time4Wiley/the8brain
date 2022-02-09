@@ -2,11 +2,11 @@
 <!DOCTYPE BrainData>
 <BrainData>
   <Source>
-    <guid>e56abb3d-94f7-40e8-a944-44651d1cbe89</guid>
+    <guid>78f8743a-5d78-47fa-8b96-6d2abadeff95</guid>
     <name>course brain</name>
-    <homeThoughtGuid>88a46f81-4c42-4f26-ba6b-e304dcbf410f</homeThoughtGuid>
-    <generatedDateTime>2022-02-10 04:36:11.249 @+0800</generatedDateTime>
-    <modificationDateTime>2022-02-10 04:36:11.249 @+0800</modificationDateTime>
+    <homeThoughtGuid>f1296f23-9604-4a3a-99a7-21258726163b</homeThoughtGuid>
+    <generatedDateTime>2022-02-10 04:59:36.509 @+0800</generatedDateTime>
+    <modificationDateTime>2022-02-10 04:59:36.509 @+0800</modificationDateTime>
     <personalBrainVersion>8022</personalBrainVersion>
     <telepathyVersion>10</telepathyVersion>
     <fileRoot>/Users/wei/temp/</fileRoot>
@@ -15,147 +15,148 @@
   <Thoughts>
     <Thought>
       <name>Future-Proof Yourself</name>
-      <guid>88a46f81-4c42-4f26-ba6b-e304dcbf410f</guid>
-      <creationDateTime>2022-02-10 04:36:11.242 @+0800</creationDateTime>
-      <realModificationDateTime>2022-02-10 04:36:11.247 @+0800</realModificationDateTime>
-      <displayModificationDateTime>2022-02-10 04:36:11.248 @+0800</displayModificationDateTime>
+      <label>dummy label</label>
+      <guid>f1296f23-9604-4a3a-99a7-21258726163b</guid>
+      <creationDateTime>2022-02-10 04:59:36.503 @+0800</creationDateTime>
+      <realModificationDateTime>2022-02-10 04:59:36.508 @+0800</realModificationDateTime>
+      <displayModificationDateTime>2022-02-10 04:59:36.508 @+0800</displayModificationDateTime>
       <isType>0</isType>
       <color>0</color>
       <accessControlType>0</accessControlType>
-      <activationDateTime>2022-02-10 04:36:11.248 @+0800</activationDateTime>
-      <label>dummy label</label>
+      <activationDateTime>2022-02-10 04:59:36.508 @+0800</activationDateTime>
     </Thought>
     <Thought>
       <name>Future Proof Yourself Workshop (with Andrei Neagoie)</name>
-      <guid>ea1d487c-fc5b-4d4a-a2d5-e32baf6ab980</guid>
-      <creationDateTime>2022-02-10 04:36:11.350 @+0800</creationDateTime>
-      <realModificationDateTime>2022-02-10 04:36:11.350 @+0800</realModificationDateTime>
-      <displayModificationDateTime>2022-02-10 04:36:11.350 @+0800</displayModificationDateTime>
+      <label>ZTM, FPY</label>
+      <guid>956e9291-26f6-4c5b-9cf6-25491dcc116d</guid>
+      <creationDateTime>2022-02-10 04:59:36.610 @+0800</creationDateTime>
+      <realModificationDateTime>2022-02-10 04:59:36.610 @+0800</realModificationDateTime>
+      <displayModificationDateTime>2022-02-10 04:59:36.610 @+0800</displayModificationDateTime>
       <isType>0</isType>
       <color>0</color>
       <accessControlType>0</accessControlType>
-      <activationDateTime>2022-02-10 04:36:11.350 @+0800</activationDateTime>
+      <activationDateTime>2022-02-10 04:59:36.610 @+0800</activationDateTime>
     </Thought>
     <Thought>
       <name>Part 1 - Big Picture (18:50)</name>
-      <guid>48ee4af9-4f6e-4885-8328-2e14eae42b40</guid>
-      <creationDateTime>2022-02-10 04:36:11.451 @+0800</creationDateTime>
-      <realModificationDateTime>2022-02-10 04:36:11.451 @+0800</realModificationDateTime>
-      <displayModificationDateTime>2022-02-10 04:36:11.451 @+0800</displayModificationDateTime>
+      <label>dummy label</label>
+      <guid>55e4b6fd-e1bc-4981-a73a-2373b5b022ce</guid>
+      <creationDateTime>2022-02-10 04:59:36.711 @+0800</creationDateTime>
+      <realModificationDateTime>2022-02-10 04:59:36.711 @+0800</realModificationDateTime>
+      <displayModificationDateTime>2022-02-10 04:59:36.711 @+0800</displayModificationDateTime>
       <isType>0</isType>
       <color>0</color>
       <accessControlType>0</accessControlType>
-      <activationDateTime>2022-02-10 04:36:11.451 @+0800</activationDateTime>
-      <label>dummy label</label>
+      <activationDateTime>2022-02-10 04:59:36.711 @+0800</activationDateTime>
     </Thought>
     <Thought>
       <name>Part 2 - This Year (10:59)</name>
-      <guid>9de53834-84b6-4f7c-bb47-326fa624e64b</guid>
-      <creationDateTime>2022-02-10 04:36:11.553 @+0800</creationDateTime>
-      <realModificationDateTime>2022-02-10 04:36:11.553 @+0800</realModificationDateTime>
-      <displayModificationDateTime>2022-02-10 04:36:11.553 @+0800</displayModificationDateTime>
+      <label>dummy label</label>
+      <guid>2e387118-1b58-4402-ba54-b4e23e75da33</guid>
+      <creationDateTime>2022-02-10 04:59:36.813 @+0800</creationDateTime>
+      <realModificationDateTime>2022-02-10 04:59:36.813 @+0800</realModificationDateTime>
+      <displayModificationDateTime>2022-02-10 04:59:36.813 @+0800</displayModificationDateTime>
       <isType>0</isType>
       <color>0</color>
       <accessControlType>0</accessControlType>
-      <activationDateTime>2022-02-10 04:36:11.553 @+0800</activationDateTime>
-      <label>dummy label</label>
+      <activationDateTime>2022-02-10 04:59:36.813 @+0800</activationDateTime>
     </Thought>
     <Thought>
       <name>Part 3 - Extra Bits (11:32)</name>
-      <guid>7a9a42d9-df18-4fb7-9f3b-17e635a05607</guid>
-      <creationDateTime>2022-02-10 04:36:11.654 @+0800</creationDateTime>
-      <realModificationDateTime>2022-02-10 04:36:11.654 @+0800</realModificationDateTime>
-      <displayModificationDateTime>2022-02-10 04:36:11.654 @+0800</displayModificationDateTime>
+      <label>dummy label</label>
+      <guid>668193b7-d8b3-4925-b9e0-9e791e994d80</guid>
+      <creationDateTime>2022-02-10 04:59:36.914 @+0800</creationDateTime>
+      <realModificationDateTime>2022-02-10 04:59:36.914 @+0800</realModificationDateTime>
+      <displayModificationDateTime>2022-02-10 04:59:36.914 @+0800</displayModificationDateTime>
       <isType>0</isType>
       <color>0</color>
       <accessControlType>0</accessControlType>
-      <activationDateTime>2022-02-10 04:36:11.654 @+0800</activationDateTime>
-      <label>dummy label</label>
+      <activationDateTime>2022-02-10 04:59:36.914 @+0800</activationDateTime>
     </Thought>
   </Thoughts>
   <Links>
     <Link>
-      <guid>dcfbcd5c-8594-4404-8382-d6e8e4e46cff</guid>
-      <idA>88a46f81-4c42-4f26-ba6b-e304dcbf410f</idA>
-      <idB>ea1d487c-fc5b-4d4a-a2d5-e32baf6ab980</idB>
+      <guid>4ed7d824-ee38-40e9-8779-91a10f659453</guid>
+      <idA>f1296f23-9604-4a3a-99a7-21258726163b</idA>
+      <idB>956e9291-26f6-4c5b-9cf6-25491dcc116d</idB>
       <isBackward>0</isBackward>
       <isType>0</isType>
       <color>0</color>
       <thickness>0</thickness>
       <strength>0</strength>
       <meaning>0</meaning>
-      <creationDateTime>2022-02-10 04:36:11.350 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.350 @+0800</modificationDateTime>
+      <creationDateTime>2022-02-10 04:59:36.610 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.610 @+0800</modificationDateTime>
       <dir>1</dir>
     </Link>
     <Link>
-      <guid>791db980-6e21-4701-81d9-9fc14ab75d6b</guid>
-      <idA>ea1d487c-fc5b-4d4a-a2d5-e32baf6ab980</idA>
-      <idB>48ee4af9-4f6e-4885-8328-2e14eae42b40</idB>
+      <guid>08737f8b-6a74-4765-b38c-6debd8aa8c49</guid>
+      <idA>956e9291-26f6-4c5b-9cf6-25491dcc116d</idA>
+      <idB>55e4b6fd-e1bc-4981-a73a-2373b5b022ce</idB>
       <isBackward>0</isBackward>
       <isType>0</isType>
       <color>0</color>
       <thickness>0</thickness>
       <strength>0</strength>
       <meaning>0</meaning>
-      <creationDateTime>2022-02-10 04:36:11.451 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.451 @+0800</modificationDateTime>
+      <creationDateTime>2022-02-10 04:59:36.711 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.711 @+0800</modificationDateTime>
       <dir>1</dir>
     </Link>
     <Link>
-      <guid>62f7d4e4-99b3-428a-9c76-c1fdf2061e92</guid>
-      <idA>ea1d487c-fc5b-4d4a-a2d5-e32baf6ab980</idA>
-      <idB>9de53834-84b6-4f7c-bb47-326fa624e64b</idB>
+      <guid>69988ecd-134a-42e4-b46d-3f4b3ff035f0</guid>
+      <idA>956e9291-26f6-4c5b-9cf6-25491dcc116d</idA>
+      <idB>2e387118-1b58-4402-ba54-b4e23e75da33</idB>
       <isBackward>0</isBackward>
       <isType>0</isType>
       <color>0</color>
       <thickness>0</thickness>
       <strength>0</strength>
       <meaning>0</meaning>
-      <creationDateTime>2022-02-10 04:36:11.553 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.553 @+0800</modificationDateTime>
+      <creationDateTime>2022-02-10 04:59:36.813 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.813 @+0800</modificationDateTime>
       <dir>1</dir>
     </Link>
     <Link>
-      <guid>46785fa4-cd60-42b2-a88e-ffeb089484cb</guid>
-      <idA>48ee4af9-4f6e-4885-8328-2e14eae42b40</idA>
-      <idB>9de53834-84b6-4f7c-bb47-326fa624e64b</idB>
+      <guid>03096bf9-4a5b-4309-81f4-12bb662135df</guid>
+      <idA>55e4b6fd-e1bc-4981-a73a-2373b5b022ce</idA>
+      <idB>2e387118-1b58-4402-ba54-b4e23e75da33</idB>
       <isBackward>0</isBackward>
       <isType>0</isType>
       <color>0</color>
       <thickness>0</thickness>
       <strength>0</strength>
       <meaning>0</meaning>
-      <creationDateTime>2022-02-10 04:36:11.553 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.553 @+0800</modificationDateTime>
+      <creationDateTime>2022-02-10 04:59:36.813 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.813 @+0800</modificationDateTime>
       <dir>3</dir>
     </Link>
     <Link>
-      <guid>4c18ecf2-5da1-4167-b325-f87728bca798</guid>
-      <idA>ea1d487c-fc5b-4d4a-a2d5-e32baf6ab980</idA>
-      <idB>7a9a42d9-df18-4fb7-9f3b-17e635a05607</idB>
+      <guid>ed687b19-7775-4113-8db8-009962d44f88</guid>
+      <idA>956e9291-26f6-4c5b-9cf6-25491dcc116d</idA>
+      <idB>668193b7-d8b3-4925-b9e0-9e791e994d80</idB>
       <isBackward>0</isBackward>
       <isType>0</isType>
       <color>0</color>
       <thickness>0</thickness>
       <strength>0</strength>
       <meaning>0</meaning>
-      <creationDateTime>2022-02-10 04:36:11.654 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.654 @+0800</modificationDateTime>
+      <creationDateTime>2022-02-10 04:59:36.914 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.914 @+0800</modificationDateTime>
       <dir>1</dir>
     </Link>
     <Link>
-      <guid>7f40146f-92ec-46cc-879f-3622d70d0604</guid>
-      <idA>9de53834-84b6-4f7c-bb47-326fa624e64b</idA>
-      <idB>7a9a42d9-df18-4fb7-9f3b-17e635a05607</idB>
+      <guid>5ddbc4c1-8c7d-425f-9750-2da0248eab0f</guid>
+      <idA>2e387118-1b58-4402-ba54-b4e23e75da33</idA>
+      <idB>668193b7-d8b3-4925-b9e0-9e791e994d80</idB>
       <isBackward>0</isBackward>
       <isType>0</isType>
       <color>0</color>
       <thickness>0</thickness>
       <strength>0</strength>
       <meaning>0</meaning>
-      <creationDateTime>2022-02-10 04:36:11.654 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.654 @+0800</modificationDateTime>
+      <creationDateTime>2022-02-10 04:59:36.914 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.914 @+0800</modificationDateTime>
       <dir>3</dir>
     </Link>
   </Links>
@@ -164,12 +165,12 @@
       <EntryObjects>
         <EntryObject>
           <objectType>0</objectType>
-          <objectID>88a46f81-4c42-4f26-ba6b-e304dcbf410f</objectID>
+          <objectID>f1296f23-9604-4a3a-99a7-21258726163b</objectID>
         </EntryObject>
       </EntryObjects>
-      <guid>c7b498c8-8f37-4d38-8bad-752181ab8596</guid>
-      <creationDateTime>2022-02-10 04:36:11.248 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.248 @+0800</modificationDateTime>
+      <guid>5987db85-008c-4e31-a409-110f4f723123</guid>
+      <creationDateTime>2022-02-10 04:59:36.509 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.509 @+0800</modificationDateTime>
       <body/>
       <format>HTML</format>
     </Entry>
@@ -177,12 +178,12 @@
       <EntryObjects>
         <EntryObject>
           <objectType>0</objectType>
-          <objectID>48ee4af9-4f6e-4885-8328-2e14eae42b40</objectID>
+          <objectID>55e4b6fd-e1bc-4981-a73a-2373b5b022ce</objectID>
         </EntryObject>
       </EntryObjects>
-      <guid>214b5ced-99e9-40b2-bf5f-d35387f273df</guid>
-      <creationDateTime>2022-02-10 04:36:11.451 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.451 @+0800</modificationDateTime>
+      <guid>d5469e66-9706-43fb-bdca-43e4cbe34d30</guid>
+      <creationDateTime>2022-02-10 04:59:36.711 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.711 @+0800</modificationDateTime>
       <body/>
       <format>HTML</format>
     </Entry>
@@ -190,12 +191,12 @@
       <EntryObjects>
         <EntryObject>
           <objectType>0</objectType>
-          <objectID>9de53834-84b6-4f7c-bb47-326fa624e64b</objectID>
+          <objectID>2e387118-1b58-4402-ba54-b4e23e75da33</objectID>
         </EntryObject>
       </EntryObjects>
-      <guid>46c035f5-0f8c-45b8-b95f-d2e9b3b9a489</guid>
-      <creationDateTime>2022-02-10 04:36:11.553 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.553 @+0800</modificationDateTime>
+      <guid>71f652cc-e876-469a-8fa2-a88589011a39</guid>
+      <creationDateTime>2022-02-10 04:59:36.813 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.813 @+0800</modificationDateTime>
       <body/>
       <format>HTML</format>
     </Entry>
@@ -203,12 +204,12 @@
       <EntryObjects>
         <EntryObject>
           <objectType>0</objectType>
-          <objectID>7a9a42d9-df18-4fb7-9f3b-17e635a05607</objectID>
+          <objectID>668193b7-d8b3-4925-b9e0-9e791e994d80</objectID>
         </EntryObject>
       </EntryObjects>
-      <guid>4e18bb0a-0484-49f7-b858-1b60255a2277</guid>
-      <creationDateTime>2022-02-10 04:36:11.654 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.654 @+0800</modificationDateTime>
+      <guid>74800f12-1ebe-4f96-be95-3c0fff817662</guid>
+      <creationDateTime>2022-02-10 04:59:36.914 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.914 @+0800</modificationDateTime>
       <body/>
       <format>HTML</format>
     </Entry>
@@ -216,55 +217,55 @@
   <Attachments>
     <Attachment>
       <AttachmentEntries>
-        <AttachmentEntryID>c7b498c8-8f37-4d38-8bad-752181ab8596</AttachmentEntryID>
+        <AttachmentEntryID>5987db85-008c-4e31-a409-110f4f723123</AttachmentEntryID>
       </AttachmentEntries>
       <attachmentType>3</attachmentType>
       <location>https://academy.zerotomastery.io/courses/enrolled/1238395</location>
-      <creationDateTime>2022-02-10 04:36:11.248 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.248 @+0800</modificationDateTime>
+      <creationDateTime>2022-02-10 04:59:36.509 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.509 @+0800</modificationDateTime>
       <format>.com</format>
-      <guid>7655d52c-39a7-47dd-83b6-1c7c13b476fd</guid>
+      <guid>36ee04f1-6945-4374-a7bb-5949e7d51a0c</guid>
       <name>attachment name</name>
-      <objectID>88a46f81-4c42-4f26-ba6b-e304dcbf410f</objectID>
+      <objectID>f1296f23-9604-4a3a-99a7-21258726163b</objectID>
     </Attachment>
     <Attachment>
       <AttachmentEntries>
-        <AttachmentEntryID>214b5ced-99e9-40b2-bf5f-d35387f273df</AttachmentEntryID>
+        <AttachmentEntryID>d5469e66-9706-43fb-bdca-43e4cbe34d30</AttachmentEntryID>
       </AttachmentEntries>
       <attachmentType>3</attachmentType>
       <location>https://academy.zerotomastery.io/courses/1238395/lectures/27607978</location>
-      <creationDateTime>2022-02-10 04:36:11.451 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.451 @+0800</modificationDateTime>
+      <creationDateTime>2022-02-10 04:59:36.711 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.711 @+0800</modificationDateTime>
       <format>.com</format>
-      <guid>b9a93eb0-8995-4833-b1d0-630727017693</guid>
+      <guid>f1a571fc-319f-4347-801f-66bad16ad34e</guid>
       <name>attachment name</name>
-      <objectID>48ee4af9-4f6e-4885-8328-2e14eae42b40</objectID>
+      <objectID>55e4b6fd-e1bc-4981-a73a-2373b5b022ce</objectID>
     </Attachment>
     <Attachment>
       <AttachmentEntries>
-        <AttachmentEntryID>46c035f5-0f8c-45b8-b95f-d2e9b3b9a489</AttachmentEntryID>
+        <AttachmentEntryID>71f652cc-e876-469a-8fa2-a88589011a39</AttachmentEntryID>
       </AttachmentEntries>
       <attachmentType>3</attachmentType>
       <location>https://academy.zerotomastery.io/courses/1238395/lectures/27607979</location>
-      <creationDateTime>2022-02-10 04:36:11.553 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.553 @+0800</modificationDateTime>
+      <creationDateTime>2022-02-10 04:59:36.813 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.813 @+0800</modificationDateTime>
       <format>.com</format>
-      <guid>17fa15a8-fecf-45c2-a258-c69bade9feed</guid>
+      <guid>7ea5f81c-5b8b-47b7-a18f-0d66ddecfeef</guid>
       <name>attachment name</name>
-      <objectID>9de53834-84b6-4f7c-bb47-326fa624e64b</objectID>
+      <objectID>2e387118-1b58-4402-ba54-b4e23e75da33</objectID>
     </Attachment>
     <Attachment>
       <AttachmentEntries>
-        <AttachmentEntryID>4e18bb0a-0484-49f7-b858-1b60255a2277</AttachmentEntryID>
+        <AttachmentEntryID>74800f12-1ebe-4f96-be95-3c0fff817662</AttachmentEntryID>
       </AttachmentEntries>
       <attachmentType>3</attachmentType>
       <location>https://academy.zerotomastery.io/courses/1238395/lectures/27607977</location>
-      <creationDateTime>2022-02-10 04:36:11.654 @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 04:36:11.654 @+0800</modificationDateTime>
+      <creationDateTime>2022-02-10 04:59:36.914 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 04:59:36.914 @+0800</modificationDateTime>
       <format>.com</format>
-      <guid>828cea47-6086-4377-afee-d6f7049e6ffd</guid>
+      <guid>5862d802-f253-4d54-8b5a-d910ecb87313</guid>
       <name>attachment name</name>
-      <objectID>7a9a42d9-df18-4fb7-9f3b-17e635a05607</objectID>
+      <objectID>668193b7-d8b3-4925-b9e0-9e791e994d80</objectID>
     </Attachment>
   </Attachments>
   <AttributeDatas/>
