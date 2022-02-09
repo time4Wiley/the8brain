@@ -1,15 +1,12 @@
 import { v4 as uuidv4 } from 'uuid';
 
 import {
-  AccessControlType,
   ActivationDateTime,
-  Color,
   CreationDateTime,
   DeletedDateTime,
   DisplayModificationDateTime,
   ForgottenDateTime,
   Guid,
-  IsType,
   Label,
   LinksModificationDateTime,
   Name,
@@ -32,9 +29,9 @@ export class Thought {
   public deletedDateTime: DeletedDateTime;
   public activationDateTime: ActivationDateTime;
   public linksModificationDateTime: LinksModificationDateTime;
-  public isType: IsType;
-  public color: Color;
-  public accessControlType: AccessControlType;
+  public isType: number;
+  public color: number;
+  public accessControlType: number;
 
   public constructor(props?: Thought) {
     if (props) {
@@ -95,6 +92,11 @@ export class Thought {
     thought.creationDateTime = getNowInTheBrainStringFormat();
     thought.realModificationDateTime = getNowInTheBrainStringFormat();
     thought.displayModificationDateTime = getNowInTheBrainStringFormat();
+    thought.isType = 0;
+    thought.color = 0;
+    thought.accessControlType = 0;
+    thought.activationDateTime = getNowInTheBrainStringFormat();
+
     return thought;
   }
 }

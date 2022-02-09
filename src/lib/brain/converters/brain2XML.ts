@@ -13,6 +13,7 @@ export function brain2XML(brain: TheBrain8): XMLBuilder {
     links: ['Links', 'Link'],
     entries: ['Entries', 'Entry'],
     attachments: ['Attachments', 'Attachment'],
+    attributeDatas: ['AttributeDatas', 'AttributeData'],
   };
 
   const sourceElement = eBrainData.ele('Source');
