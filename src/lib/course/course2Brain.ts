@@ -1,9 +1,8 @@
 import fs from 'fs';
 
 import { plainToClass } from 'class-transformer';
-import 'reflect-metadata';
-import { interval, map, take } from 'rxjs';
 
+import 'reflect-metadata';
 import { brain2XML } from '../brain/converters/brain2XML';
 import { TheBrain8 } from '../brain/model/TheBrain8';
 import { Thought } from '../brain/model/Thought';
@@ -44,57 +43,39 @@ export function createBrainForCourse(course: Course): TheBrain8 {
   let lastSectionThought: Thought | null = null;
   let currentSectionThought: Thought | null = null;
 
-  const sections = course.sections;
-  interval(100)
-    .pipe(
-      take(sections.length),
-      map((i) => sections[i])
-    )
-    .subscribe((section) => {
-      console.log(section.title);
-      console.log(Date.now());
+  for (const section of course.sections) {
+    const sectionThought = brain.addThoughtWithTitle(section.title);
 
-      const sectionThought = brain.addThoughtWithTitle(section.title);
+    brain.linkParentToChild(courseThought, sectionThought);
 
-      brain.linkParentToChild(courseThought, sectionThought);
+    currentSectionThought = sectionThought;
+    if (lastSectionThought && currentSectionThought) {
+      brain.jumpLink(lastSectionThought, currentSectionThought);
+    }
 
-      currentSectionThought = sectionThought;
-      if (lastSectionThought && currentSectionThought) {
-        brain.jumpLink(lastSectionThought, currentSectionThought);
+    lastSectionThought = sectionThought;
+
+    let lastLectureThought: Thought | null = null;
+    let currentLectureThought: Thought | null = null;
+
+    for (const lecture of section.lectures) {
+      const lectureThought = brain.addThoughtWithTitleLabelURL(
+        lecture.title,
+        '',
+        lecture.url
+      );
+
+      currentLectureThought = lectureThought;
+
+      brain.linkParentToChild(currentSectionThought, currentLectureThought);
+
+      if (lastLectureThought !== null && currentLectureThought) {
+        brain.jumpLink(lastLectureThought, currentLectureThought);
       }
 
-      lastSectionThought = sectionThought;
-
-      let lastLectureThought: Thought | null = null;
-      let currentLectureThought: Thought | null = null;
-
-      interval(100)
-        .pipe(
-          take(section.lectures.length),
-          map((i) => section.lectures[i])
-        )
-        .subscribe((lecture) => {
-          if (!currentSectionThought) {
-            return;
-          }
-
-          const lectureThought = brain.addThoughtWithTitleLabelURL(
-            lecture.title,
-            '',
-            lecture.url
-          );
-
-          currentLectureThought = lectureThought;
-
-          brain.linkParentToChild(currentSectionThought, currentLectureThought);
-
-          if (lastLectureThought !== null && currentLectureThought) {
-            brain.jumpLink(lastLectureThought, currentLectureThought);
-          }
-
-          lastLectureThought = currentLectureThought;
-        });
-    });
+      lastLectureThought = currentLectureThought;
+    }
+  }
 
   return brain;
 }
