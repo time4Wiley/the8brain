@@ -43,7 +43,7 @@ export function createBrainForCourse(course: Course): TheBrain8 {
   let lastSectionThought: Thought | null = null;
   let currentSectionThought: Thought | null = null;
 
-  for (const section of [course.sections[0]]) {
+  for (const section of course.sections) {
     const sectionThought = brain.addThoughtWithTitle(section.title);
 
     brain.linkParentToChild(courseThought, sectionThought);
@@ -58,7 +58,7 @@ export function createBrainForCourse(course: Course): TheBrain8 {
     let lastLectureThought: Thought | null = null;
     let currentLectureThought: Thought | null = null;
 
-    for (const lecture of [section.lectures[0]]) {
+    for (const lecture of section.lectures) {
       const lectureThought = brain.addThoughtWithTitleLabelURL(
         lecture.title,
         '',
