@@ -27,11 +27,6 @@ export function getSampleCourse() {
   return parseCourseFromJSON(courseJsonString);
 }
 
-const course = getSampleCourse();
-console.log(course);
-// to TheBrain text outline
-// brain.
-// reference the Python Code
 export function createBrainForCourse(course: Course): TheBrain8 {
   const brain = new TheBrain8();
 
