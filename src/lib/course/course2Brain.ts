@@ -6,6 +6,7 @@ import 'reflect-metadata';
 import { brain2XML } from '../brain/converters/brain2XML';
 import { TheBrain8 } from '../brain/model/TheBrain8';
 import { Thought } from '../brain/model/Thought';
+import { sleep } from '../utils';
 // import { Thought } from '../brain/model/Thought';
 import { generateXMLStringFromRootElement } from '../xmlbuilder/xmlBuilderUtil';
 
@@ -44,6 +45,7 @@ export function createBrainForCourse(course: Course): TheBrain8 {
   let currentSectionThought: Thought | null = null;
 
   for (const section of course.sections) {
+    sleep(100);
     const sectionThought = brain.addThoughtWithTitle(section.title);
 
     brain.linkParentToChild(courseThought, sectionThought);
@@ -59,6 +61,8 @@ export function createBrainForCourse(course: Course): TheBrain8 {
     let currentLectureThought: Thought | null = null;
 
     for (const lecture of section.lectures) {
+      sleep(100);
+
       const lectureThought = brain.addThoughtWithTitleLabelURL(
         lecture.title,
         '',
