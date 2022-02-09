@@ -240,8 +240,8 @@ export class TheBrain8 implements IRawParams {
     return thought;
   }
 
-  addThoughtWithTitle(title: string): Thought {
-    const thought = Thought.buildThoughtForTitle(title);
+  addThoughtWithTitle(title: string, label: string): Thought {
+    const thought = Thought.buildThoughtForTitle(title, label);
     this.addThought(thought);
 
     return thought;

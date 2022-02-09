@@ -56,8 +56,7 @@ export class Thought {
     label: string,
     url: string
   ): [thought: Thought, entry: Entry, attachment: Attachment] {
-    const thought = this.buildThoughtForTitle(name);
-    label = 'dummy label';
+    const thought = this.buildThoughtForTitle(name, label);
     thought.label = label;
 
     const attachment = new Attachment();
@@ -85,9 +84,10 @@ export class Thought {
     return [thought, entry, attachment];
   }
 
-  static buildThoughtForTitle(title: string) {
+  static buildThoughtForTitle(title: string, label: string) {
     const thought = new Thought();
     thought.name = title;
+    thought.label = label;
     thought.guid = uuidv4();
     thought.creationDateTime = getNowInTheBrainStringFormat();
     thought.realModificationDateTime = getNowInTheBrainStringFormat();

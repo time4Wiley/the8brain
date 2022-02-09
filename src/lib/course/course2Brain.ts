@@ -32,12 +32,16 @@ console.log(course);
 // to TheBrain text outline
 // brain.
 // reference the Python Code
-export function createBrainForCourse(course: Course): TheBrain8 {
+export function createBrainForCourse(
+  course: Course,
+  meta?: ICourseMeta | undefined
+): TheBrain8 {
   const brain = new TheBrain8();
 
+  const label = [meta?.brand, meta?.abbrev].join(', ');
   const courseThought = brain.addThoughtWithTitleLabelURL(
     course.title,
-    'a label',
+    label,
     course.url
   );
 
@@ -48,7 +52,7 @@ export function createBrainForCourse(course: Course): TheBrain8 {
 
   for (const section of course.sections) {
     sleep(100);
-    const sectionThought = brain.addThoughtWithTitle(section.title);
+    const sectionThought = brain.addThoughtWithTitle(section.title, label);
 
     brain.linkParentToChild(courseThought, sectionThought);
 
@@ -67,7 +71,7 @@ export function createBrainForCourse(course: Course): TheBrain8 {
 
       currentLectureThought = brain.addThoughtWithTitleLabelURL(
         lecture.title,
-        '',
+        label,
         lecture.url
       );
 
@@ -84,8 +88,12 @@ export function createBrainForCourse(course: Course): TheBrain8 {
   return brain;
 }
 
-function courseToBrainXMLAtPath(course: Course, path: string) {
-  const brain = createBrainForCourse(course);
+function courseToBrainXMLAtPath(
+  course: Course,
+  path: string,
+  meta: ICourseMeta | undefined
+) {
+  const brain = createBrainForCourse(course, meta);
 
   const root = brain2XML(brain);
 
@@ -96,10 +104,13 @@ function courseToBrainXMLAtPath(course: Course, path: string) {
 export function sampleJSONFileToBrainXML(path: string) {
   const course = getSampleCourse();
 
-  courseToBrainXMLAtPath(course, path);
+  const brand = 'ZTM';
+  const abbrev = 'JS';
+
+  courseToBrainXMLAtPath(course, path, { brand, abbrev });
 }
 
-function fromClipboardJsonToBrainXML(xmlPath: string) {
+function fromClipboardJsonToBrainXML(xmlPath: string, meta?: ICourseMeta) {
   const content = paste();
 
   if (!isJsonString(content)) {
@@ -108,8 +119,18 @@ function fromClipboardJsonToBrainXML(xmlPath: string) {
 
   const course = parseCourseFromJSON(content);
 
-  courseToBrainXMLAtPath(course, xmlPath);
+  courseToBrainXMLAtPath(course, xmlPath, meta);
 }
 
 const xmlPath = '/Users/wei/Lobby/the8brain/src/data/generated_again.xml';
-fromClipboardJsonToBrainXML(xmlPath);
+
+interface ICourseMeta {
+  brand: string;
+  abbrev: string;
+}
+
+const courseMeta: ICourseMeta = {
+  brand: 'ZTM',
+  abbrev: 'FPY',
+};
+fromClipboardJsonToBrainXML(xmlPath, courseMeta);
