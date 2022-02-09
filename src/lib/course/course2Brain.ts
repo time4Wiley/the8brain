@@ -12,11 +12,20 @@ import { generateXMLStringFromRootElement } from '../xmlbuilder/xmlBuilderUtil';
 
 import { Course } from './Course';
 
-function parseCourseFromJSON(courseJsonString: string) {
-  const courseJsonFromChrome = JSON.parse(courseJsonString);
+function checkIsCourseJsonString(
+  jsonString: string
+): [isCourse: boolean, json: any] {
+  const courseJsonFromChrome = JSON.parse(jsonString);
 
-  const courses = plainToClass(Course, [courseJsonFromChrome]);
-  return courses[0];
+  const isCourse =
+    courseJsonFromChrome['meta'] && courseJsonFromChrome['title'];
+  return [isCourse, isCourse ? courseJsonFromChrome : null];
+}
+
+function parseCourseFromJSON(courseJsonString: string) {
+  const [isCourse, json] = checkIsCourseJsonString(courseJsonString);
+
+  return isCourse ? plainToClass(Course, [json])[0] : null;
 }
 
 export function getSampleCourse() {
@@ -91,6 +100,9 @@ function courseToBrainXMLAtPath(course: Course, path: string) {
 
 export function sampleJSONFileToBrainXML(path: string) {
   const course = getSampleCourse();
+  if (!course) {
+    throw new Error('sample json is not a course!');
+  }
 
   courseToBrainXMLAtPath(course, path);
 }
@@ -103,6 +115,10 @@ function fromClipboardJsonToBrainXML(xmlPath: string) {
   }
 
   const course = parseCourseFromJSON(content);
+
+  if (!course) {
+    throw new Error('sample json is not a course!');
+  }
 
   courseToBrainXMLAtPath(course, xmlPath);
 }
