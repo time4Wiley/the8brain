@@ -14,15 +14,20 @@
   <Attributes/>
   <Thoughts>
     <Thought>
-      <name>a ZTM course: L2L</name>
       <guid>378b0bf4-962c-49d4-910d-5c07fe5aee3e</guid>
+      <name>a ZTM course: L2L</name>
+      <label>dummy label</label>
       <creationDateTime>2022-02-10 00:04:06.350 @+0800</creationDateTime>
       <realModificationDateTime>2022-02-10 00:04:06.354 @+0800</realModificationDateTime>
       <displayModificationDateTime>2022-02-10 00:04:06.354 @+0800</displayModificationDateTime>
-      <label>dummy label</label>
+      <activationDateTime>2022-02-09 23:45:38.502 @+0800</activationDateTime>
+      <isType>0</isType>
+      <color>0</color>
+      <accessControlType>0</accessControlType>
     </Thought>
   </Thoughts>
   <Links/>
+  <AttributeDatas/>
   <Entries>
     <Entry>
       <EntryObjects>
