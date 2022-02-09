@@ -11,16 +11,7 @@ import { isJsonString, sleep } from '../utils';
 import { generateXMLStringFromRootElement } from '../xmlbuilder/xmlBuilderUtil';
 
 import { Course } from './Course';
-
-function checkIsCourseJsonString(
-  jsonString: string
-): [isCourse: boolean, json: any] {
-  const courseJsonFromChrome = JSON.parse(jsonString);
-
-  const isCourse =
-    courseJsonFromChrome['meta'] && courseJsonFromChrome['title'];
-  return [isCourse, isCourse ? courseJsonFromChrome : null];
-}
+import { checkIsCourseJsonString } from './courseUtils';
 
 function parseCourseFromJSON(courseJsonString: string) {
   const [isCourse, json] = checkIsCourseJsonString(courseJsonString);
