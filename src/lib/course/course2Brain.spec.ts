@@ -1,9 +1,9 @@
 import test, { ExecutionContext } from 'ava';
 
-import { fromCourseJsonToBrainXML } from './course2Brain';
+import { sampleJSONFileToBrainXML } from './course2Brain';
 
 test('course2brain', (t: ExecutionContext) => {
-  fromCourseJsonToBrainXML();
+  sampleJSONFileToBrainXML();
 
   t.true(true);
 });

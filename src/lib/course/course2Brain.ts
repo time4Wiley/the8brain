@@ -93,7 +93,7 @@ function courseToBrainXMLAtPath(course: Course, path: string) {
   fs.writeFileSync(path, xmlString);
 }
 
-export function fromCourseJsonToBrainXML(path: string) {
+export function sampleJSONFileToBrainXML(path: string) {
   const course = getSampleCourse();
 
   courseToBrainXMLAtPath(course, path);
