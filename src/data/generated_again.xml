@@ -2,22 +2,23 @@
 <!DOCTYPE BrainData>
 <BrainData>
   <Source>
-    <guid>1cf962ad-bb99-45e9-b9dc-5bec8a5634ff</guid>
+    <guid>92db00e7-18ce-4014-a8ca-3941338d27bf</guid>
     <name>course brain</name>
-    <homeThoughtGuid>fffed353-3439-45d9-b31c-0cf95c23f375</homeThoughtGuid>
-    <generatedDateTime>2022-02-10 00:01:19.498  @+0800</generatedDateTime>
-    <modificationDateTime>2022-02-10 00:01:19.498  @+0800</modificationDateTime>
     <personalBrainVersion>8022</personalBrainVersion>
     <telepathyVersion>10</telepathyVersion>
+    <fileRoot>C:\Users\wei\Documents\course brain_brain\Files</fileRoot>
+    <generatedDateTime>2022-02-10 00:04:06.355 @+0800</generatedDateTime>
+    <homeThoughtGuid>378b0bf4-962c-49d4-910d-5c07fe5aee3e</homeThoughtGuid>
+    <modificationDateTime>2022-02-10 00:04:06.355 @+0800</modificationDateTime>
   </Source>
   <Attributes/>
   <Thoughts>
     <Thought>
       <name>a ZTM course: L2L</name>
-      <guid>fffed353-3439-45d9-b31c-0cf95c23f375</guid>
-      <creationDateTime>2022-02-10 00:01:19.494  @+0800</creationDateTime>
-      <realModificationDateTime>2022-02-10 00:01:19.497  @+0800</realModificationDateTime>
-      <displayModificationDateTime>2022-02-10 00:01:19.497  @+0800</displayModificationDateTime>
+      <guid>378b0bf4-962c-49d4-910d-5c07fe5aee3e</guid>
+      <creationDateTime>2022-02-10 00:04:06.350 @+0800</creationDateTime>
+      <realModificationDateTime>2022-02-10 00:04:06.354 @+0800</realModificationDateTime>
+      <displayModificationDateTime>2022-02-10 00:04:06.354 @+0800</displayModificationDateTime>
       <label>dummy label</label>
     </Thought>
   </Thoughts>
@@ -27,12 +28,12 @@
       <EntryObjects>
         <EntryObject>
           <objectType>0</objectType>
-          <objectID>fffed353-3439-45d9-b31c-0cf95c23f375</objectID>
+          <objectID>378b0bf4-962c-49d4-910d-5c07fe5aee3e</objectID>
         </EntryObject>
       </EntryObjects>
-      <guid>652c4de9-1491-4475-99d9-ace38739620c</guid>
-      <creationDateTime>2022-02-10 00:01:19.498  @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 00:01:19.498  @+0800</modificationDateTime>
+      <guid>11cbcd9b-5abd-41b0-a6c8-e7a61f4c9009</guid>
+      <creationDateTime>2022-02-10 00:04:06.354 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 00:04:06.354 @+0800</modificationDateTime>
       <body/>
       <format>HTML</format>
     </Entry>
@@ -40,16 +41,16 @@
   <Attachments>
     <Attachment>
       <AttachmentEntries>
-        <AttachmentEntryID>652c4de9-1491-4475-99d9-ace38739620c</AttachmentEntryID>
+        <AttachmentEntryID>11cbcd9b-5abd-41b0-a6c8-e7a61f4c9009</AttachmentEntryID>
       </AttachmentEntries>
       <attachmentType>3</attachmentType>
       <location>http://zerotomastery.io</location>
-      <creationDateTime>2022-02-10 00:01:19.497  @+0800</creationDateTime>
-      <modificationDateTime>2022-02-10 00:01:19.497  @+0800</modificationDateTime>
+      <creationDateTime>2022-02-10 00:04:06.354 @+0800</creationDateTime>
+      <modificationDateTime>2022-02-10 00:04:06.354 @+0800</modificationDateTime>
       <format>.com</format>
-      <guid>87e9de11-dc42-457e-804a-79dcf56cb6e1</guid>
+      <guid>0fb4435e-fab6-41f9-816c-2904494ca71b</guid>
       <name>attachment name</name>
-      <objectID>fffed353-3439-45d9-b31c-0cf95c23f375</objectID>
+      <objectID>378b0bf4-962c-49d4-910d-5c07fe5aee3e</objectID>
     </Attachment>
   </Attachments>
 </BrainData>
