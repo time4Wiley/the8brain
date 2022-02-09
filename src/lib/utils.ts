@@ -10,3 +10,12 @@ export function pbCopy(data: string) {
 export function getNowInTheBrainStringFormat() {
   return moment(new Date()).format('yyyy-MM-DD HH:mm:ss.SSS') + ' @+0800';
 }
+
+export function sleep(milliseconds: number) {
+  const start = new Date().getTime();
+  for (let i = 0; i < 1e7; i++) {
+    if (new Date().getTime() - start > milliseconds) {
+      break;
+    }
+  }
+}
