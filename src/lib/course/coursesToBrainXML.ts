@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
+import { BrainConfig } from '../brain/brainConfig';
 import { brain2XML } from '../brain/converters/brain2XML';
 import { TheBrain8 } from '../brain/model/TheBrain8';
 import { sleep } from '../utils';
@@ -45,7 +46,7 @@ function coursesToBrainXMLAtPath(courses: Course[], xmlPath: string) {
   oneBrain.addSourceWithHomeThought(brandThought.guid, brand);
 
   for (const brain of brains) {
-    sleep(100);
+    sleep(BrainConfig.sleep);
 
     oneBrain.linkParentToChild(brandThought, brain.thoughts[0]);
 

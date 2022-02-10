@@ -4,6 +4,7 @@ import { plainToClass } from 'class-transformer';
 import { paste } from 'copy-paste';
 
 import 'reflect-metadata';
+import { BrainConfig } from '../brain/brainConfig';
 import { brain2XML } from '../brain/converters/brain2XML';
 import { TheBrain8 } from '../brain/model/TheBrain8';
 import { Thought } from '../brain/model/Thought';
@@ -43,7 +44,7 @@ export function createBrainForCourse(course: Course): TheBrain8 {
   let currentSectionThought: Thought | null = null;
 
   for (const section of course.sections) {
-    sleep(100);
+    sleep(BrainConfig.sleep);
     const sectionThought = brain.addThoughtWithTitle(section.title, label);
 
     brain.linkParentToChild(courseThought, sectionThought);
@@ -59,7 +60,7 @@ export function createBrainForCourse(course: Course): TheBrain8 {
     let currentLectureThought: Thought | null = null;
 
     for (const lecture of section.lectures) {
-      sleep(100);
+      sleep(BrainConfig.sleep);
 
       currentLectureThought = brain.addThoughtWithTitleLabelURL(
         lecture.title,
