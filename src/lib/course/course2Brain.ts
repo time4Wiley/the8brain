@@ -1,18 +1,18 @@
 import fs from 'fs';
 
-import { plainToClass } from 'class-transformer';
-import { paste } from 'copy-paste';
+import {plainToClass} from 'class-transformer';
+import {paste} from 'copy-paste';
 
 import 'reflect-metadata';
-import { BrainConfig } from '../brain/brainConfig';
-import { brain2XML } from '../brain/converters/brain2XML';
-import { TheBrain8 } from '../brain/model/TheBrain8';
-import { Thought } from '../brain/model/Thought';
-import { isJsonString, sleep } from '../utils';
-import { generateXMLStringFromRootElement } from '../xmlbuilder/xmlBuilderUtil';
+import {BrainConfig} from '../brain/brainConfig';
+import {brain2XML} from '../brain/converters/brain2XML';
+import {TheBrain8} from '../brain/model/TheBrain8';
+import {Thought} from '../brain/model/Thought';
+import {isJsonString, sleep} from '../utils';
+import {generateXMLStringFromRootElement} from '../xmlbuilder/xmlBuilderUtil';
 
-import { Course } from './Course';
-import { checkIsCourseJsonString } from './courseUtils';
+import {Course} from './Course';
+import {checkIsCourseJsonString} from './courseUtils';
 
 export function parseCourseFromJSON(courseJsonString: string) {
   const [isCourse, json] = checkIsCourseJsonString(courseJsonString);
@@ -26,6 +26,10 @@ export function getSampleCourse() {
     'utf-8'
   );
   return parseCourseFromJSON(courseJsonString);
+}
+
+function prefixTitleWithIndex(title: string, index: number) {
+  return `${index}, ${title}`;
 }
 
 export function createBrainForCourse(course: Course): TheBrain8 {
@@ -43,10 +47,12 @@ export function createBrainForCourse(course: Course): TheBrain8 {
   let lastSectionThought: Thought | null = null;
   let currentSectionThought: Thought | null = null;
 
+  let sectionIndex = 1;
   for (const section of course.sections) {
     sleep(BrainConfig.sleep);
-    const sectionThought = brain.addThoughtWithTitle(section.title, label);
-
+    const thoughtNameForSection = prefixTitleWithIndex(section.title, sectionIndex)
+    const sectionThought = brain.addThoughtWithTitle(thoughtNameForSection, label);
+    sectionIndex++;
     brain.linkParentToChild(courseThought, sectionThought);
 
     currentSectionThought = sectionThought;
@@ -59,14 +65,17 @@ export function createBrainForCourse(course: Course): TheBrain8 {
     let lastLectureThought: Thought | null = null;
     let currentLectureThought: Thought | null = null;
 
+    let lectureIndex = 1;
     for (const lecture of section.lectures) {
       sleep(BrainConfig.sleep);
 
       currentLectureThought = brain.addThoughtWithTitleLabelURL(
-        lecture.title,
+        prefixTitleWithIndex(lecture.title, lectureIndex),
         label,
         lecture.url
       );
+
+      lectureIndex++;
 
       brain.linkParentToChild(currentSectionThought, currentLectureThought);
 

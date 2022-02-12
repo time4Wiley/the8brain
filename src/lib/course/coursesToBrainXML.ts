@@ -11,7 +11,6 @@ import { Course } from './Course';
 import { createBrainForCourse, parseCourseFromJSON } from './course2Brain';
 
 function coursesFromPath(pathForCourseJsonFiles: string) {
-  console.log(pathForCourseJsonFiles);
 
   const files = fs.readdirSync(pathForCourseJsonFiles);
 
