@@ -48,7 +48,7 @@ function coursesToBrainXMLAtPath(courses: Course[], xmlPath: string) {
     '',
     'https://zerotomastery.io'
   );
-  oneBrain.addSourceWithHomeThought(brandThought.guid, brand);
+  oneBrain.addSourceWithHomeThought(brandThought.guid, brand, fileRoot);
 
   for (const brain of brains) {
     sleep(BrainConfig.sleep);
