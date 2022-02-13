@@ -69,7 +69,7 @@ function main() {
 
   coursesToBrainXMLAtPath(
     courses,
-    '/Users/wei/Lobby/the8brain/src/data/generated_again.xml'
+    '/Users/wei/mybrain/temp/course_brain_xml/generated_again.xml'
   );
 }
 
