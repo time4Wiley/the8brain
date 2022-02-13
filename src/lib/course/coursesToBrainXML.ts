@@ -30,10 +30,16 @@ function coursesFromPath(pathForCourseJsonFiles: string) {
   return courses;
 }
 
-const courses = coursesFromPath('/Users/wei/Lobby/the8brain/src/data/courses');
-
 function coursesToBrainXMLAtPath(courses: Course[], xmlPath: string) {
-  const brains = courses.map(createBrainForCourse);
+  const fileRoot = path.basename(xmlPath);
+
+  function createBrainForCourseWithFileRoot(fileRoot: string):((course: Course) => TheBrain8) {
+    return function (course: Course) {
+      return createBrainForCourse(course, fileRoot)
+    }
+  }
+
+  const brains = courses.map(createBrainForCourseWithFileRoot(fileRoot));
 
   const oneBrain = new TheBrain8();
   const brand = 'ZTM';
@@ -58,7 +64,15 @@ function coursesToBrainXMLAtPath(courses: Course[], xmlPath: string) {
   fs.writeFileSync(xmlPath, xmlString);
 }
 
-coursesToBrainXMLAtPath(
-  courses,
-  '/Users/wei/Lobby/the8brain/src/data/generated_again.xml'
-);
+function main() {
+  const courses = coursesFromPath('/Users/wei/Lobby/the8brain/src/data/courses');
+
+  coursesToBrainXMLAtPath(
+    courses,
+    '/Users/wei/Lobby/the8brain/src/data/generated_again.xml'
+  );
+}
+
+main()
+
+

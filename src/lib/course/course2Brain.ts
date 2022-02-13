@@ -1,4 +1,5 @@
 import fs from 'fs';
+import path from 'path';
 
 import {plainToClass} from 'class-transformer';
 import {paste} from 'copy-paste';
@@ -13,6 +14,7 @@ import {generateXMLStringFromRootElement} from '../xmlbuilder/xmlBuilderUtil';
 
 import {Course} from './Course';
 import {checkIsCourseJsonString} from './courseUtils';
+
 
 export function parseCourseFromJSON(courseJsonString: string) {
   const [isCourse, json] = checkIsCourseJsonString(courseJsonString);
@@ -32,7 +34,7 @@ function prefixTitleWithIndex(title: string, index: number) {
   return `${index}, ${title}`;
 }
 
-export function createBrainForCourse(course: Course): TheBrain8 {
+export function createBrainForCourse(course: Course, fileRoot:string): TheBrain8 {
   const brain = new TheBrain8();
 
   const label = [course.meta?.brand, course.meta?.abbrev].join(', ');
@@ -42,7 +44,7 @@ export function createBrainForCourse(course: Course): TheBrain8 {
     course.url
   );
 
-  brain.addSourceWithHomeThought(courseThought.guid, 'course brain');
+  brain.addSourceWithHomeThought(courseThought.guid, 'course brain', fileRoot);
 
   let lastSectionThought: Thought | null = null;
   let currentSectionThought: Thought | null = null;
@@ -90,13 +92,13 @@ export function createBrainForCourse(course: Course): TheBrain8 {
   return brain;
 }
 
-function courseToBrainXMLAtPath(course: Course, path: string) {
-  const brain = createBrainForCourse(course);
+function courseToBrainXMLAtPath(course: Course, xmlPath: string) {
+  const brain = createBrainForCourse(course, path.basename(xmlPath));
 
   const root = brain2XML(brain);
 
   const xmlString = generateXMLStringFromRootElement(root);
-  fs.writeFileSync(path, xmlString);
+  fs.writeFileSync(xmlPath, xmlString);
 }
 
 export function sampleJSONFileToBrainXML(path: string) {

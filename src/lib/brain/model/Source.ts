@@ -38,7 +38,7 @@ export class Source {
 
   static buildSourceForHomeThoughtIDWithName(
     homeThoughtGuid: Guid,
-    brainName: string
+    brainName: string, fileRoot= ''
   ) {
     const source = new Source();
     source.guid = uuidv4();
@@ -48,7 +48,7 @@ export class Source {
     source.modificationDateTime = getNowInTheBrainStringFormat();
     source.personalBrainVersion = 8022;
     source.telepathyVersion = 10;
-    source.fileRoot = '/Users/wei/temp/';
+    source.fileRoot = fileRoot;
     return source;
   }
 }

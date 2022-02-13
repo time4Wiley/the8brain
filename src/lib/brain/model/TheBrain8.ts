@@ -260,10 +260,11 @@ export class TheBrain8 implements IRawParams {
     this.addLink(Link.build(tA.guid, tB.guid, LinkDir.Jump));
   }
 
-  addSourceWithHomeThought(homeThoughtGuid: Guid, brainName: string): void {
+  addSourceWithHomeThought(homeThoughtGuid: Guid, brainName: string, fileRoot=''): void {
     this.source = Source.buildSourceForHomeThoughtIDWithName(
       homeThoughtGuid,
-      brainName
+      brainName,
+      fileRoot,
     );
   }
 
